@@ -1,0 +1,429 @@
+[
+  {
+    "acronyme": "MDG",
+    "description": "Directeur de département",
+    "email": "mdegeer@he2b.be",
+    "nom": "Mikaël Degeer",
+    "statut": "directeur"
+  },
+  {
+    "acronyme": "TAS",
+    "description": "Sécrétariat de direction",
+    "email": "ttasdagitici@he2b.be",
+    "nom": "Tugba Tasdagitici",
+    "statut": "administratif"
+  },
+  {
+    "acronyme": "CMA",
+    "description": "Secrétariat étudiant·es",
+    "email": "cmartins@he2b.be",
+    "nom": "Carine Martins",
+    "statut": "administratif"
+  },
+  {
+    "acronyme": "SMM",
+    "description": "Secrétariat étudiant·es",
+    "email": "smatos@he2b.be",
+    "nom": "Soraia Matos Martins",
+    "statut": "administratif"
+  },
+  {
+    "acronyme": "ARE",
+    "description": "Assistante sociale",
+    "email": "arezzouki@he2b.be",
+    "nom": "Amal Rezzouki",
+    "statut": "administratif"
+  },
+  {
+    "acronyme": "JGR",
+    "description": "Service logistique et documentation",
+    "email": "jgrou@he2b.be",
+    "nom": "José Grou",
+    "statut": "administratif"
+  },
+  {
+    "acronyme": "FMA",
+    "description": "Service informatique",
+    "email": "fmarchal@he2b.be",
+    "nom": "Frédéric Marchal",
+    "statut": "technique"
+  },
+  {
+    "acronyme": "MPI",
+    "description": "Service informatique",
+    "email": "mpichot@he2b.be",
+    "nom": "Mickaël Pichot",
+    "statut": "technique"
+  },
+  {
+    "acronyme": "GRI",
+    "description": "Service technique",
+    "email": "grindone@he2b.be",
+    "nom": "Giuseppe Rindone",
+    "statut": "technique"
+  },
+  {
+    "acronyme": "BRA",
+    "description": "Service entretien",
+    "email": "brami@he2b.be",
+    "nom": "Ben Youness Rami",
+    "statut": "ouvrier"
+  },
+  {
+    "acronyme": "STE",
+    "description": "Service entretien",
+    "email": "stekir@he2b.be",
+    "nom": "Sadik Tekir",
+    "statut": "ouvrier"
+  },
+  {
+    "acronyme": "LVI",
+    "description": "Service entretien",
+    "email": "lvillaroel@he2b.be",
+    "nom": "Liliana Villaroel",
+    "statut": "ouvrier"
+  },
+  {
+    "acronyme": "TBH",
+    "description": "Service entretien",
+    "email": "tbelghitihassani@he2b.be",
+    "nom": "Tahar Belghiti Hassani",
+    "statut": "ouvrier"
+  },
+  {
+    "acronyme": "APA",
+    "description": "",
+    "email": "apaquot@he2b.be",
+    "nom": "Arthur Paquot",
+    "statut": "ancien"
+  },
+  {
+    "acronyme": "CLR",
+    "description": "",
+    "email": "cleruste@he2b.be",
+    "nom": "Catherine Leruste",
+    "statut": "ancien"
+  },
+  {
+    "acronyme": "FPL",
+    "description": "",
+    "email": "fpluquet@he2b.be",
+    "nom": "Frédéric Pluquet",
+    "statut": "ancien"
+  },
+  {
+    "acronyme": "MCD",
+    "description": "",
+    "email": "mcodutti@he2b.be",
+    "nom": "Marco Codutti",
+    "statut": "ancien"
+  },
+  {
+    "acronyme": "NPX",
+    "description": "",
+    "email": "npettiaux@he2b.be",
+    "nom": "Nicolas Pettiaux",
+    "statut": "ancien"
+  },
+  {
+    "acronyme": "ABS",
+    "description": "",
+    "email": "rabsil@he2b.be",
+    "nom": "Romain Absil",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "ARO",
+    "description": "",
+    "email": "arousseau@he2b.be",
+    "nom": "Anne Rousseau",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "BEJ",
+    "description": "",
+    "email": "jbeleho@he2b.be",
+    "nom": "Jonas Beleho",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "BFE",
+    "description": "",
+    "email": "bfetai@he2b.be",
+    "nom": "Besa Fetai",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "BIS",
+    "description": "",
+    "email": "pbischop@he2b.be",
+    "nom": "Patrick Bischop",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "CLG",
+    "description": "",
+    "email": "cleignel@he2b.be",
+    "nom": "Christine Leignel",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "CUV",
+    "description": "",
+    "email": "gcuvelier@he2b.be",
+    "nom": "Geneviève Cuvelier",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "DBO",
+    "description": "",
+    "email": "dboigelot@he2b.be",
+    "nom": "Denis Boigelot",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "DNA",
+    "description": "",
+    "email": "dnabet@he2b.be",
+    "nom": "David Nabet",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "EGR",
+    "description": "",
+    "email": "egeorges@he2b.be",
+    "nom": "Eric Georges",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "GVH",
+    "description": "",
+    "email": "gvanassche@he2b.be",
+    "nom": "Gilles Van Assche",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "JDS",
+    "description": "",
+    "email": "jdossogne@he2b.be",
+    "nom": "Jérôme Dossogne",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "JLC",
+    "description": "",
+    "email": "jlechien@he2b.be",
+    "nom": "Jonathan Lechien",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "JSS",
+    "description": "",
+    "email": "jstoffen@he2b.be",
+    "nom": "Jean-Sébastien Stoffen",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "JST",
+    "description": "",
+    "email": "jstanojevic@he2b.be",
+    "nom": "Jovana Stanojevic",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "LBC",
+    "description": "",
+    "email": "lbeeckmans@he2b.be",
+    "nom": "Laurent Beeckmans",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "LMA",
+    "description": "",
+    "email": "lamartinez@he2b.be",
+    "nom": "Luis Martinez Sanchez",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "MAP",
+    "description": "",
+    "email": "mapplaincourt@he2b.be",
+    "nom": "Michel Applaincourt",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "MBA",
+    "description": "",
+    "email": "mbastreghi@he2b.be",
+    "nom": "Monica Bastreghi",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "MHI",
+    "description": "",
+    "email": "mhadjili@he2b.be",
+    "nom": "Mohamed Hadjili",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "MWA",
+    "description": "",
+    "email": "mwahid@he2b.be",
+    "nom": "Moussa Wahid",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "NDM",
+    "description": "",
+    "email": "ndemontigny@he2b.be",
+    "nom": "Nathalie de Montigny",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "NRI",
+    "description": "",
+    "email": "nrichard@he2b.be",
+    "nom": "Nicolas Richard",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "NVS",
+    "description": "",
+    "email": "nvansteenkiste@he2b.be",
+    "nom": "Nicolas Vansteenkiste",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "PBT",
+    "description": "",
+    "email": "pbettens@he2b.be",
+    "nom": "Pierre Bettens",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "PMA",
+    "description": "",
+    "email": "pmatsos@he2b.be",
+    "nom": "Pantelis Matsos",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "RMA",
+    "description": "",
+    "email": "rmathieu@he2b.be",
+    "nom": "Rudy Mathieu",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "SDR",
+    "description": "",
+    "email": "sdrobisz@he2b.be",
+    "nom": "Sébastien Drobisz",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "SRE",
+    "description": "",
+    "email": "srexhep@he2b.be",
+    "nom": "Selim Rexhep",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "SRV",
+    "description": "",
+    "email": "fservais@he2b.be",
+    "nom": "Frédéric Servais",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "TSE",
+    "description": "",
+    "email": "tsevers@he2b.be",
+    "nom": "Thierry Severs",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "XPA",
+    "description": "",
+    "email": "xpaulus@he2b.be",
+    "nom": "Xavier Paulus",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "PHA",
+    "description": "",
+    "email": "phauweele@he2b.be",
+    "nom": "Pierre Hauweele",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "DHA",
+    "description": "",
+    "email": "dhauweele@he2b.be",
+    "nom": "David Hauweele",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "TNI",
+    "description": "",
+    "email": "tnicodeme@he2b.be",
+    "nom": "Thibaut Nicodeme",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "YVO",
+    "description": "",
+    "email": "yvoglaire@he2b.be",
+    "nom": "Yannick Voglaire",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "SDE",
+    "description": "",
+    "email": "sdeltombe@he2b.be",
+    "nom": "Sophie Deltombe",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "FSA",
+    "description": "",
+    "email": "fsana@he2b.be",
+    "nom": "François Sana",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "HAL",
+    "description": "",
+    "email": "ahallal@he2b.be",
+    "nom": "Amine Hallal",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "TSM",
+    "description": "",
+    "email": "tsimon@he2b.be",
+    "nom": "Thierry Simon",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "QHB",
+    "description": "",
+    "email": "qhouben@he2b.be",
+    "nom": "Quentin Houben",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "MBR",
+    "description": "",
+    "email": "mburda@he2b.be",
+    "nom": "Marcelo Burda",
+    "statut": "enseignant"
+  },
+  {
+    "acronyme": "BYS",
+    "description": "",
+    "email": "byass@he2b.be",
+    "nom": "Benjamin Yasse",
+    "statut": "enseignant"
+  }
+]
