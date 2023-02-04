@@ -6,10 +6,9 @@ METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:Cours-10765-22-CPRG4-cpr-Index-Education
-SUMMARY:CPRG4-cpr - MWA - D111\, D112\, D121\, D122 - [object Object] - [ob
-	ject Object]\,[object Object]\,[object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:CPRG4-cpr - MWA - D111\, D112\, D121\, D122 - MWA - WAHID Moussa - 
+	D111 D112 D121 D122
+DTSTAMP:20230204T180900Z
 DTSTART:20230207T071500Z
 DTEND:20230207T091500Z
 DESCRIPTION:-
@@ -17,10 +16,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10765-23-CPRG4-cpr-Index-Education
-SUMMARY:CPRG4-cpr - MWA - D111\, D112\, D121\, D122 - [object Object] - [ob
-	ject Object]\,[object Object]\,[object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:CPRG4-cpr - MWA - D111\, D112\, D121\, D122 - MWA - WAHID Moussa - 
+	D111 D112 D121 D122
+DTSTAMP:20230204T180900Z
 DTSTART:20230214T071500Z
 DTEND:20230214T091500Z
 DESCRIPTION:-
@@ -28,10 +26,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10765-25-CPRG4-cpr-Index-Education
-SUMMARY:CPRG4-cpr - MWA - D111\, D112\, D121\, D122 - [object Object] - [ob
-	ject Object]\,[object Object]\,[object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:CPRG4-cpr - MWA - D111\, D112\, D121\, D122 - MWA - WAHID Moussa - 
+	D111 D112 D121 D122
+DTSTAMP:20230204T180900Z
 DTSTART:20230228T071500Z
 DTEND:20230228T091500Z
 DESCRIPTION:-
@@ -39,10 +36,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10765-26-CPRG4-cpr-Index-Education
-SUMMARY:CPRG4-cpr - MWA - D111\, D112\, D121\, D122 - [object Object] - [ob
-	ject Object]\,[object Object]\,[object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:CPRG4-cpr - MWA - D111\, D112\, D121\, D122 - MWA - WAHID Moussa - 
+	D111 D112 D121 D122
+DTSTAMP:20230204T180900Z
 DTSTART:20230307T071500Z
 DTEND:20230307T091500Z
 DESCRIPTION:-
@@ -50,10 +46,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10765-27-CPRG4-cpr-Index-Education
-SUMMARY:CPRG4-cpr - MWA - D111\, D112\, D121\, D122 - [object Object] - [ob
-	ject Object]\,[object Object]\,[object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:CPRG4-cpr - MWA - D111\, D112\, D121\, D122 - MWA - WAHID Moussa - 
+	D111 D112 D121 D122
+DTSTAMP:20230204T180900Z
 DTSTART:20230314T071500Z
 DTEND:20230314T091500Z
 DESCRIPTION:-
@@ -61,10 +56,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10765-28-CPRG4-cpr-Index-Education
-SUMMARY:CPRG4-cpr - MWA - D111\, D112\, D121\, D122 - [object Object] - [ob
-	ject Object]\,[object Object]\,[object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:CPRG4-cpr - MWA - D111\, D112\, D121\, D122 - MWA - WAHID Moussa - 
+	D111 D112 D121 D122
+DTSTAMP:20230204T180900Z
 DTSTART:20230321T071500Z
 DTEND:20230321T091500Z
 DESCRIPTION:-
@@ -73,12 +67,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10645-22-DEV2-jav-Index-Education
 SUMMARY:DEV2-jav - MBR - B111\, B112\, B113\, B121\, B122\, B123\, B131\, B
-	132\, B133 - [object Object] - [object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-	\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obj
-	ect Object]\,[object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]
-DTSTAMP:20230204T172400Z
+	132\, B133 - MBR - BURDA Marcelo - B111 B112 B113 B121 B122 B123 B131 B132
+	 B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230206T150000Z
 DTEND:20230206T170000Z
 DESCRIPTION:-
@@ -87,12 +78,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10645-23-DEV2-jav-Index-Education
 SUMMARY:DEV2-jav - MBR - B111\, B112\, B113\, B121\, B122\, B123\, B131\, B
-	132\, B133 - [object Object] - [object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-	\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obj
-	ect Object]\,[object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]
-DTSTAMP:20230204T172400Z
+	132\, B133 - MBR - BURDA Marcelo - B111 B112 B113 B121 B122 B123 B131 B132
+	 B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230213T150000Z
 DTEND:20230213T170000Z
 DESCRIPTION:-
@@ -101,12 +89,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10645-25-DEV2-jav-Index-Education
 SUMMARY:DEV2-jav - MBR - B111\, B112\, B113\, B121\, B122\, B123\, B131\, B
-	132\, B133 - [object Object] - [object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-	\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obj
-	ect Object]\,[object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]
-DTSTAMP:20230204T172400Z
+	132\, B133 - MBR - BURDA Marcelo - B111 B112 B113 B121 B122 B123 B131 B132
+	 B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230227T150000Z
 DTEND:20230227T170000Z
 DESCRIPTION:-
@@ -115,12 +100,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10645-26-DEV2-jav-Index-Education
 SUMMARY:DEV2-jav - MBR - B111\, B112\, B113\, B121\, B122\, B123\, B131\, B
-	132\, B133 - [object Object] - [object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-	\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obj
-	ect Object]\,[object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]
-DTSTAMP:20230204T172400Z
+	132\, B133 - MBR - BURDA Marcelo - B111 B112 B113 B121 B122 B123 B131 B132
+	 B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230306T150000Z
 DTEND:20230306T170000Z
 DESCRIPTION:-
@@ -129,12 +111,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10645-27-DEV2-jav-Index-Education
 SUMMARY:DEV2-jav - MBR - B111\, B112\, B113\, B121\, B122\, B123\, B131\, B
-	132\, B133 - [object Object] - [object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-	\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obj
-	ect Object]\,[object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]
-DTSTAMP:20230204T172400Z
+	132\, B133 - MBR - BURDA Marcelo - B111 B112 B113 B121 B122 B123 B131 B132
+	 B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230313T150000Z
 DTEND:20230313T170000Z
 DESCRIPTION:-
@@ -143,12 +122,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10645-28-DEV2-jav-Index-Education
 SUMMARY:DEV2-jav - MBR - B111\, B112\, B113\, B121\, B122\, B123\, B131\, B
-	132\, B133 - [object Object] - [object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-	\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obj
-	ect Object]\,[object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]
-DTSTAMP:20230204T172400Z
+	132\, B133 - MBR - BURDA Marcelo - B111 B112 B113 B121 B122 B123 B131 B132
+	 B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230320T150000Z
 DTEND:20230320T170000Z
 DESCRIPTION:-
@@ -157,12 +133,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10646-21-DEV2-jav-Index-Education
 SUMMARY:DEV2-jav - MBR - B111\, B112\, B113\, B121\, B122\, B123\, B131\, B
-	132\, B133 - [object Object] - [object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-	\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obj
-	ect Object]\,[object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]
-DTSTAMP:20230204T172400Z
+	132\, B133 - MBR - BURDA Marcelo - B111 B112 B113 B121 B122 B123 B131 B132
+	 B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230201T093000Z
 DTEND:20230201T113000Z
 DESCRIPTION:-
@@ -171,12 +144,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10646-22-DEV2-jav-Index-Education
 SUMMARY:DEV2-jav - MBR - B111\, B112\, B113\, B121\, B122\, B123\, B131\, B
-	132\, B133 - [object Object] - [object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-	\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obj
-	ect Object]\,[object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]
-DTSTAMP:20230204T172400Z
+	132\, B133 - MBR - BURDA Marcelo - B111 B112 B113 B121 B122 B123 B131 B132
+	 B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230208T093000Z
 DTEND:20230208T113000Z
 DESCRIPTION:-
@@ -185,12 +155,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10646-23-DEV2-jav-Index-Education
 SUMMARY:DEV2-jav - MBR - B111\, B112\, B113\, B121\, B122\, B123\, B131\, B
-	132\, B133 - [object Object] - [object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-	\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obj
-	ect Object]\,[object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]
-DTSTAMP:20230204T172400Z
+	132\, B133 - MBR - BURDA Marcelo - B111 B112 B113 B121 B122 B123 B131 B132
+	 B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230215T093000Z
 DTEND:20230215T113000Z
 DESCRIPTION:-
@@ -199,12 +166,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10646-25-DEV2-jav-Index-Education
 SUMMARY:DEV2-jav - MBR - B111\, B112\, B113\, B121\, B122\, B123\, B131\, B
-	132\, B133 - [object Object] - [object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-	\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obj
-	ect Object]\,[object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]
-DTSTAMP:20230204T172400Z
+	132\, B133 - MBR - BURDA Marcelo - B111 B112 B113 B121 B122 B123 B131 B132
+	 B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230301T093000Z
 DTEND:20230301T113000Z
 DESCRIPTION:-
@@ -213,12 +177,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10646-26-DEV2-jav-Index-Education
 SUMMARY:DEV2-jav - MBR - B111\, B112\, B113\, B121\, B122\, B123\, B131\, B
-	132\, B133 - [object Object] - [object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-	\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obj
-	ect Object]\,[object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]
-DTSTAMP:20230204T172400Z
+	132\, B133 - MBR - BURDA Marcelo - B111 B112 B113 B121 B122 B123 B131 B132
+	 B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230308T093000Z
 DTEND:20230308T113000Z
 DESCRIPTION:-
@@ -227,12 +188,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10646-27-DEV2-jav-Index-Education
 SUMMARY:DEV2-jav - MBR - B111\, B112\, B113\, B121\, B122\, B123\, B131\, B
-	132\, B133 - [object Object] - [object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-	\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obj
-	ect Object]\,[object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]
-DTSTAMP:20230204T172400Z
+	132\, B133 - MBR - BURDA Marcelo - B111 B112 B113 B121 B122 B123 B131 B132
+	 B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230315T093000Z
 DTEND:20230315T113000Z
 DESCRIPTION:-
@@ -241,11 +199,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10647-21-DEV2-jav-Index-Education
 SUMMARY:DEV2-jav - PBT - B141\, B142\, B211\, B212\, B213\, B221\, B222\, B
-	223 - [object Object] - [object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	223 - PBT - BETTENS Pierre - B141 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230202T150000Z
 DTEND:20230202T170000Z
 DESCRIPTION:-
@@ -254,11 +209,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10647-22-DEV2-jav-Index-Education
 SUMMARY:DEV2-jav - PBT - B141\, B142\, B211\, B212\, B213\, B221\, B222\, B
-	223 - [object Object] - [object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	223 - PBT - BETTENS Pierre - B141 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230209T150000Z
 DTEND:20230209T170000Z
 DESCRIPTION:-
@@ -267,11 +219,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10647-23-DEV2-jav-Index-Education
 SUMMARY:DEV2-jav - PBT - B141\, B142\, B211\, B212\, B213\, B221\, B222\, B
-	223 - [object Object] - [object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	223 - PBT - BETTENS Pierre - B141 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230216T150000Z
 DTEND:20230216T170000Z
 DESCRIPTION:-
@@ -280,11 +229,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10647-25-DEV2-jav-Index-Education
 SUMMARY:DEV2-jav - PBT - B141\, B142\, B211\, B212\, B213\, B221\, B222\, B
-	223 - [object Object] - [object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	223 - PBT - BETTENS Pierre - B141 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230302T150000Z
 DTEND:20230302T170000Z
 DESCRIPTION:-
@@ -293,11 +239,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10647-26-DEV2-jav-Index-Education
 SUMMARY:DEV2-jav - PBT - B141\, B142\, B211\, B212\, B213\, B221\, B222\, B
-	223 - [object Object] - [object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	223 - PBT - BETTENS Pierre - B141 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230309T150000Z
 DTEND:20230309T170000Z
 DESCRIPTION:-
@@ -306,11 +249,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10647-27-DEV2-jav-Index-Education
 SUMMARY:DEV2-jav - PBT - B141\, B142\, B211\, B212\, B213\, B221\, B222\, B
-	223 - [object Object] - [object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	223 - PBT - BETTENS Pierre - B141 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230316T150000Z
 DTEND:20230316T170000Z
 DESCRIPTION:-
@@ -319,11 +259,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10648-22-DEV2-jav-Index-Education
 SUMMARY:DEV2-jav - PBT - B141\, B142\, B211\, B212\, B213\, B221\, B222\, B
-	223 - [object Object] - [object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	223 - PBT - BETTENS Pierre - B141 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230207T150000Z
 DTEND:20230207T170000Z
 DESCRIPTION:-
@@ -332,11 +269,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10648-23-DEV2-jav-Index-Education
 SUMMARY:DEV2-jav - PBT - B141\, B142\, B211\, B212\, B213\, B221\, B222\, B
-	223 - [object Object] - [object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	223 - PBT - BETTENS Pierre - B141 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230214T150000Z
 DTEND:20230214T170000Z
 DESCRIPTION:-
@@ -345,11 +279,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10648-25-DEV2-jav-Index-Education
 SUMMARY:DEV2-jav - PBT - B141\, B142\, B211\, B212\, B213\, B221\, B222\, B
-	223 - [object Object] - [object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	223 - PBT - BETTENS Pierre - B141 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230228T150000Z
 DTEND:20230228T170000Z
 DESCRIPTION:-
@@ -358,11 +289,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10648-26-DEV2-jav-Index-Education
 SUMMARY:DEV2-jav - PBT - B141\, B142\, B211\, B212\, B213\, B221\, B222\, B
-	223 - [object Object] - [object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	223 - PBT - BETTENS Pierre - B141 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230307T150000Z
 DTEND:20230307T170000Z
 DESCRIPTION:-
@@ -371,11 +299,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10648-27-DEV2-jav-Index-Education
 SUMMARY:DEV2-jav - PBT - B141\, B142\, B211\, B212\, B213\, B221\, B222\, B
-	223 - [object Object] - [object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	223 - PBT - BETTENS Pierre - B141 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230314T150000Z
 DTEND:20230314T170000Z
 DESCRIPTION:-
@@ -384,11 +309,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10648-28-DEV2-jav-Index-Education
 SUMMARY:DEV2-jav - PBT - B141\, B142\, B211\, B212\, B213\, B221\, B222\, B
-	223 - [object Object] - [object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	223 - PBT - BETTENS Pierre - B141 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230321T150000Z
 DTEND:20230321T170000Z
 DESCRIPTION:-
@@ -397,11 +319,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10649-21-DON2-per-Index-Education
 SUMMARY:DON2-per - MBR - B141\, B142\, B211\, B212\, B213\, B221\, B222\, B
-	223 - [object Object] - [object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	223 - MBR - BURDA Marcelo - B141 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230201T071500Z
 DTEND:20230201T091500Z
 DESCRIPTION:-
@@ -410,11 +329,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10649-22-DON2-per-Index-Education
 SUMMARY:DON2-per - MBR - B141\, B142\, B211\, B212\, B213\, B221\, B222\, B
-	223 - [object Object] - [object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	223 - MBR - BURDA Marcelo - B141 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230208T071500Z
 DTEND:20230208T091500Z
 DESCRIPTION:-
@@ -423,11 +339,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10649-23-DON2-per-Index-Education
 SUMMARY:DON2-per - MBR - B141\, B142\, B211\, B212\, B213\, B221\, B222\, B
-	223 - [object Object] - [object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	223 - MBR - BURDA Marcelo - B141 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230215T071500Z
 DTEND:20230215T091500Z
 DESCRIPTION:-
@@ -436,11 +349,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10649-25-DON2-per-Index-Education
 SUMMARY:DON2-per - MBR - B141\, B142\, B211\, B212\, B213\, B221\, B222\, B
-	223 - [object Object] - [object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	223 - MBR - BURDA Marcelo - B141 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230301T071500Z
 DTEND:20230301T091500Z
 DESCRIPTION:-
@@ -449,11 +359,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10649-26-DON2-per-Index-Education
 SUMMARY:DON2-per - MBR - B141\, B142\, B211\, B212\, B213\, B221\, B222\, B
-	223 - [object Object] - [object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	223 - MBR - BURDA Marcelo - B141 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230308T071500Z
 DTEND:20230308T091500Z
 DESCRIPTION:-
@@ -462,11 +369,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10649-27-DON2-per-Index-Education
 SUMMARY:DON2-per - MBR - B141\, B142\, B211\, B212\, B213\, B221\, B222\, B
-	223 - [object Object] - [object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	223 - MBR - BURDA Marcelo - B141 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230315T071500Z
 DTEND:20230315T091500Z
 DESCRIPTION:-
@@ -475,12 +379,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10650-22-DON2-per-Index-Education
 SUMMARY:DON2-per - SRE - B111\, B112\, B113\, B121\, B122\, B123\, B131\, B
-	132\, B133 - [object Object] - [object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-	\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obj
-	ect Object]\,[object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]
-DTSTAMP:20230204T172400Z
+	132\, B133 - SRE - REXHEP Selim - B111 B112 B113 B121 B122 B123 B131 B132 
+	B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230206T093000Z
 DTEND:20230206T113000Z
 DESCRIPTION:-
@@ -489,12 +390,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10650-23-DON2-per-Index-Education
 SUMMARY:DON2-per - SRE - B111\, B112\, B113\, B121\, B122\, B123\, B131\, B
-	132\, B133 - [object Object] - [object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-	\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obj
-	ect Object]\,[object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]
-DTSTAMP:20230204T172400Z
+	132\, B133 - SRE - REXHEP Selim - B111 B112 B113 B121 B122 B123 B131 B132 
+	B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230213T093000Z
 DTEND:20230213T113000Z
 DESCRIPTION:-
@@ -503,12 +401,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10650-25-DON2-per-Index-Education
 SUMMARY:DON2-per - SRE - B111\, B112\, B113\, B121\, B122\, B123\, B131\, B
-	132\, B133 - [object Object] - [object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-	\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obj
-	ect Object]\,[object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]
-DTSTAMP:20230204T172400Z
+	132\, B133 - SRE - REXHEP Selim - B111 B112 B113 B121 B122 B123 B131 B132 
+	B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230227T093000Z
 DTEND:20230227T113000Z
 DESCRIPTION:-
@@ -517,12 +412,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10650-26-DON2-per-Index-Education
 SUMMARY:DON2-per - SRE - B111\, B112\, B113\, B121\, B122\, B123\, B131\, B
-	132\, B133 - [object Object] - [object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-	\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obj
-	ect Object]\,[object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]
-DTSTAMP:20230204T172400Z
+	132\, B133 - SRE - REXHEP Selim - B111 B112 B113 B121 B122 B123 B131 B132 
+	B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230306T093000Z
 DTEND:20230306T113000Z
 DESCRIPTION:-
@@ -531,12 +423,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10650-27-DON2-per-Index-Education
 SUMMARY:DON2-per - SRE - B111\, B112\, B113\, B121\, B122\, B123\, B131\, B
-	132\, B133 - [object Object] - [object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-	\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obj
-	ect Object]\,[object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]
-DTSTAMP:20230204T172400Z
+	132\, B133 - SRE - REXHEP Selim - B111 B112 B113 B121 B122 B123 B131 B132 
+	B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230313T093000Z
 DTEND:20230313T113000Z
 DESCRIPTION:-
@@ -545,12 +434,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10650-28-DON2-per-Index-Education
 SUMMARY:DON2-per - SRE - B111\, B112\, B113\, B121\, B122\, B123\, B131\, B
-	132\, B133 - [object Object] - [object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-	\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obj
-	ect Object]\,[object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]
-DTSTAMP:20230204T172400Z
+	132\, B133 - SRE - REXHEP Selim - B111 B112 B113 B121 B122 B123 B131 B132 
+	B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230320T093000Z
 DTEND:20230320T113000Z
 DESCRIPTION:-
@@ -558,12 +444,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10763-21-DON4-Index-Education
-SUMMARY:DON4 - SRE - D111\, D112\, D121\, D122\, D211\, D212\, D221 - [obje
-	ct Object] - [object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:DON4 - SRE - D111\, D112\, D121\, D122\, D211\, D212\, D221 - SRE -
+	 REXHEP Selim - D111 D112 D121 D122 D211 D212 D221
+DTSTAMP:20230204T180900Z
 DTSTART:20230201T150000Z
 DTEND:20230201T170000Z
 DESCRIPTION:-
@@ -571,12 +454,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10763-22-DON4-Index-Education
-SUMMARY:DON4 - SRE - D111\, D112\, D121\, D122\, D211\, D212\, D221 - [obje
-	ct Object] - [object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:DON4 - SRE - D111\, D112\, D121\, D122\, D211\, D212\, D221 - SRE -
+	 REXHEP Selim - D111 D112 D121 D122 D211 D212 D221
+DTSTAMP:20230204T180900Z
 DTSTART:20230208T150000Z
 DTEND:20230208T170000Z
 DESCRIPTION:-
@@ -584,12 +464,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10763-23-DON4-Index-Education
-SUMMARY:DON4 - SRE - D111\, D112\, D121\, D122\, D211\, D212\, D221 - [obje
-	ct Object] - [object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:DON4 - SRE - D111\, D112\, D121\, D122\, D211\, D212\, D221 - SRE -
+	 REXHEP Selim - D111 D112 D121 D122 D211 D212 D221
+DTSTAMP:20230204T180900Z
 DTSTART:20230215T150000Z
 DTEND:20230215T170000Z
 DESCRIPTION:-
@@ -597,12 +474,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10763-25-DON4-Index-Education
-SUMMARY:DON4 - SRE - D111\, D112\, D121\, D122\, D211\, D212\, D221 - [obje
-	ct Object] - [object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:DON4 - SRE - D111\, D112\, D121\, D122\, D211\, D212\, D221 - SRE -
+	 REXHEP Selim - D111 D112 D121 D122 D211 D212 D221
+DTSTAMP:20230204T180900Z
 DTSTART:20230301T150000Z
 DTEND:20230301T170000Z
 DESCRIPTION:-
@@ -610,12 +484,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10763-26-DON4-Index-Education
-SUMMARY:DON4 - SRE - D111\, D112\, D121\, D122\, D211\, D212\, D221 - [obje
-	ct Object] - [object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:DON4 - SRE - D111\, D112\, D121\, D122\, D211\, D212\, D221 - SRE -
+	 REXHEP Selim - D111 D112 D121 D122 D211 D212 D221
+DTSTAMP:20230204T180900Z
 DTSTART:20230308T150000Z
 DTEND:20230308T170000Z
 DESCRIPTION:-
@@ -623,12 +494,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10763-27-DON4-Index-Education
-SUMMARY:DON4 - SRE - D111\, D112\, D121\, D122\, D211\, D212\, D221 - [obje
-	ct Object] - [object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:DON4 - SRE - D111\, D112\, D121\, D122\, D211\, D212\, D221 - SRE -
+	 REXHEP Selim - D111 D112 D121 D122 D211 D212 D221
+DTSTAMP:20230204T180900Z
 DTSTART:20230315T150000Z
 DTEND:20230315T170000Z
 DESCRIPTION:-
@@ -637,12 +505,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10642-21-MIC2-mic-Index-Education
 SUMMARY:MIC2-mic - HAL - B111\, B112\, B113\, B121\, B122\, B123\, B131\, B
-	132\, B133 - [object Object] - [object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-	\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obj
-	ect Object]\,[object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]
-DTSTAMP:20230204T172400Z
+	132\, B133 - HAL - HALLAL Amine - B111 B112 B113 B121 B122 B123 B131 B132 
+	B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230202T071500Z
 DTEND:20230202T091500Z
 DESCRIPTION:-
@@ -651,12 +516,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10642-22-MIC2-mic-Index-Education
 SUMMARY:MIC2-mic - HAL - B111\, B112\, B113\, B121\, B122\, B123\, B131\, B
-	132\, B133 - [object Object] - [object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-	\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obj
-	ect Object]\,[object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]
-DTSTAMP:20230204T172400Z
+	132\, B133 - HAL - HALLAL Amine - B111 B112 B113 B121 B122 B123 B131 B132 
+	B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230209T071500Z
 DTEND:20230209T091500Z
 DESCRIPTION:-
@@ -665,12 +527,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10642-23-MIC2-mic-Index-Education
 SUMMARY:MIC2-mic - HAL - B111\, B112\, B113\, B121\, B122\, B123\, B131\, B
-	132\, B133 - [object Object] - [object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-	\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obj
-	ect Object]\,[object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]
-DTSTAMP:20230204T172400Z
+	132\, B133 - HAL - HALLAL Amine - B111 B112 B113 B121 B122 B123 B131 B132 
+	B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230216T071500Z
 DTEND:20230216T091500Z
 DESCRIPTION:-
@@ -679,12 +538,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10642-25-MIC2-mic-Index-Education
 SUMMARY:MIC2-mic - HAL - B111\, B112\, B113\, B121\, B122\, B123\, B131\, B
-	132\, B133 - [object Object] - [object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-	\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obj
-	ect Object]\,[object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]
-DTSTAMP:20230204T172400Z
+	132\, B133 - HAL - HALLAL Amine - B111 B112 B113 B121 B122 B123 B131 B132 
+	B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230302T071500Z
 DTEND:20230302T091500Z
 DESCRIPTION:-
@@ -693,12 +549,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10642-26-MIC2-mic-Index-Education
 SUMMARY:MIC2-mic - HAL - B111\, B112\, B113\, B121\, B122\, B123\, B131\, B
-	132\, B133 - [object Object] - [object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-	\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obj
-	ect Object]\,[object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]
-DTSTAMP:20230204T172400Z
+	132\, B133 - HAL - HALLAL Amine - B111 B112 B113 B121 B122 B123 B131 B132 
+	B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230309T071500Z
 DTEND:20230309T091500Z
 DESCRIPTION:-
@@ -707,12 +560,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10642-27-MIC2-mic-Index-Education
 SUMMARY:MIC2-mic - HAL - B111\, B112\, B113\, B121\, B122\, B123\, B131\, B
-	132\, B133 - [object Object] - [object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-	\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obj
-	ect Object]\,[object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]
-DTSTAMP:20230204T172400Z
+	132\, B133 - HAL - HALLAL Amine - B111 B112 B113 B121 B122 B123 B131 B132 
+	B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230316T071500Z
 DTEND:20230316T091500Z
 DESCRIPTION:-
@@ -721,11 +571,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10643-21-MIC2-mic-Index-Education
 SUMMARY:MIC2-mic - BEJ - B141\, B142\, B211\, B212\, B213\, B221\, B222\, B
-	223 - [object Object] - [object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	223 - BEJ - BELEHO Jonas - B141 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230202T124500Z
 DTEND:20230202T144500Z
 DESCRIPTION:-
@@ -734,11 +581,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10643-22-MIC2-mic-Index-Education
 SUMMARY:MIC2-mic - BEJ - B141\, B142\, B211\, B212\, B213\, B221\, B222\, B
-	223 - [object Object] - [object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	223 - BEJ - BELEHO Jonas - B141 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230209T124500Z
 DTEND:20230209T144500Z
 DESCRIPTION:-
@@ -747,11 +591,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10643-23-MIC2-mic-Index-Education
 SUMMARY:MIC2-mic - BEJ - B141\, B142\, B211\, B212\, B213\, B221\, B222\, B
-	223 - [object Object] - [object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	223 - BEJ - BELEHO Jonas - B141 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230216T124500Z
 DTEND:20230216T144500Z
 DESCRIPTION:-
@@ -760,11 +601,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10643-25-MIC2-mic-Index-Education
 SUMMARY:MIC2-mic - BEJ - B141\, B142\, B211\, B212\, B213\, B221\, B222\, B
-	223 - [object Object] - [object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	223 - BEJ - BELEHO Jonas - B141 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230302T124500Z
 DTEND:20230302T144500Z
 DESCRIPTION:-
@@ -773,11 +611,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10643-26-MIC2-mic-Index-Education
 SUMMARY:MIC2-mic - BEJ - B141\, B142\, B211\, B212\, B213\, B221\, B222\, B
-	223 - [object Object] - [object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	223 - BEJ - BELEHO Jonas - B141 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230309T124500Z
 DTEND:20230309T144500Z
 DESCRIPTION:-
@@ -786,11 +621,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10643-27-MIC2-mic-Index-Education
 SUMMARY:MIC2-mic - BEJ - B141\, B142\, B211\, B212\, B213\, B221\, B222\, B
-	223 - [object Object] - [object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	223 - BEJ - BELEHO Jonas - B141 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230316T124500Z
 DTEND:20230316T144500Z
 DESCRIPTION:-
@@ -798,11 +630,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10644-22-PHYIR2-phy-Index-Education
-SUMMARY:PHYIR2-phy - BIS - B211\, B212\, B213\, B221\, B222\, B223 - [objec
-	t Object] - [object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,
-	[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:PHYIR2-phy - BIS - B211\, B212\, B213\, B221\, B222\, B223 - BIS - 
+	BISCHOP Patrick - B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230206T071500Z
 DTEND:20230206T091500Z
 DESCRIPTION:-
@@ -810,11 +640,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10644-23-PHYIR2-phy-Index-Education
-SUMMARY:PHYIR2-phy - BIS - B211\, B212\, B213\, B221\, B222\, B223 - [objec
-	t Object] - [object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,
-	[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:PHYIR2-phy - BIS - B211\, B212\, B213\, B221\, B222\, B223 - BIS - 
+	BISCHOP Patrick - B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230213T071500Z
 DTEND:20230213T091500Z
 DESCRIPTION:-
@@ -822,11 +650,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10644-25-PHYIR2-phy-Index-Education
-SUMMARY:PHYIR2-phy - BIS - B211\, B212\, B213\, B221\, B222\, B223 - [objec
-	t Object] - [object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,
-	[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:PHYIR2-phy - BIS - B211\, B212\, B213\, B221\, B222\, B223 - BIS - 
+	BISCHOP Patrick - B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230227T071500Z
 DTEND:20230227T091500Z
 DESCRIPTION:-
@@ -834,11 +660,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10644-26-PHYIR2-phy-Index-Education
-SUMMARY:PHYIR2-phy - BIS - B211\, B212\, B213\, B221\, B222\, B223 - [objec
-	t Object] - [object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,
-	[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:PHYIR2-phy - BIS - B211\, B212\, B213\, B221\, B222\, B223 - BIS - 
+	BISCHOP Patrick - B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230306T071500Z
 DTEND:20230306T091500Z
 DESCRIPTION:-
@@ -846,11 +670,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10644-27-PHYIR2-phy-Index-Education
-SUMMARY:PHYIR2-phy - BIS - B211\, B212\, B213\, B221\, B222\, B223 - [objec
-	t Object] - [object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,
-	[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:PHYIR2-phy - BIS - B211\, B212\, B213\, B221\, B222\, B223 - BIS - 
+	BISCHOP Patrick - B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230313T071500Z
 DTEND:20230313T091500Z
 DESCRIPTION:-
@@ -858,11 +680,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10644-28-PHYIR2-phy-Index-Education
-SUMMARY:PHYIR2-phy - BIS - B211\, B212\, B213\, B221\, B222\, B223 - [objec
-	t Object] - [object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,
-	[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:PHYIR2-phy - BIS - B211\, B212\, B213\, B221\, B222\, B223 - BIS - 
+	BISCHOP Patrick - B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230320T071500Z
 DTEND:20230320T091500Z
 DESCRIPTION:-
@@ -870,10 +690,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10764-21-SECG4-sec-Index-Education
-SUMMARY:SECG4-sec - ABS - D111\, D112\, D121\, D122 - [object Object] - [ob
-	ject Object]\,[object Object]\,[object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SECG4-sec - ABS - D111\, D112\, D121\, D122 - ABS - ABSIL Romain - 
+	D111 D112 D121 D122
+DTSTAMP:20230204T180900Z
 DTSTART:20230203T150000Z
 DTEND:20230203T170000Z
 DESCRIPTION:-
@@ -881,10 +700,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10764-22-SECG4-sec-Index-Education
-SUMMARY:SECG4-sec - ABS - D111\, D112\, D121\, D122 - [object Object] - [ob
-	ject Object]\,[object Object]\,[object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SECG4-sec - ABS - D111\, D112\, D121\, D122 - ABS - ABSIL Romain - 
+	D111 D112 D121 D122
+DTSTAMP:20230204T180900Z
 DTSTART:20230210T150000Z
 DTEND:20230210T170000Z
 DESCRIPTION:-
@@ -892,10 +710,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10764-23-SECG4-sec-Index-Education
-SUMMARY:SECG4-sec - ABS - D111\, D112\, D121\, D122 - [object Object] - [ob
-	ject Object]\,[object Object]\,[object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SECG4-sec - ABS - D111\, D112\, D121\, D122 - ABS - ABSIL Romain - 
+	D111 D112 D121 D122
+DTSTAMP:20230204T180900Z
 DTSTART:20230217T150000Z
 DTEND:20230217T170000Z
 DESCRIPTION:-
@@ -903,10 +720,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10764-25-SECG4-sec-Index-Education
-SUMMARY:SECG4-sec - ABS - D111\, D112\, D121\, D122 - [object Object] - [ob
-	ject Object]\,[object Object]\,[object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SECG4-sec - ABS - D111\, D112\, D121\, D122 - ABS - ABSIL Romain - 
+	D111 D112 D121 D122
+DTSTAMP:20230204T180900Z
 DTSTART:20230303T150000Z
 DTEND:20230303T170000Z
 DESCRIPTION:-
@@ -914,10 +730,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10764-26-SECG4-sec-Index-Education
-SUMMARY:SECG4-sec - ABS - D111\, D112\, D121\, D122 - [object Object] - [ob
-	ject Object]\,[object Object]\,[object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SECG4-sec - ABS - D111\, D112\, D121\, D122 - ABS - ABSIL Romain - 
+	D111 D112 D121 D122
+DTSTAMP:20230204T180900Z
 DTSTART:20230310T150000Z
 DTEND:20230310T170000Z
 DESCRIPTION:-
@@ -925,10 +740,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10764-27-SECG4-sec-Index-Education
-SUMMARY:SECG4-sec - ABS - D111\, D112\, D121\, D122 - [object Object] - [ob
-	ject Object]\,[object Object]\,[object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SECG4-sec - ABS - D111\, D112\, D121\, D122 - ABS - ABSIL Romain - 
+	D111 D112 D121 D122
+DTSTAMP:20230204T180900Z
 DTSTART:20230317T150000Z
 DTEND:20230317T170000Z
 DESCRIPTION:-
@@ -937,12 +751,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10651-21-SYS2-Index-Education
 SUMMARY:SYS2 - MBA - B111\, B112\, B113\, B121\, B122\, B123\, B131\, B132\
-	, B133 - [object Object] - [object Object]\,[object Object]\,[object Objec
-	t]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[o
-	bject Object]\,[object Object]\,[object Object]\,[object Object]\,[object 
-	Object]\,[object Object]\,[object Object]\,[object Object]\,[object Object
-	]\,[object Object]
-DTSTAMP:20230204T172400Z
+	, B133 - MBA - BASTREGHI Monica - B111 B112 B113 B121 B122 B123 B131 B132 
+	B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230203T093000Z
 DTEND:20230203T113000Z
 DESCRIPTION:-
@@ -951,12 +762,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10651-22-SYS2-Index-Education
 SUMMARY:SYS2 - MBA - B111\, B112\, B113\, B121\, B122\, B123\, B131\, B132\
-	, B133 - [object Object] - [object Object]\,[object Object]\,[object Objec
-	t]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[o
-	bject Object]\,[object Object]\,[object Object]\,[object Object]\,[object 
-	Object]\,[object Object]\,[object Object]\,[object Object]\,[object Object
-	]\,[object Object]
-DTSTAMP:20230204T172400Z
+	, B133 - MBA - BASTREGHI Monica - B111 B112 B113 B121 B122 B123 B131 B132 
+	B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230210T093000Z
 DTEND:20230210T113000Z
 DESCRIPTION:-
@@ -965,12 +773,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10651-23-SYS2-Index-Education
 SUMMARY:SYS2 - MBA - B111\, B112\, B113\, B121\, B122\, B123\, B131\, B132\
-	, B133 - [object Object] - [object Object]\,[object Object]\,[object Objec
-	t]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[o
-	bject Object]\,[object Object]\,[object Object]\,[object Object]\,[object 
-	Object]\,[object Object]\,[object Object]\,[object Object]\,[object Object
-	]\,[object Object]
-DTSTAMP:20230204T172400Z
+	, B133 - MBA - BASTREGHI Monica - B111 B112 B113 B121 B122 B123 B131 B132 
+	B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230217T093000Z
 DTEND:20230217T113000Z
 DESCRIPTION:-
@@ -979,12 +784,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10651-25-SYS2-Index-Education
 SUMMARY:SYS2 - MBA - B111\, B112\, B113\, B121\, B122\, B123\, B131\, B132\
-	, B133 - [object Object] - [object Object]\,[object Object]\,[object Objec
-	t]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[o
-	bject Object]\,[object Object]\,[object Object]\,[object Object]\,[object 
-	Object]\,[object Object]\,[object Object]\,[object Object]\,[object Object
-	]\,[object Object]
-DTSTAMP:20230204T172400Z
+	, B133 - MBA - BASTREGHI Monica - B111 B112 B113 B121 B122 B123 B131 B132 
+	B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230303T093000Z
 DTEND:20230303T113000Z
 DESCRIPTION:-
@@ -993,12 +795,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10651-26-SYS2-Index-Education
 SUMMARY:SYS2 - MBA - B111\, B112\, B113\, B121\, B122\, B123\, B131\, B132\
-	, B133 - [object Object] - [object Object]\,[object Object]\,[object Objec
-	t]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[o
-	bject Object]\,[object Object]\,[object Object]\,[object Object]\,[object 
-	Object]\,[object Object]\,[object Object]\,[object Object]\,[object Object
-	]\,[object Object]
-DTSTAMP:20230204T172400Z
+	, B133 - MBA - BASTREGHI Monica - B111 B112 B113 B121 B122 B123 B131 B132 
+	B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230310T093000Z
 DTEND:20230310T113000Z
 DESCRIPTION:-
@@ -1007,12 +806,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10651-27-SYS2-Index-Education
 SUMMARY:SYS2 - MBA - B111\, B112\, B113\, B121\, B122\, B123\, B131\, B132\
-	, B133 - [object Object] - [object Object]\,[object Object]\,[object Objec
-	t]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[o
-	bject Object]\,[object Object]\,[object Object]\,[object Object]\,[object 
-	Object]\,[object Object]\,[object Object]\,[object Object]\,[object Object
-	]\,[object Object]
-DTSTAMP:20230204T172400Z
+	, B133 - MBA - BASTREGHI Monica - B111 B112 B113 B121 B122 B123 B131 B132 
+	B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230317T093000Z
 DTEND:20230317T113000Z
 DESCRIPTION:-
@@ -1021,11 +817,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10652-21-SYS2-Index-Education
 SUMMARY:SYS2 - MBA - B141\, B142\, B211\, B212\, B213\, B221\, B222\, B223 
-	- [object Object] - [object Object]\,[object Object]\,[object Object]\,[ob
-	ject Object]\,[object Object]\,[object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-	\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	- MBA - BASTREGHI Monica - B141 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230203T124500Z
 DTEND:20230203T144500Z
 DESCRIPTION:-
@@ -1034,11 +827,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10652-22-SYS2-Index-Education
 SUMMARY:SYS2 - MBA - B141\, B142\, B211\, B212\, B213\, B221\, B222\, B223 
-	- [object Object] - [object Object]\,[object Object]\,[object Object]\,[ob
-	ject Object]\,[object Object]\,[object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-	\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	- MBA - BASTREGHI Monica - B141 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230210T124500Z
 DTEND:20230210T144500Z
 DESCRIPTION:-
@@ -1047,11 +837,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10652-23-SYS2-Index-Education
 SUMMARY:SYS2 - MBA - B141\, B142\, B211\, B212\, B213\, B221\, B222\, B223 
-	- [object Object] - [object Object]\,[object Object]\,[object Object]\,[ob
-	ject Object]\,[object Object]\,[object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-	\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	- MBA - BASTREGHI Monica - B141 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230217T124500Z
 DTEND:20230217T144500Z
 DESCRIPTION:-
@@ -1060,11 +847,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10652-25-SYS2-Index-Education
 SUMMARY:SYS2 - MBA - B141\, B142\, B211\, B212\, B213\, B221\, B222\, B223 
-	- [object Object] - [object Object]\,[object Object]\,[object Object]\,[ob
-	ject Object]\,[object Object]\,[object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-	\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	- MBA - BASTREGHI Monica - B141 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230303T124500Z
 DTEND:20230303T144500Z
 DESCRIPTION:-
@@ -1073,11 +857,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10652-26-SYS2-Index-Education
 SUMMARY:SYS2 - MBA - B141\, B142\, B211\, B212\, B213\, B221\, B222\, B223 
-	- [object Object] - [object Object]\,[object Object]\,[object Object]\,[ob
-	ject Object]\,[object Object]\,[object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-	\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	- MBA - BASTREGHI Monica - B141 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230310T124500Z
 DTEND:20230310T144500Z
 DESCRIPTION:-
@@ -1086,11 +867,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10652-27-SYS2-Index-Education
 SUMMARY:SYS2 - MBA - B141\, B142\, B211\, B212\, B213\, B221\, B222\, B223 
-	- [object Object] - [object Object]\,[object Object]\,[object Object]\,[ob
-	ject Object]\,[object Object]\,[object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-	\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	- MBA - BASTREGHI Monica - B141 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230317T124500Z
 DTEND:20230317T144500Z
 DESCRIPTION:-
@@ -1098,12 +876,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10761-21-SYS4-Index-Education
-SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - [obje
-	ct Object] - [object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - MBA -
+	 BASTREGHI Monica - D111 D112 D121 D122 D211 D212 D221
+DTSTAMP:20230204T180900Z
 DTSTART:20230202T093000Z
 DTEND:20230202T113000Z
 DESCRIPTION:-
@@ -1111,12 +886,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10761-22-SYS4-Index-Education
-SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - [obje
-	ct Object] - [object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - MBA -
+	 BASTREGHI Monica - D111 D112 D121 D122 D211 D212 D221
+DTSTAMP:20230204T180900Z
 DTSTART:20230209T093000Z
 DTEND:20230209T113000Z
 DESCRIPTION:-
@@ -1124,12 +896,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10761-23-SYS4-Index-Education
-SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - [obje
-	ct Object] - [object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - MBA -
+	 BASTREGHI Monica - D111 D112 D121 D122 D211 D212 D221
+DTSTAMP:20230204T180900Z
 DTSTART:20230216T093000Z
 DTEND:20230216T113000Z
 DESCRIPTION:-
@@ -1137,12 +906,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10761-25-SYS4-Index-Education
-SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - [obje
-	ct Object] - [object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - MBA -
+	 BASTREGHI Monica - D111 D112 D121 D122 D211 D212 D221
+DTSTAMP:20230204T180900Z
 DTSTART:20230302T093000Z
 DTEND:20230302T113000Z
 DESCRIPTION:-
@@ -1150,12 +916,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10761-26-SYS4-Index-Education
-SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - [obje
-	ct Object] - [object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - MBA -
+	 BASTREGHI Monica - D111 D112 D121 D122 D211 D212 D221
+DTSTAMP:20230204T180900Z
 DTSTART:20230309T093000Z
 DTEND:20230309T113000Z
 DESCRIPTION:-
@@ -1163,12 +926,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10761-27-SYS4-Index-Education
-SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - [obje
-	ct Object] - [object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - MBA -
+	 BASTREGHI Monica - D111 D112 D121 D122 D211 D212 D221
+DTSTAMP:20230204T180900Z
 DTSTART:20230316T093000Z
 DTEND:20230316T113000Z
 DESCRIPTION:-
@@ -1176,12 +936,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10762-21-SYS4-Index-Education
-SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - [obje
-	ct Object] - [object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - MBA -
+	 BASTREGHI Monica - D111 D112 D121 D122 D211 D212 D221
+DTSTAMP:20230204T180900Z
 DTSTART:20230201T124500Z
 DTEND:20230201T144500Z
 DESCRIPTION:-
@@ -1189,12 +946,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10762-22-SYS4-Index-Education
-SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - [obje
-	ct Object] - [object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - MBA -
+	 BASTREGHI Monica - D111 D112 D121 D122 D211 D212 D221
+DTSTAMP:20230204T180900Z
 DTSTART:20230208T124500Z
 DTEND:20230208T144500Z
 DESCRIPTION:-
@@ -1202,12 +956,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10762-23-SYS4-Index-Education
-SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - [obje
-	ct Object] - [object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - MBA -
+	 BASTREGHI Monica - D111 D112 D121 D122 D211 D212 D221
+DTSTAMP:20230204T180900Z
 DTSTART:20230215T124500Z
 DTEND:20230215T144500Z
 DESCRIPTION:-
@@ -1215,12 +966,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10762-25-SYS4-Index-Education
-SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - [obje
-	ct Object] - [object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - MBA -
+	 BASTREGHI Monica - D111 D112 D121 D122 D211 D212 D221
+DTSTAMP:20230204T180900Z
 DTSTART:20230301T124500Z
 DTEND:20230301T144500Z
 DESCRIPTION:-
@@ -1228,12 +976,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10762-26-SYS4-Index-Education
-SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - [obje
-	ct Object] - [object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - MBA -
+	 BASTREGHI Monica - D111 D112 D121 D122 D211 D212 D221
+DTSTAMP:20230204T180900Z
 DTSTART:20230308T124500Z
 DTEND:20230308T144500Z
 DESCRIPTION:-
@@ -1241,12 +986,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10762-27-SYS4-Index-Education
-SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - [obje
-	ct Object] - [object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
-	ct Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - MBA -
+	 BASTREGHI Monica - D111 D112 D121 D122 D211 D212 D221
+DTSTAMP:20230204T180900Z
 DTSTART:20230315T124500Z
 DTEND:20230315T144500Z
 DESCRIPTION:-
@@ -1254,11 +996,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10653-22-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - [object Object
-	] - [object Object]\,[object Object]\,[object Object]\,[object Object]\,[o
-	bject Object]\,[object Object]\,[object Object]\,[object Object]\,[object 
-	Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - SDR - DROBISZ 
+	Sébastien - B131 B132 B133 B141 B142
+DTSTAMP:20230204T180900Z
 DTSTART:20230207T124500Z
 DTEND:20230207T144500Z
 DESCRIPTION:-
@@ -1266,11 +1006,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10653-23-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - [object Object
-	] - [object Object]\,[object Object]\,[object Object]\,[object Object]\,[o
-	bject Object]\,[object Object]\,[object Object]\,[object Object]\,[object 
-	Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - SDR - DROBISZ 
+	Sébastien - B131 B132 B133 B141 B142
+DTSTAMP:20230204T180900Z
 DTSTART:20230214T124500Z
 DTEND:20230214T144500Z
 DESCRIPTION:-
@@ -1278,11 +1016,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10653-25-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - [object Object
-	] - [object Object]\,[object Object]\,[object Object]\,[object Object]\,[o
-	bject Object]\,[object Object]\,[object Object]\,[object Object]\,[object 
-	Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - SDR - DROBISZ 
+	Sébastien - B131 B132 B133 B141 B142
+DTSTAMP:20230204T180900Z
 DTSTART:20230228T124500Z
 DTEND:20230228T144500Z
 DESCRIPTION:-
@@ -1290,11 +1026,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10653-26-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - [object Object
-	] - [object Object]\,[object Object]\,[object Object]\,[object Object]\,[o
-	bject Object]\,[object Object]\,[object Object]\,[object Object]\,[object 
-	Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - SDR - DROBISZ 
+	Sébastien - B131 B132 B133 B141 B142
+DTSTAMP:20230204T180900Z
 DTSTART:20230307T124500Z
 DTEND:20230307T144500Z
 DESCRIPTION:-
@@ -1302,11 +1036,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10653-27-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - [object Object
-	] - [object Object]\,[object Object]\,[object Object]\,[object Object]\,[o
-	bject Object]\,[object Object]\,[object Object]\,[object Object]\,[object 
-	Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - SDR - DROBISZ 
+	Sébastien - B131 B132 B133 B141 B142
+DTSTAMP:20230204T180900Z
 DTSTART:20230314T124500Z
 DTEND:20230314T144500Z
 DESCRIPTION:-
@@ -1314,11 +1046,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10653-28-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - [object Object
-	] - [object Object]\,[object Object]\,[object Object]\,[object Object]\,[o
-	bject Object]\,[object Object]\,[object Object]\,[object Object]\,[object 
-	Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - SDR - DROBISZ 
+	Sébastien - B131 B132 B133 B141 B142
+DTSTAMP:20230204T180900Z
 DTSTART:20230321T124500Z
 DTEND:20230321T144500Z
 DESCRIPTION:-
@@ -1326,11 +1056,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10654-22-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - [object
-	 Object] - [object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
-	object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - DBO - B
+	OIGELOT Denis - B111 B112 B113 B121 B122 B123
+DTSTAMP:20230204T180900Z
 DTSTART:20230206T124500Z
 DTEND:20230206T144500Z
 DESCRIPTION:-
@@ -1338,11 +1066,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10654-23-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - [object
-	 Object] - [object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
-	object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - DBO - B
+	OIGELOT Denis - B111 B112 B113 B121 B122 B123
+DTSTAMP:20230204T180900Z
 DTSTART:20230213T124500Z
 DTEND:20230213T144500Z
 DESCRIPTION:-
@@ -1350,11 +1076,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10654-25-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - [object
-	 Object] - [object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
-	object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - DBO - B
+	OIGELOT Denis - B111 B112 B113 B121 B122 B123
+DTSTAMP:20230204T180900Z
 DTSTART:20230227T124500Z
 DTEND:20230227T144500Z
 DESCRIPTION:-
@@ -1362,11 +1086,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10654-26-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - [object
-	 Object] - [object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
-	object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - DBO - B
+	OIGELOT Denis - B111 B112 B113 B121 B122 B123
+DTSTAMP:20230204T180900Z
 DTSTART:20230306T124500Z
 DTEND:20230306T144500Z
 DESCRIPTION:-
@@ -1374,11 +1096,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10654-27-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - [object
-	 Object] - [object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
-	object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - DBO - B
+	OIGELOT Denis - B111 B112 B113 B121 B122 B123
+DTSTAMP:20230204T180900Z
 DTSTART:20230313T124500Z
 DTEND:20230313T144500Z
 DESCRIPTION:-
@@ -1386,11 +1106,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10654-28-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - [object
-	 Object] - [object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
-	object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - DBO - B
+	OIGELOT Denis - B111 B112 B113 B121 B122 B123
+DTSTAMP:20230204T180900Z
 DTSTART:20230320T124500Z
 DTEND:20230320T144500Z
 DESCRIPTION:-
@@ -1398,11 +1116,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10655-22-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - [object
-	 Object] - [object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
-	object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - DBO - B
+	OIGELOT Denis - B111 B112 B113 B121 B122 B123
+DTSTAMP:20230204T180900Z
 DTSTART:20230207T093000Z
 DTEND:20230207T113000Z
 DESCRIPTION:-
@@ -1410,11 +1126,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10655-23-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - [object
-	 Object] - [object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
-	object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - DBO - B
+	OIGELOT Denis - B111 B112 B113 B121 B122 B123
+DTSTAMP:20230204T180900Z
 DTSTART:20230214T093000Z
 DTEND:20230214T113000Z
 DESCRIPTION:-
@@ -1422,11 +1136,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10655-25-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - [object
-	 Object] - [object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
-	object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - DBO - B
+	OIGELOT Denis - B111 B112 B113 B121 B122 B123
+DTSTAMP:20230204T180900Z
 DTSTART:20230228T093000Z
 DTEND:20230228T113000Z
 DESCRIPTION:-
@@ -1434,11 +1146,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10655-26-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - [object
-	 Object] - [object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
-	object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - DBO - B
+	OIGELOT Denis - B111 B112 B113 B121 B122 B123
+DTSTAMP:20230204T180900Z
 DTSTART:20230307T093000Z
 DTEND:20230307T113000Z
 DESCRIPTION:-
@@ -1446,11 +1156,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10655-27-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - [object
-	 Object] - [object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
-	object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - DBO - B
+	OIGELOT Denis - B111 B112 B113 B121 B122 B123
+DTSTAMP:20230204T180900Z
 DTSTART:20230314T093000Z
 DTEND:20230314T113000Z
 DESCRIPTION:-
@@ -1458,11 +1166,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10655-28-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - [object
-	 Object] - [object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
-	object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - DBO - B
+	OIGELOT Denis - B111 B112 B113 B121 B122 B123
+DTSTAMP:20230204T180900Z
 DTSTART:20230321T093000Z
 DTEND:20230321T113000Z
 DESCRIPTION:-
@@ -1470,11 +1176,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10656-21-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - [object Object
-	] - [object Object]\,[object Object]\,[object Object]\,[object Object]\,[o
-	bject Object]\,[object Object]\,[object Object]\,[object Object]\,[object 
-	Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - SDR - DROBISZ 
+	Sébastien - B131 B132 B133 B141 B142
+DTSTAMP:20230204T180900Z
 DTSTART:20230203T071500Z
 DTEND:20230203T091500Z
 DESCRIPTION:-
@@ -1482,11 +1186,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10656-22-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - [object Object
-	] - [object Object]\,[object Object]\,[object Object]\,[object Object]\,[o
-	bject Object]\,[object Object]\,[object Object]\,[object Object]\,[object 
-	Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - SDR - DROBISZ 
+	Sébastien - B131 B132 B133 B141 B142
+DTSTAMP:20230204T180900Z
 DTSTART:20230210T071500Z
 DTEND:20230210T091500Z
 DESCRIPTION:-
@@ -1494,11 +1196,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10656-23-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - [object Object
-	] - [object Object]\,[object Object]\,[object Object]\,[object Object]\,[o
-	bject Object]\,[object Object]\,[object Object]\,[object Object]\,[object 
-	Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - SDR - DROBISZ 
+	Sébastien - B131 B132 B133 B141 B142
+DTSTAMP:20230204T180900Z
 DTSTART:20230217T071500Z
 DTEND:20230217T091500Z
 DESCRIPTION:-
@@ -1506,11 +1206,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10656-25-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - [object Object
-	] - [object Object]\,[object Object]\,[object Object]\,[object Object]\,[o
-	bject Object]\,[object Object]\,[object Object]\,[object Object]\,[object 
-	Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - SDR - DROBISZ 
+	Sébastien - B131 B132 B133 B141 B142
+DTSTAMP:20230204T180900Z
 DTSTART:20230303T071500Z
 DTEND:20230303T091500Z
 DESCRIPTION:-
@@ -1518,11 +1216,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10656-26-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - [object Object
-	] - [object Object]\,[object Object]\,[object Object]\,[object Object]\,[o
-	bject Object]\,[object Object]\,[object Object]\,[object Object]\,[object 
-	Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - SDR - DROBISZ 
+	Sébastien - B131 B132 B133 B141 B142
+DTSTAMP:20230204T180900Z
 DTSTART:20230310T071500Z
 DTEND:20230310T091500Z
 DESCRIPTION:-
@@ -1530,11 +1226,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10656-27-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - [object Object
-	] - [object Object]\,[object Object]\,[object Object]\,[object Object]\,[o
-	bject Object]\,[object Object]\,[object Object]\,[object Object]\,[object 
-	Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - SDR - DROBISZ 
+	Sébastien - B131 B132 B133 B141 B142
+DTSTAMP:20230204T180900Z
 DTSTART:20230317T071500Z
 DTEND:20230317T091500Z
 DESCRIPTION:-

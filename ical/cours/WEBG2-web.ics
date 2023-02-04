@@ -6,11 +6,9 @@ METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:Cours-10653-22-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - [object Object
-	] - [object Object]\,[object Object]\,[object Object]\,[object Object]\,[o
-	bject Object]\,[object Object]\,[object Object]\,[object Object]\,[object 
-	Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - SDR - DROBISZ 
+	Sébastien - B131 B132 B133 B141 B142
+DTSTAMP:20230204T180900Z
 DTSTART:20230207T124500Z
 DTEND:20230207T144500Z
 DESCRIPTION:-
@@ -18,11 +16,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10653-23-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - [object Object
-	] - [object Object]\,[object Object]\,[object Object]\,[object Object]\,[o
-	bject Object]\,[object Object]\,[object Object]\,[object Object]\,[object 
-	Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - SDR - DROBISZ 
+	Sébastien - B131 B132 B133 B141 B142
+DTSTAMP:20230204T180900Z
 DTSTART:20230214T124500Z
 DTEND:20230214T144500Z
 DESCRIPTION:-
@@ -30,11 +26,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10653-25-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - [object Object
-	] - [object Object]\,[object Object]\,[object Object]\,[object Object]\,[o
-	bject Object]\,[object Object]\,[object Object]\,[object Object]\,[object 
-	Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - SDR - DROBISZ 
+	Sébastien - B131 B132 B133 B141 B142
+DTSTAMP:20230204T180900Z
 DTSTART:20230228T124500Z
 DTEND:20230228T144500Z
 DESCRIPTION:-
@@ -42,11 +36,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10653-26-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - [object Object
-	] - [object Object]\,[object Object]\,[object Object]\,[object Object]\,[o
-	bject Object]\,[object Object]\,[object Object]\,[object Object]\,[object 
-	Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - SDR - DROBISZ 
+	Sébastien - B131 B132 B133 B141 B142
+DTSTAMP:20230204T180900Z
 DTSTART:20230307T124500Z
 DTEND:20230307T144500Z
 DESCRIPTION:-
@@ -54,11 +46,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10653-27-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - [object Object
-	] - [object Object]\,[object Object]\,[object Object]\,[object Object]\,[o
-	bject Object]\,[object Object]\,[object Object]\,[object Object]\,[object 
-	Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - SDR - DROBISZ 
+	Sébastien - B131 B132 B133 B141 B142
+DTSTAMP:20230204T180900Z
 DTSTART:20230314T124500Z
 DTEND:20230314T144500Z
 DESCRIPTION:-
@@ -66,11 +56,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10653-28-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - [object Object
-	] - [object Object]\,[object Object]\,[object Object]\,[object Object]\,[o
-	bject Object]\,[object Object]\,[object Object]\,[object Object]\,[object 
-	Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - SDR - DROBISZ 
+	Sébastien - B131 B132 B133 B141 B142
+DTSTAMP:20230204T180900Z
 DTSTART:20230321T124500Z
 DTEND:20230321T144500Z
 DESCRIPTION:-
@@ -78,11 +66,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10654-22-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - [object
-	 Object] - [object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
-	object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - DBO - B
+	OIGELOT Denis - B111 B112 B113 B121 B122 B123
+DTSTAMP:20230204T180900Z
 DTSTART:20230206T124500Z
 DTEND:20230206T144500Z
 DESCRIPTION:-
@@ -90,11 +76,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10654-23-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - [object
-	 Object] - [object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
-	object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - DBO - B
+	OIGELOT Denis - B111 B112 B113 B121 B122 B123
+DTSTAMP:20230204T180900Z
 DTSTART:20230213T124500Z
 DTEND:20230213T144500Z
 DESCRIPTION:-
@@ -102,11 +86,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10654-25-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - [object
-	 Object] - [object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
-	object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - DBO - B
+	OIGELOT Denis - B111 B112 B113 B121 B122 B123
+DTSTAMP:20230204T180900Z
 DTSTART:20230227T124500Z
 DTEND:20230227T144500Z
 DESCRIPTION:-
@@ -114,11 +96,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10654-26-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - [object
-	 Object] - [object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
-	object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - DBO - B
+	OIGELOT Denis - B111 B112 B113 B121 B122 B123
+DTSTAMP:20230204T180900Z
 DTSTART:20230306T124500Z
 DTEND:20230306T144500Z
 DESCRIPTION:-
@@ -126,11 +106,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10654-27-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - [object
-	 Object] - [object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
-	object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - DBO - B
+	OIGELOT Denis - B111 B112 B113 B121 B122 B123
+DTSTAMP:20230204T180900Z
 DTSTART:20230313T124500Z
 DTEND:20230313T144500Z
 DESCRIPTION:-
@@ -138,11 +116,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10654-28-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - [object
-	 Object] - [object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
-	object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - DBO - B
+	OIGELOT Denis - B111 B112 B113 B121 B122 B123
+DTSTAMP:20230204T180900Z
 DTSTART:20230320T124500Z
 DTEND:20230320T144500Z
 DESCRIPTION:-
@@ -150,11 +126,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10655-22-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - [object
-	 Object] - [object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
-	object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - DBO - B
+	OIGELOT Denis - B111 B112 B113 B121 B122 B123
+DTSTAMP:20230204T180900Z
 DTSTART:20230207T093000Z
 DTEND:20230207T113000Z
 DESCRIPTION:-
@@ -162,11 +136,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10655-23-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - [object
-	 Object] - [object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
-	object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - DBO - B
+	OIGELOT Denis - B111 B112 B113 B121 B122 B123
+DTSTAMP:20230204T180900Z
 DTSTART:20230214T093000Z
 DTEND:20230214T113000Z
 DESCRIPTION:-
@@ -174,11 +146,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10655-25-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - [object
-	 Object] - [object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
-	object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - DBO - B
+	OIGELOT Denis - B111 B112 B113 B121 B122 B123
+DTSTAMP:20230204T180900Z
 DTSTART:20230228T093000Z
 DTEND:20230228T113000Z
 DESCRIPTION:-
@@ -186,11 +156,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10655-26-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - [object
-	 Object] - [object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
-	object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - DBO - B
+	OIGELOT Denis - B111 B112 B113 B121 B122 B123
+DTSTAMP:20230204T180900Z
 DTSTART:20230307T093000Z
 DTEND:20230307T113000Z
 DESCRIPTION:-
@@ -198,11 +166,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10655-27-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - [object
-	 Object] - [object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
-	object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - DBO - B
+	OIGELOT Denis - B111 B112 B113 B121 B122 B123
+DTSTAMP:20230204T180900Z
 DTSTART:20230314T093000Z
 DTEND:20230314T113000Z
 DESCRIPTION:-
@@ -210,11 +176,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10655-28-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - [object
-	 Object] - [object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
-	object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - DBO - B111\, B112\, B113\, B121\, B122\, B123 - DBO - B
+	OIGELOT Denis - B111 B112 B113 B121 B122 B123
+DTSTAMP:20230204T180900Z
 DTSTART:20230321T093000Z
 DTEND:20230321T113000Z
 DESCRIPTION:-
@@ -222,11 +186,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10656-21-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - [object Object
-	] - [object Object]\,[object Object]\,[object Object]\,[object Object]\,[o
-	bject Object]\,[object Object]\,[object Object]\,[object Object]\,[object 
-	Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - SDR - DROBISZ 
+	Sébastien - B131 B132 B133 B141 B142
+DTSTAMP:20230204T180900Z
 DTSTART:20230203T071500Z
 DTEND:20230203T091500Z
 DESCRIPTION:-
@@ -234,11 +196,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10656-22-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - [object Object
-	] - [object Object]\,[object Object]\,[object Object]\,[object Object]\,[o
-	bject Object]\,[object Object]\,[object Object]\,[object Object]\,[object 
-	Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - SDR - DROBISZ 
+	Sébastien - B131 B132 B133 B141 B142
+DTSTAMP:20230204T180900Z
 DTSTART:20230210T071500Z
 DTEND:20230210T091500Z
 DESCRIPTION:-
@@ -246,11 +206,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10656-23-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - [object Object
-	] - [object Object]\,[object Object]\,[object Object]\,[object Object]\,[o
-	bject Object]\,[object Object]\,[object Object]\,[object Object]\,[object 
-	Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - SDR - DROBISZ 
+	Sébastien - B131 B132 B133 B141 B142
+DTSTAMP:20230204T180900Z
 DTSTART:20230217T071500Z
 DTEND:20230217T091500Z
 DESCRIPTION:-
@@ -258,11 +216,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10656-25-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - [object Object
-	] - [object Object]\,[object Object]\,[object Object]\,[object Object]\,[o
-	bject Object]\,[object Object]\,[object Object]\,[object Object]\,[object 
-	Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - SDR - DROBISZ 
+	Sébastien - B131 B132 B133 B141 B142
+DTSTAMP:20230204T180900Z
 DTSTART:20230303T071500Z
 DTEND:20230303T091500Z
 DESCRIPTION:-
@@ -270,11 +226,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10656-26-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - [object Object
-	] - [object Object]\,[object Object]\,[object Object]\,[object Object]\,[o
-	bject Object]\,[object Object]\,[object Object]\,[object Object]\,[object 
-	Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - SDR - DROBISZ 
+	Sébastien - B131 B132 B133 B141 B142
+DTSTAMP:20230204T180900Z
 DTSTART:20230310T071500Z
 DTEND:20230310T091500Z
 DESCRIPTION:-
@@ -282,11 +236,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10656-27-WEBG2-web-Index-Education
-SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - [object Object
-	] - [object Object]\,[object Object]\,[object Object]\,[object Object]\,[o
-	bject Object]\,[object Object]\,[object Object]\,[object Object]\,[object 
-	Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:WEBG2-web - SDR - B131\, B132\, B133\, B141\, B142 - SDR - DROBISZ 
+	Sébastien - B131 B132 B133 B141 B142
+DTSTAMP:20230204T180900Z
 DTSTART:20230317T071500Z
 DTEND:20230317T091500Z
 DESCRIPTION:-

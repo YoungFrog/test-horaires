@@ -6,8 +6,8 @@ METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:Cours-10776-22-ATLG4-atl-Index-Education
-SUMMARY:ATLG4-atl - PBT - D111 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:ATLG4-atl - PBT - D111 - PBT - BETTENS Pierre - D111
+DTSTAMP:20230204T180900Z
 DTSTART:20230207T093000Z
 DTEND:20230207T113000Z
 DESCRIPTION:-
@@ -15,8 +15,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10776-23-ATLG4-atl-Index-Education
-SUMMARY:ATLG4-atl - PBT - D111 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:ATLG4-atl - PBT - D111 - PBT - BETTENS Pierre - D111
+DTSTAMP:20230204T180900Z
 DTSTART:20230214T093000Z
 DTEND:20230214T113000Z
 DESCRIPTION:-
@@ -24,8 +24,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10776-25-ATLG4-atl-Index-Education
-SUMMARY:ATLG4-atl - PBT - D111 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:ATLG4-atl - PBT - D111 - PBT - BETTENS Pierre - D111
+DTSTAMP:20230204T180900Z
 DTSTART:20230228T093000Z
 DTEND:20230228T113000Z
 DESCRIPTION:-
@@ -33,8 +33,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10776-26-ATLG4-atl-Index-Education
-SUMMARY:ATLG4-atl - PBT - D111 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:ATLG4-atl - PBT - D111 - PBT - BETTENS Pierre - D111
+DTSTAMP:20230204T180900Z
 DTSTART:20230307T093000Z
 DTEND:20230307T113000Z
 DESCRIPTION:-
@@ -42,8 +42,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10776-27-ATLG4-atl-Index-Education
-SUMMARY:ATLG4-atl - PBT - D111 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:ATLG4-atl - PBT - D111 - PBT - BETTENS Pierre - D111
+DTSTAMP:20230204T180900Z
 DTSTART:20230314T093000Z
 DTEND:20230314T113000Z
 DESCRIPTION:-
@@ -51,8 +51,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10776-28-ATLG4-atl-Index-Education
-SUMMARY:ATLG4-atl - PBT - D111 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:ATLG4-atl - PBT - D111 - PBT - BETTENS Pierre - D111
+DTSTAMP:20230204T180900Z
 DTSTART:20230321T093000Z
 DTEND:20230321T113000Z
 DESCRIPTION:-
@@ -60,8 +60,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10782-22-ATLG4-atl-Index-Education
-SUMMARY:ATLG4-atl - SRV - D122 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:ATLG4-atl - SRV - D122 - SRV - SERVAIS Frédéric - D122
+DTSTAMP:20230204T180900Z
 DTSTART:20230206T093000Z
 DTEND:20230206T113000Z
 DESCRIPTION:-
@@ -69,8 +69,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10782-23-ATLG4-atl-Index-Education
-SUMMARY:ATLG4-atl - SRV - D122 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:ATLG4-atl - SRV - D122 - SRV - SERVAIS Frédéric - D122
+DTSTAMP:20230204T180900Z
 DTSTART:20230213T093000Z
 DTEND:20230213T113000Z
 DESCRIPTION:-
@@ -78,8 +78,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10782-25-ATLG4-atl-Index-Education
-SUMMARY:ATLG4-atl - SRV - D122 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:ATLG4-atl - SRV - D122 - SRV - SERVAIS Frédéric - D122
+DTSTAMP:20230204T180900Z
 DTSTART:20230227T093000Z
 DTEND:20230227T113000Z
 DESCRIPTION:-
@@ -87,8 +87,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10782-26-ATLG4-atl-Index-Education
-SUMMARY:ATLG4-atl - SRV - D122 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:ATLG4-atl - SRV - D122 - SRV - SERVAIS Frédéric - D122
+DTSTAMP:20230204T180900Z
 DTSTART:20230306T093000Z
 DTEND:20230306T113000Z
 DESCRIPTION:-
@@ -96,8 +96,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10782-27-ATLG4-atl-Index-Education
-SUMMARY:ATLG4-atl - SRV - D122 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:ATLG4-atl - SRV - D122 - SRV - SERVAIS Frédéric - D122
+DTSTAMP:20230204T180900Z
 DTSTART:20230313T093000Z
 DTEND:20230313T113000Z
 DESCRIPTION:-
@@ -105,8 +105,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10782-28-ATLG4-atl-Index-Education
-SUMMARY:ATLG4-atl - SRV - D122 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:ATLG4-atl - SRV - D122 - SRV - SERVAIS Frédéric - D122
+DTSTAMP:20230204T180900Z
 DTSTART:20230320T093000Z
 DTEND:20230320T113000Z
 DESCRIPTION:-
@@ -114,8 +114,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10783-21-ATLG4-atl-Index-Education
-SUMMARY:ATLG4-atl - SRV - D122 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:ATLG4-atl - SRV - D122 - SRV - SERVAIS Frédéric - D122
+DTSTAMP:20230204T180900Z
 DTSTART:20230201T071500Z
 DTEND:20230201T091500Z
 DESCRIPTION:-
@@ -123,8 +123,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10783-22-ATLG4-atl-Index-Education
-SUMMARY:ATLG4-atl - SRV - D122 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:ATLG4-atl - SRV - D122 - SRV - SERVAIS Frédéric - D122
+DTSTAMP:20230204T180900Z
 DTSTART:20230208T071500Z
 DTEND:20230208T091500Z
 DESCRIPTION:-
@@ -132,8 +132,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10783-23-ATLG4-atl-Index-Education
-SUMMARY:ATLG4-atl - SRV - D122 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:ATLG4-atl - SRV - D122 - SRV - SERVAIS Frédéric - D122
+DTSTAMP:20230204T180900Z
 DTSTART:20230215T071500Z
 DTEND:20230215T091500Z
 DESCRIPTION:-
@@ -141,8 +141,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10783-25-ATLG4-atl-Index-Education
-SUMMARY:ATLG4-atl - SRV - D122 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:ATLG4-atl - SRV - D122 - SRV - SERVAIS Frédéric - D122
+DTSTAMP:20230204T180900Z
 DTSTART:20230301T071500Z
 DTEND:20230301T091500Z
 DESCRIPTION:-
@@ -150,8 +150,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10783-26-ATLG4-atl-Index-Education
-SUMMARY:ATLG4-atl - SRV - D122 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:ATLG4-atl - SRV - D122 - SRV - SERVAIS Frédéric - D122
+DTSTAMP:20230204T180900Z
 DTSTART:20230308T071500Z
 DTEND:20230308T091500Z
 DESCRIPTION:-
@@ -159,8 +159,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10783-27-ATLG4-atl-Index-Education
-SUMMARY:ATLG4-atl - SRV - D122 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:ATLG4-atl - SRV - D122 - SRV - SERVAIS Frédéric - D122
+DTSTAMP:20230204T180900Z
 DTSTART:20230315T071500Z
 DTEND:20230315T091500Z
 DESCRIPTION:-
@@ -168,8 +168,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10796-22-ATLIR4-Index-Education
-SUMMARY:ATLIR4 - SRV - D211 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:ATLIR4 - SRV - D211 - SRV - SERVAIS Frédéric - D211
+DTSTAMP:20230204T180900Z
 DTSTART:20230206T071500Z
 DTEND:20230206T091500Z
 DESCRIPTION:-
@@ -177,8 +177,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10796-23-ATLIR4-Index-Education
-SUMMARY:ATLIR4 - SRV - D211 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:ATLIR4 - SRV - D211 - SRV - SERVAIS Frédéric - D211
+DTSTAMP:20230204T180900Z
 DTSTART:20230213T071500Z
 DTEND:20230213T091500Z
 DESCRIPTION:-
@@ -186,8 +186,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10796-25-ATLIR4-Index-Education
-SUMMARY:ATLIR4 - SRV - D211 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:ATLIR4 - SRV - D211 - SRV - SERVAIS Frédéric - D211
+DTSTAMP:20230204T180900Z
 DTSTART:20230227T071500Z
 DTEND:20230227T091500Z
 DESCRIPTION:-
@@ -195,8 +195,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10796-26-ATLIR4-Index-Education
-SUMMARY:ATLIR4 - SRV - D211 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:ATLIR4 - SRV - D211 - SRV - SERVAIS Frédéric - D211
+DTSTAMP:20230204T180900Z
 DTSTART:20230306T071500Z
 DTEND:20230306T091500Z
 DESCRIPTION:-
@@ -204,8 +204,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10796-27-ATLIR4-Index-Education
-SUMMARY:ATLIR4 - SRV - D211 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:ATLIR4 - SRV - D211 - SRV - SERVAIS Frédéric - D211
+DTSTAMP:20230204T180900Z
 DTSTART:20230313T071500Z
 DTEND:20230313T091500Z
 DESCRIPTION:-
@@ -213,8 +213,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10796-28-ATLIR4-Index-Education
-SUMMARY:ATLIR4 - SRV - D211 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:ATLIR4 - SRV - D211 - SRV - SERVAIS Frédéric - D211
+DTSTAMP:20230204T180900Z
 DTSTART:20230320T071500Z
 DTEND:20230320T091500Z
 DESCRIPTION:-
@@ -222,8 +222,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10797-21-ATLIR4-Index-Education
-SUMMARY:ATLIR4 - SRV - D211 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:ATLIR4 - SRV - D211 - SRV - SERVAIS Frédéric - D211
+DTSTAMP:20230204T180900Z
 DTSTART:20230201T093000Z
 DTEND:20230201T113000Z
 DESCRIPTION:-
@@ -231,8 +231,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10797-22-ATLIR4-Index-Education
-SUMMARY:ATLIR4 - SRV - D211 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:ATLIR4 - SRV - D211 - SRV - SERVAIS Frédéric - D211
+DTSTAMP:20230204T180900Z
 DTSTART:20230208T093000Z
 DTEND:20230208T113000Z
 DESCRIPTION:-
@@ -240,8 +240,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10797-23-ATLIR4-Index-Education
-SUMMARY:ATLIR4 - SRV - D211 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:ATLIR4 - SRV - D211 - SRV - SERVAIS Frédéric - D211
+DTSTAMP:20230204T180900Z
 DTSTART:20230215T093000Z
 DTEND:20230215T113000Z
 DESCRIPTION:-
@@ -249,8 +249,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10797-25-ATLIR4-Index-Education
-SUMMARY:ATLIR4 - SRV - D211 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:ATLIR4 - SRV - D211 - SRV - SERVAIS Frédéric - D211
+DTSTAMP:20230204T180900Z
 DTSTART:20230301T093000Z
 DTEND:20230301T113000Z
 DESCRIPTION:-
@@ -258,8 +258,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10797-26-ATLIR4-Index-Education
-SUMMARY:ATLIR4 - SRV - D211 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:ATLIR4 - SRV - D211 - SRV - SERVAIS Frédéric - D211
+DTSTAMP:20230204T180900Z
 DTSTART:20230308T093000Z
 DTEND:20230308T113000Z
 DESCRIPTION:-
@@ -267,8 +267,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10797-27-ATLIR4-Index-Education
-SUMMARY:ATLIR4 - SRV - D211 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:ATLIR4 - SRV - D211 - SRV - SERVAIS Frédéric - D211
+DTSTAMP:20230204T180900Z
 DTSTART:20230315T093000Z
 DTEND:20230315T113000Z
 DESCRIPTION:-
@@ -276,8 +276,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10738-21-DEV2-javl-Index-Education
-SUMMARY:DEV2-javl - PBT - B112 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:DEV2-javl - PBT - B112 - PBT - BETTENS Pierre - B112
+DTSTAMP:20230204T180900Z
 DTSTART:20230202T093000Z
 DTEND:20230202T113000Z
 DESCRIPTION:-
@@ -285,8 +285,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10738-22-DEV2-javl-Index-Education
-SUMMARY:DEV2-javl - PBT - B112 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:DEV2-javl - PBT - B112 - PBT - BETTENS Pierre - B112
+DTSTAMP:20230204T180900Z
 DTSTART:20230209T093000Z
 DTEND:20230209T113000Z
 DESCRIPTION:-
@@ -294,8 +294,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10738-23-DEV2-javl-Index-Education
-SUMMARY:DEV2-javl - PBT - B112 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:DEV2-javl - PBT - B112 - PBT - BETTENS Pierre - B112
+DTSTAMP:20230204T180900Z
 DTSTART:20230216T093000Z
 DTEND:20230216T113000Z
 DESCRIPTION:-
@@ -303,8 +303,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10738-25-DEV2-javl-Index-Education
-SUMMARY:DEV2-javl - PBT - B112 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:DEV2-javl - PBT - B112 - PBT - BETTENS Pierre - B112
+DTSTAMP:20230204T180900Z
 DTSTART:20230302T093000Z
 DTEND:20230302T113000Z
 DESCRIPTION:-
@@ -312,8 +312,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10738-26-DEV2-javl-Index-Education
-SUMMARY:DEV2-javl - PBT - B112 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:DEV2-javl - PBT - B112 - PBT - BETTENS Pierre - B112
+DTSTAMP:20230204T180900Z
 DTSTART:20230309T093000Z
 DTEND:20230309T113000Z
 DESCRIPTION:-
@@ -321,8 +321,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10738-27-DEV2-javl-Index-Education
-SUMMARY:DEV2-javl - PBT - B112 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:DEV2-javl - PBT - B112 - PBT - BETTENS Pierre - B112
+DTSTAMP:20230204T180900Z
 DTSTART:20230316T093000Z
 DTEND:20230316T113000Z
 DESCRIPTION:-
@@ -330,8 +330,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10754-22-DEV2-javl-Index-Education
-SUMMARY:DEV2-javl - PBT - B223 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:DEV2-javl - PBT - B223 - PBT - BETTENS Pierre - B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230207T124500Z
 DTEND:20230207T144500Z
 DESCRIPTION:-
@@ -339,8 +339,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10754-23-DEV2-javl-Index-Education
-SUMMARY:DEV2-javl - PBT - B223 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:DEV2-javl - PBT - B223 - PBT - BETTENS Pierre - B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230214T124500Z
 DTEND:20230214T144500Z
 DESCRIPTION:-
@@ -348,8 +348,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10754-25-DEV2-javl-Index-Education
-SUMMARY:DEV2-javl - PBT - B223 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:DEV2-javl - PBT - B223 - PBT - BETTENS Pierre - B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230228T124500Z
 DTEND:20230228T144500Z
 DESCRIPTION:-
@@ -357,8 +357,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10754-26-DEV2-javl-Index-Education
-SUMMARY:DEV2-javl - PBT - B223 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:DEV2-javl - PBT - B223 - PBT - BETTENS Pierre - B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230307T124500Z
 DTEND:20230307T144500Z
 DESCRIPTION:-
@@ -366,8 +366,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10754-27-DEV2-javl-Index-Education
-SUMMARY:DEV2-javl - PBT - B223 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:DEV2-javl - PBT - B223 - PBT - BETTENS Pierre - B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230314T124500Z
 DTEND:20230314T144500Z
 DESCRIPTION:-
@@ -375,8 +375,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10754-28-DEV2-javl-Index-Education
-SUMMARY:DEV2-javl - PBT - B223 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:DEV2-javl - PBT - B223 - PBT - BETTENS Pierre - B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230321T124500Z
 DTEND:20230321T144500Z
 DESCRIPTION:-
@@ -386,15 +386,10 @@ BEGIN:VEVENT
 UID:Cours-10839-22-DEV2-javl-Index-Education
 SUMMARY:DEV2-javl - GBA\, BEJ\, PBT\, MBR\, SDR\, TNI - B111\, B112\, B113\
 	, B141\, B142\, B211\, B212\, B213\, B221\, B222\, B223 - Labos ouverts - 
-	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
-	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object] - [object Object]\,[object Object]\,
-	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
-	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
-	object Object]\,[object Object]\,[object Object]\,[object Object]\,[object
-	 Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	GBA - BALTUS Grégory BEJ - BELEHO Jonas PBT - BETTENS Pierre MBR - BURDA M
+	arcelo SDR - DROBISZ Sébastien TNI - NICODEME Thibaut - B111 B112 B113 B14
+	1 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230207T071500Z
 DTEND:20230207T091500Z
 DESCRIPTION:-
@@ -404,15 +399,10 @@ BEGIN:VEVENT
 UID:Cours-10839-23-DEV2-javl-Index-Education
 SUMMARY:DEV2-javl - GBA\, BEJ\, PBT\, MBR\, SDR\, TNI - B111\, B112\, B113\
 	, B141\, B142\, B211\, B212\, B213\, B221\, B222\, B223 - Labos ouverts - 
-	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
-	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object] - [object Object]\,[object Object]\,
-	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
-	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
-	object Object]\,[object Object]\,[object Object]\,[object Object]\,[object
-	 Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	GBA - BALTUS Grégory BEJ - BELEHO Jonas PBT - BETTENS Pierre MBR - BURDA M
+	arcelo SDR - DROBISZ Sébastien TNI - NICODEME Thibaut - B111 B112 B113 B14
+	1 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230214T071500Z
 DTEND:20230214T091500Z
 DESCRIPTION:-
@@ -421,15 +411,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10839-25-DEV2-javl-Index-Education
 SUMMARY:DEV2-javl - GBA\, BEJ\, MBR\, SDR\, TNI - B111\, B112\, B113\, B141
-	\, B142\, B211\, B212\, B213\, B221\, B222\, B223 - Labos ouverts - [objec
-	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object] - 
-	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
-	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
-	object Object]\,[object Object]\,[object Object]\,[object Object]\,[object
-	 Object]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	\, B142\, B211\, B212\, B213\, B221\, B222\, B223 - Labos ouverts - GBA - 
+	BALTUS Grégory BEJ - BELEHO Jonas MBR - BURDA Marcelo SDR - DROBISZ Sébast
+	ien TNI - NICODEME Thibaut - B111 B112 B113 B141 B142 B211 B212 B213 B221 
+	B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230228T071500Z
 DTEND:20230228T091500Z
 DESCRIPTION:-
@@ -439,15 +425,10 @@ BEGIN:VEVENT
 UID:Cours-10839-26-DEV2-javl-Index-Education
 SUMMARY:DEV2-javl - GBA\, BEJ\, PBT\, MBR\, SDR\, TNI - B111\, B112\, B113\
 	, B141\, B142\, B211\, B212\, B213\, B221\, B222\, B223 - Labos ouverts - 
-	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
-	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object] - [object Object]\,[object Object]\,
-	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
-	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
-	object Object]\,[object Object]\,[object Object]\,[object Object]\,[object
-	 Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	GBA - BALTUS Grégory BEJ - BELEHO Jonas PBT - BETTENS Pierre MBR - BURDA M
+	arcelo SDR - DROBISZ Sébastien TNI - NICODEME Thibaut - B111 B112 B113 B14
+	1 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230307T071500Z
 DTEND:20230307T091500Z
 DESCRIPTION:-
@@ -456,15 +437,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10839-27-DEV2-javl-Index-Education
 SUMMARY:DEV2-javl - GBA\, BEJ\, MBR\, SDR\, TNI - B111\, B112\, B113\, B141
-	\, B142\, B211\, B212\, B213\, B221\, B222\, B223 - Labos ouverts - [objec
-	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object] - 
-	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
-	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
-	object Object]\,[object Object]\,[object Object]\,[object Object]\,[object
-	 Object]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	\, B142\, B211\, B212\, B213\, B221\, B222\, B223 - Labos ouverts - GBA - 
+	BALTUS Grégory BEJ - BELEHO Jonas MBR - BURDA Marcelo SDR - DROBISZ Sébast
+	ien TNI - NICODEME Thibaut - B111 B112 B113 B141 B142 B211 B212 B213 B221 
+	B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230314T071500Z
 DTEND:20230314T091500Z
 DESCRIPTION:-
@@ -474,15 +451,10 @@ BEGIN:VEVENT
 UID:Cours-10839-28-DEV2-javl-Index-Education
 SUMMARY:DEV2-javl - GBA\, BEJ\, PBT\, MBR\, SDR\, TNI - B111\, B112\, B113\
 	, B141\, B142\, B211\, B212\, B213\, B221\, B222\, B223 - Labos ouverts - 
-	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
-	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object] - [object Object]\,[object Object]\,
-	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
-	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
-	object Object]\,[object Object]\,[object Object]\,[object Object]\,[object
-	 Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	GBA - BALTUS Grégory BEJ - BELEHO Jonas PBT - BETTENS Pierre MBR - BURDA M
+	arcelo SDR - DROBISZ Sébastien TNI - NICODEME Thibaut - B111 B112 B113 B14
+	1 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230321T071500Z
 DTEND:20230321T091500Z
 DESCRIPTION:-
@@ -492,15 +464,10 @@ BEGIN:VEVENT
 UID:Cours-10839-29-DEV2-javl-Index-Education
 SUMMARY:DEV2-javl - GBA\, BEJ\, PBT\, MBR\, SDR\, TNI - B111\, B112\, B113\
 	, B141\, B142\, B211\, B212\, B213\, B221\, B222\, B223 - Labos ouverts - 
-	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
-	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object] - [object Object]\,[object Object]\,
-	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
-	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
-	object Object]\,[object Object]\,[object Object]\,[object Object]\,[object
-	 Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	GBA - BALTUS Grégory BEJ - BELEHO Jonas PBT - BETTENS Pierre MBR - BURDA M
+	arcelo SDR - DROBISZ Sébastien TNI - NICODEME Thibaut - B111 B112 B113 B14
+	1 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230328T061500Z
 DTEND:20230328T081500Z
 DESCRIPTION:-
@@ -510,15 +477,10 @@ BEGIN:VEVENT
 UID:Cours-10839-32-DEV2-javl-Index-Education
 SUMMARY:DEV2-javl - GBA\, BEJ\, PBT\, MBR\, SDR\, TNI - B111\, B112\, B113\
 	, B141\, B142\, B211\, B212\, B213\, B221\, B222\, B223 - Labos ouverts - 
-	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
-	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object] - [object Object]\,[object Object]\,
-	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
-	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
-	object Object]\,[object Object]\,[object Object]\,[object Object]\,[object
-	 Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	GBA - BALTUS Grégory BEJ - BELEHO Jonas PBT - BETTENS Pierre MBR - BURDA M
+	arcelo SDR - DROBISZ Sébastien TNI - NICODEME Thibaut - B111 B112 B113 B14
+	1 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230418T061500Z
 DTEND:20230418T081500Z
 DESCRIPTION:-
@@ -528,15 +490,10 @@ BEGIN:VEVENT
 UID:Cours-10839-33-DEV2-javl-Index-Education
 SUMMARY:DEV2-javl - GBA\, BEJ\, PBT\, MBR\, SDR\, TNI - B111\, B112\, B113\
 	, B141\, B142\, B211\, B212\, B213\, B221\, B222\, B223 - Labos ouverts - 
-	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
-	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object] - [object Object]\,[object Object]\,
-	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
-	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
-	object Object]\,[object Object]\,[object Object]\,[object Object]\,[object
-	 Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	GBA - BALTUS Grégory BEJ - BELEHO Jonas PBT - BETTENS Pierre MBR - BURDA M
+	arcelo SDR - DROBISZ Sébastien TNI - NICODEME Thibaut - B111 B112 B113 B14
+	1 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230425T061500Z
 DTEND:20230425T081500Z
 DESCRIPTION:-
@@ -545,15 +502,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10839-35-DEV2-javl-Index-Education
 SUMMARY:DEV2-javl - GBA\, BEJ\, MBR\, SDR\, TNI - B111\, B112\, B113\, B141
-	\, B142\, B211\, B212\, B213\, B221\, B222\, B223 - Labos ouverts - [objec
-	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object] - 
-	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
-	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
-	object Object]\,[object Object]\,[object Object]\,[object Object]\,[object
-	 Object]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	\, B142\, B211\, B212\, B213\, B221\, B222\, B223 - Labos ouverts - GBA - 
+	BALTUS Grégory BEJ - BELEHO Jonas MBR - BURDA Marcelo SDR - DROBISZ Sébast
+	ien TNI - NICODEME Thibaut - B111 B112 B113 B141 B142 B211 B212 B213 B221 
+	B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230509T061500Z
 DTEND:20230509T081500Z
 DESCRIPTION:-
@@ -563,15 +516,10 @@ BEGIN:VEVENT
 UID:Cours-10839-36-DEV2-javl-Index-Education
 SUMMARY:DEV2-javl - GBA\, BEJ\, PBT\, MBR\, SDR\, TNI - B111\, B112\, B113\
 	, B141\, B142\, B211\, B212\, B213\, B221\, B222\, B223 - Labos ouverts - 
-	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
-	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object] - [object Object]\,[object Object]\,
-	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
-	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
-	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
-	object Object]\,[object Object]\,[object Object]\,[object Object]\,[object
-	 Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	GBA - BALTUS Grégory BEJ - BELEHO Jonas PBT - BETTENS Pierre MBR - BURDA M
+	arcelo SDR - DROBISZ Sébastien TNI - NICODEME Thibaut - B111 B112 B113 B14
+	1 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230516T061500Z
 DTEND:20230516T081500Z
 DESCRIPTION:-
@@ -580,11 +528,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10840-22-DEV2-javl-Index-Education
 SUMMARY:DEV2-javl - SDR\, SRE\, NRI - B121\, B122\, B123\, B131\, B132\, B1
-	33 - Labos ouverts - [object Object]\,[object Object]\,[object Object]\,[o
-	bject Object]\,[object Object] - [object Object]\,[object Object]\,[object
-	 Object]\,[object Object]\,[object Object]\,[object Object]\,[object Objec
-	t]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	33 - Labos ouverts - SDR - DROBISZ Sébastien SRE - REXHEP Selim NRI - RICH
+	ARD Nicolas - B121 B122 B123 B131 B132 B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230208T124500Z
 DTEND:20230208T144500Z
 DESCRIPTION:-
@@ -593,11 +539,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10840-23-DEV2-javl-Index-Education
 SUMMARY:DEV2-javl - SDR\, SRE\, NRI - B121\, B122\, B123\, B131\, B132\, B1
-	33 - Labos ouverts - [object Object]\,[object Object]\,[object Object]\,[o
-	bject Object]\,[object Object] - [object Object]\,[object Object]\,[object
-	 Object]\,[object Object]\,[object Object]\,[object Object]\,[object Objec
-	t]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	33 - Labos ouverts - SDR - DROBISZ Sébastien SRE - REXHEP Selim NRI - RICH
+	ARD Nicolas - B121 B122 B123 B131 B132 B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230215T124500Z
 DTEND:20230215T144500Z
 DESCRIPTION:-
@@ -606,11 +550,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10840-25-DEV2-javl-Index-Education
 SUMMARY:DEV2-javl - SDR\, SRE\, NRI - B121\, B122\, B123\, B131\, B132\, B1
-	33 - Labos ouverts - [object Object]\,[object Object]\,[object Object]\,[o
-	bject Object]\,[object Object] - [object Object]\,[object Object]\,[object
-	 Object]\,[object Object]\,[object Object]\,[object Object]\,[object Objec
-	t]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	33 - Labos ouverts - SDR - DROBISZ Sébastien SRE - REXHEP Selim NRI - RICH
+	ARD Nicolas - B121 B122 B123 B131 B132 B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230301T124500Z
 DTEND:20230301T144500Z
 DESCRIPTION:-
@@ -619,11 +561,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10840-26-DEV2-javl-Index-Education
 SUMMARY:DEV2-javl - SDR\, SRE\, NRI - B121\, B122\, B123\, B131\, B132\, B1
-	33 - Labos ouverts - [object Object]\,[object Object]\,[object Object]\,[o
-	bject Object]\,[object Object] - [object Object]\,[object Object]\,[object
-	 Object]\,[object Object]\,[object Object]\,[object Object]\,[object Objec
-	t]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	33 - Labos ouverts - SDR - DROBISZ Sébastien SRE - REXHEP Selim NRI - RICH
+	ARD Nicolas - B121 B122 B123 B131 B132 B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230308T124500Z
 DTEND:20230308T144500Z
 DESCRIPTION:-
@@ -632,11 +572,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10840-27-DEV2-javl-Index-Education
 SUMMARY:DEV2-javl - SDR\, SRE\, NRI - B121\, B122\, B123\, B131\, B132\, B1
-	33 - Labos ouverts - [object Object]\,[object Object]\,[object Object]\,[o
-	bject Object]\,[object Object] - [object Object]\,[object Object]\,[object
-	 Object]\,[object Object]\,[object Object]\,[object Object]\,[object Objec
-	t]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	33 - Labos ouverts - SDR - DROBISZ Sébastien SRE - REXHEP Selim NRI - RICH
+	ARD Nicolas - B121 B122 B123 B131 B132 B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230315T124500Z
 DTEND:20230315T144500Z
 DESCRIPTION:-
@@ -644,8 +582,8 @@ LOCATION:301\, 305\, 401\, 403\, 404\, 405
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10772-21-DEV4-cppl-Index-Education
-SUMMARY:DEV4-cppl - PBT - D121 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:DEV4-cppl - PBT - D121 - PBT - BETTENS Pierre - D121
+DTSTAMP:20230204T180900Z
 DTSTART:20230202T124500Z
 DTEND:20230202T144500Z
 DESCRIPTION:-
@@ -653,8 +591,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10772-22-DEV4-cppl-Index-Education
-SUMMARY:DEV4-cppl - PBT - D121 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:DEV4-cppl - PBT - D121 - PBT - BETTENS Pierre - D121
+DTSTAMP:20230204T180900Z
 DTSTART:20230209T124500Z
 DTEND:20230209T144500Z
 DESCRIPTION:-
@@ -662,8 +600,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10772-23-DEV4-cppl-Index-Education
-SUMMARY:DEV4-cppl - PBT - D121 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:DEV4-cppl - PBT - D121 - PBT - BETTENS Pierre - D121
+DTSTAMP:20230204T180900Z
 DTSTART:20230216T124500Z
 DTEND:20230216T144500Z
 DESCRIPTION:-
@@ -671,8 +609,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10772-25-DEV4-cppl-Index-Education
-SUMMARY:DEV4-cppl - PBT - D121 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:DEV4-cppl - PBT - D121 - PBT - BETTENS Pierre - D121
+DTSTAMP:20230204T180900Z
 DTSTART:20230302T124500Z
 DTEND:20230302T144500Z
 DESCRIPTION:-
@@ -680,8 +618,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10772-26-DEV4-cppl-Index-Education
-SUMMARY:DEV4-cppl - PBT - D121 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:DEV4-cppl - PBT - D121 - PBT - BETTENS Pierre - D121
+DTSTAMP:20230204T180900Z
 DTSTART:20230309T124500Z
 DTEND:20230309T144500Z
 DESCRIPTION:-
@@ -689,8 +627,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10772-27-DEV4-cppl-Index-Education
-SUMMARY:DEV4-cppl - PBT - D121 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:DEV4-cppl - PBT - D121 - PBT - BETTENS Pierre - D121
+DTSTAMP:20230204T180900Z
 DTSTART:20230316T124500Z
 DTEND:20230316T144500Z
 DESCRIPTION:-
@@ -698,8 +636,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10724-21-DON2-perl-Index-Education
-SUMMARY:DON2-perl - YVO - B142 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:DON2-perl - YVO - B142 - YVO - VOGLAIRE Yannick - B142
+DTSTAMP:20230204T180900Z
 DTSTART:20230203T093000Z
 DTEND:20230203T113000Z
 DESCRIPTION:-
@@ -707,8 +645,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10724-22-DON2-perl-Index-Education
-SUMMARY:DON2-perl - YVO - B142 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:DON2-perl - YVO - B142 - YVO - VOGLAIRE Yannick - B142
+DTSTAMP:20230204T180900Z
 DTSTART:20230210T093000Z
 DTEND:20230210T113000Z
 DESCRIPTION:-
@@ -716,8 +654,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10724-23-DON2-perl-Index-Education
-SUMMARY:DON2-perl - YVO - B142 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:DON2-perl - YVO - B142 - YVO - VOGLAIRE Yannick - B142
+DTSTAMP:20230204T180900Z
 DTSTART:20230217T093000Z
 DTEND:20230217T113000Z
 DESCRIPTION:-
@@ -725,8 +663,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10724-25-DON2-perl-Index-Education
-SUMMARY:DON2-perl - YVO - B142 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:DON2-perl - YVO - B142 - YVO - VOGLAIRE Yannick - B142
+DTSTAMP:20230204T180900Z
 DTSTART:20230303T093000Z
 DTEND:20230303T113000Z
 DESCRIPTION:-
@@ -734,8 +672,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10724-26-DON2-perl-Index-Education
-SUMMARY:DON2-perl - YVO - B142 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:DON2-perl - YVO - B142 - YVO - VOGLAIRE Yannick - B142
+DTSTAMP:20230204T180900Z
 DTSTART:20230310T093000Z
 DTEND:20230310T113000Z
 DESCRIPTION:-
@@ -743,8 +681,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10724-27-DON2-perl-Index-Education
-SUMMARY:DON2-perl - YVO - B142 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:DON2-perl - YVO - B142 - YVO - VOGLAIRE Yannick - B142
+DTSTAMP:20230204T180900Z
 DTSTART:20230317T093000Z
 DTEND:20230317T113000Z
 DESCRIPTION:-
@@ -752,8 +690,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10696-22-MIC2-micl-Index-Education
-SUMMARY:MIC2-micl - HAL - B211 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:MIC2-micl - HAL - B211 - HAL - HALLAL Amine - B211
+DTSTAMP:20230204T180900Z
 DTSTART:20230206T150000Z
 DTEND:20230206T170000Z
 DESCRIPTION:-
@@ -761,8 +699,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10696-23-MIC2-micl-Index-Education
-SUMMARY:MIC2-micl - HAL - B211 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:MIC2-micl - HAL - B211 - HAL - HALLAL Amine - B211
+DTSTAMP:20230204T180900Z
 DTSTART:20230213T150000Z
 DTEND:20230213T170000Z
 DESCRIPTION:-
@@ -770,8 +708,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10696-25-MIC2-micl-Index-Education
-SUMMARY:MIC2-micl - HAL - B211 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:MIC2-micl - HAL - B211 - HAL - HALLAL Amine - B211
+DTSTAMP:20230204T180900Z
 DTSTART:20230227T150000Z
 DTEND:20230227T170000Z
 DESCRIPTION:-
@@ -779,8 +717,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10696-26-MIC2-micl-Index-Education
-SUMMARY:MIC2-micl - HAL - B211 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:MIC2-micl - HAL - B211 - HAL - HALLAL Amine - B211
+DTSTAMP:20230204T180900Z
 DTSTART:20230306T150000Z
 DTEND:20230306T170000Z
 DESCRIPTION:-
@@ -788,8 +726,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10696-27-MIC2-micl-Index-Education
-SUMMARY:MIC2-micl - HAL - B211 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:MIC2-micl - HAL - B211 - HAL - HALLAL Amine - B211
+DTSTAMP:20230204T180900Z
 DTSTART:20230313T150000Z
 DTEND:20230313T170000Z
 DESCRIPTION:-
@@ -797,8 +735,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10696-28-MIC2-micl-Index-Education
-SUMMARY:MIC2-micl - HAL - B211 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:MIC2-micl - HAL - B211 - HAL - HALLAL Amine - B211
+DTSTAMP:20230204T180900Z
 DTSTART:20230320T150000Z
 DTEND:20230320T170000Z
 DESCRIPTION:-
@@ -806,8 +744,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10701-21-MIC2-micl-Index-Education
-SUMMARY:MIC2-micl - YVO - B121 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:MIC2-micl - YVO - B121 - YVO - VOGLAIRE Yannick - B121
+DTSTAMP:20230204T180900Z
 DTSTART:20230203T071500Z
 DTEND:20230203T091500Z
 DESCRIPTION:-
@@ -815,8 +753,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10701-22-MIC2-micl-Index-Education
-SUMMARY:MIC2-micl - YVO - B121 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:MIC2-micl - YVO - B121 - YVO - VOGLAIRE Yannick - B121
+DTSTAMP:20230204T180900Z
 DTSTART:20230210T071500Z
 DTEND:20230210T091500Z
 DESCRIPTION:-
@@ -824,8 +762,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10701-23-MIC2-micl-Index-Education
-SUMMARY:MIC2-micl - YVO - B121 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:MIC2-micl - YVO - B121 - YVO - VOGLAIRE Yannick - B121
+DTSTAMP:20230204T180900Z
 DTSTART:20230217T071500Z
 DTEND:20230217T091500Z
 DESCRIPTION:-
@@ -833,8 +771,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10701-25-MIC2-micl-Index-Education
-SUMMARY:MIC2-micl - YVO - B121 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:MIC2-micl - YVO - B121 - YVO - VOGLAIRE Yannick - B121
+DTSTAMP:20230204T180900Z
 DTSTART:20230303T071500Z
 DTEND:20230303T091500Z
 DESCRIPTION:-
@@ -842,8 +780,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10701-26-MIC2-micl-Index-Education
-SUMMARY:MIC2-micl - YVO - B121 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:MIC2-micl - YVO - B121 - YVO - VOGLAIRE Yannick - B121
+DTSTAMP:20230204T180900Z
 DTSTART:20230310T071500Z
 DTEND:20230310T091500Z
 DESCRIPTION:-
@@ -851,8 +789,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10701-27-MIC2-micl-Index-Education
-SUMMARY:MIC2-micl - YVO - B121 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:MIC2-micl - YVO - B121 - YVO - VOGLAIRE Yannick - B121
+DTSTAMP:20230204T180900Z
 DTSTART:20230317T071500Z
 DTEND:20230317T091500Z
 DESCRIPTION:-
@@ -860,8 +798,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10709-22-MIC2-micl-Index-Education
-SUMMARY:MIC2-micl - HAL - B213 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:MIC2-micl - HAL - B213 - HAL - HALLAL Amine - B213
+DTSTAMP:20230204T180900Z
 DTSTART:20230206T124500Z
 DTEND:20230206T144500Z
 DESCRIPTION:-
@@ -869,8 +807,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10709-23-MIC2-micl-Index-Education
-SUMMARY:MIC2-micl - HAL - B213 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:MIC2-micl - HAL - B213 - HAL - HALLAL Amine - B213
+DTSTAMP:20230204T180900Z
 DTSTART:20230213T124500Z
 DTEND:20230213T144500Z
 DESCRIPTION:-
@@ -878,8 +816,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10709-25-MIC2-micl-Index-Education
-SUMMARY:MIC2-micl - HAL - B213 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:MIC2-micl - HAL - B213 - HAL - HALLAL Amine - B213
+DTSTAMP:20230204T180900Z
 DTSTART:20230227T124500Z
 DTEND:20230227T144500Z
 DESCRIPTION:-
@@ -887,8 +825,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10709-26-MIC2-micl-Index-Education
-SUMMARY:MIC2-micl - HAL - B213 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:MIC2-micl - HAL - B213 - HAL - HALLAL Amine - B213
+DTSTAMP:20230204T180900Z
 DTSTART:20230306T124500Z
 DTEND:20230306T144500Z
 DESCRIPTION:-
@@ -896,8 +834,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10709-27-MIC2-micl-Index-Education
-SUMMARY:MIC2-micl - HAL - B213 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:MIC2-micl - HAL - B213 - HAL - HALLAL Amine - B213
+DTSTAMP:20230204T180900Z
 DTSTART:20230313T124500Z
 DTEND:20230313T144500Z
 DESCRIPTION:-
@@ -905,8 +843,8 @@ LOCATION:404
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10709-28-MIC2-micl-Index-Education
-SUMMARY:MIC2-micl - HAL - B213 - [object Object] - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:MIC2-micl - HAL - B213 - HAL - HALLAL Amine - B213
+DTSTAMP:20230204T180900Z
 DTSTART:20230320T124500Z
 DTEND:20230320T144500Z
 DESCRIPTION:-

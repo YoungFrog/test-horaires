@@ -7,11 +7,8 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:Cours-10651-21-SYS2-Index-Education
 SUMMARY:SYS2 - MBA - B111\, B112\, B113\, B121\, B122\, B123\, B131\, B132\
-	, B133 - [object Object]\,[object Object]\,[object Object]\,[object Object
-	]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[ob
-	ject Object]\,[object Object]\,[object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	, B133 - B111 B112 B113 B121 B122 B123 B131 B132 B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230203T093000Z
 DTEND:20230203T113000Z
 DESCRIPTION:-
@@ -20,11 +17,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10651-22-SYS2-Index-Education
 SUMMARY:SYS2 - MBA - B111\, B112\, B113\, B121\, B122\, B123\, B131\, B132\
-	, B133 - [object Object]\,[object Object]\,[object Object]\,[object Object
-	]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[ob
-	ject Object]\,[object Object]\,[object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	, B133 - B111 B112 B113 B121 B122 B123 B131 B132 B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230210T093000Z
 DTEND:20230210T113000Z
 DESCRIPTION:-
@@ -33,11 +27,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10651-23-SYS2-Index-Education
 SUMMARY:SYS2 - MBA - B111\, B112\, B113\, B121\, B122\, B123\, B131\, B132\
-	, B133 - [object Object]\,[object Object]\,[object Object]\,[object Object
-	]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[ob
-	ject Object]\,[object Object]\,[object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	, B133 - B111 B112 B113 B121 B122 B123 B131 B132 B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230217T093000Z
 DTEND:20230217T113000Z
 DESCRIPTION:-
@@ -46,11 +37,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10651-25-SYS2-Index-Education
 SUMMARY:SYS2 - MBA - B111\, B112\, B113\, B121\, B122\, B123\, B131\, B132\
-	, B133 - [object Object]\,[object Object]\,[object Object]\,[object Object
-	]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[ob
-	ject Object]\,[object Object]\,[object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	, B133 - B111 B112 B113 B121 B122 B123 B131 B132 B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230303T093000Z
 DTEND:20230303T113000Z
 DESCRIPTION:-
@@ -59,11 +47,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10651-26-SYS2-Index-Education
 SUMMARY:SYS2 - MBA - B111\, B112\, B113\, B121\, B122\, B123\, B131\, B132\
-	, B133 - [object Object]\,[object Object]\,[object Object]\,[object Object
-	]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[ob
-	ject Object]\,[object Object]\,[object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	, B133 - B111 B112 B113 B121 B122 B123 B131 B132 B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230310T093000Z
 DTEND:20230310T113000Z
 DESCRIPTION:-
@@ -72,11 +57,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10651-27-SYS2-Index-Education
 SUMMARY:SYS2 - MBA - B111\, B112\, B113\, B121\, B122\, B123\, B131\, B132\
-	, B133 - [object Object]\,[object Object]\,[object Object]\,[object Object
-	]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[ob
-	ject Object]\,[object Object]\,[object Object]\,[object Object]\,[object O
-	bject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	, B133 - B111 B112 B113 B121 B122 B123 B131 B132 B133
+DTSTAMP:20230204T180900Z
 DTSTART:20230317T093000Z
 DTEND:20230317T113000Z
 DESCRIPTION:-
@@ -85,11 +67,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10652-21-SYS2-Index-Education
 SUMMARY:SYS2 - MBA - B141\, B142\, B211\, B212\, B213\, B221\, B222\, B223 
-	- [object Object]\,[object Object]\,[object Object]\,[object Object]\,[obj
-	ect Object]\,[object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	- B141 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230203T124500Z
 DTEND:20230203T144500Z
 DESCRIPTION:-
@@ -98,11 +77,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10652-22-SYS2-Index-Education
 SUMMARY:SYS2 - MBA - B141\, B142\, B211\, B212\, B213\, B221\, B222\, B223 
-	- [object Object]\,[object Object]\,[object Object]\,[object Object]\,[obj
-	ect Object]\,[object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	- B141 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230210T124500Z
 DTEND:20230210T144500Z
 DESCRIPTION:-
@@ -111,11 +87,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10652-23-SYS2-Index-Education
 SUMMARY:SYS2 - MBA - B141\, B142\, B211\, B212\, B213\, B221\, B222\, B223 
-	- [object Object]\,[object Object]\,[object Object]\,[object Object]\,[obj
-	ect Object]\,[object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	- B141 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230217T124500Z
 DTEND:20230217T144500Z
 DESCRIPTION:-
@@ -124,11 +97,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10652-25-SYS2-Index-Education
 SUMMARY:SYS2 - MBA - B141\, B142\, B211\, B212\, B213\, B221\, B222\, B223 
-	- [object Object]\,[object Object]\,[object Object]\,[object Object]\,[obj
-	ect Object]\,[object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	- B141 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230303T124500Z
 DTEND:20230303T144500Z
 DESCRIPTION:-
@@ -137,11 +107,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10652-26-SYS2-Index-Education
 SUMMARY:SYS2 - MBA - B141\, B142\, B211\, B212\, B213\, B221\, B222\, B223 
-	- [object Object]\,[object Object]\,[object Object]\,[object Object]\,[obj
-	ect Object]\,[object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	- B141 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230310T124500Z
 DTEND:20230310T144500Z
 DESCRIPTION:-
@@ -150,11 +117,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10652-27-SYS2-Index-Education
 SUMMARY:SYS2 - MBA - B141\, B142\, B211\, B212\, B213\, B221\, B222\, B223 
-	- [object Object]\,[object Object]\,[object Object]\,[object Object]\,[obj
-	ect Object]\,[object Object]\,[object Object]\,[object Object]\,[object Ob
-	ject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\
-	,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+	- B141 B142 B211 B212 B213 B221 B222 B223
+DTSTAMP:20230204T180900Z
 DTSTART:20230317T124500Z
 DTEND:20230317T144500Z
 DESCRIPTION:-
@@ -162,9 +126,8 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10832-21-SYS4-sysl-Index-Education
-SUMMARY:SYS4-sysl - MBA - D111\, D112 - [object Object]\,[object Object]\,[
-	object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4-sysl - MBA - D111\, D112 - D111 D112
+DTSTAMP:20230204T180900Z
 DTSTART:20230202T124500Z
 DTEND:20230202T144500Z
 DESCRIPTION:-
@@ -172,9 +135,8 @@ LOCATION:503
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10832-22-SYS4-sysl-Index-Education
-SUMMARY:SYS4-sysl - MBA - D111\, D112 - [object Object]\,[object Object]\,[
-	object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4-sysl - MBA - D111\, D112 - D111 D112
+DTSTAMP:20230204T180900Z
 DTSTART:20230209T124500Z
 DTEND:20230209T144500Z
 DESCRIPTION:-
@@ -182,9 +144,8 @@ LOCATION:503
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10832-23-SYS4-sysl-Index-Education
-SUMMARY:SYS4-sysl - MBA - D111\, D112 - [object Object]\,[object Object]\,[
-	object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4-sysl - MBA - D111\, D112 - D111 D112
+DTSTAMP:20230204T180900Z
 DTSTART:20230216T124500Z
 DTEND:20230216T144500Z
 DESCRIPTION:-
@@ -192,9 +153,8 @@ LOCATION:503
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10832-25-SYS4-sysl-Index-Education
-SUMMARY:SYS4-sysl - MBA - D111\, D112 - [object Object]\,[object Object]\,[
-	object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4-sysl - MBA - D111\, D112 - D111 D112
+DTSTAMP:20230204T180900Z
 DTSTART:20230302T124500Z
 DTEND:20230302T144500Z
 DESCRIPTION:-
@@ -202,9 +162,8 @@ LOCATION:503
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10832-26-SYS4-sysl-Index-Education
-SUMMARY:SYS4-sysl - MBA - D111\, D112 - [object Object]\,[object Object]\,[
-	object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4-sysl - MBA - D111\, D112 - D111 D112
+DTSTAMP:20230204T180900Z
 DTSTART:20230309T124500Z
 DTEND:20230309T144500Z
 DESCRIPTION:-
@@ -212,9 +171,8 @@ LOCATION:503
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10832-27-SYS4-sysl-Index-Education
-SUMMARY:SYS4-sysl - MBA - D111\, D112 - [object Object]\,[object Object]\,[
-	object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4-sysl - MBA - D111\, D112 - D111 D112
+DTSTAMP:20230204T180900Z
 DTSTART:20230316T124500Z
 DTEND:20230316T144500Z
 DESCRIPTION:-
@@ -222,8 +180,8 @@ LOCATION:503
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10833-21-SYS4-sysl-Index-Education
-SUMMARY:SYS4-sysl - MBA - D122 - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4-sysl - MBA - D122 - D122
+DTSTAMP:20230204T180900Z
 DTSTART:20230201T093000Z
 DTEND:20230201T113000Z
 DESCRIPTION:-
@@ -231,8 +189,8 @@ LOCATION:503
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10833-22-SYS4-sysl-Index-Education
-SUMMARY:SYS4-sysl - MBA - D122 - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4-sysl - MBA - D122 - D122
+DTSTAMP:20230204T180900Z
 DTSTART:20230208T093000Z
 DTEND:20230208T113000Z
 DESCRIPTION:-
@@ -240,8 +198,8 @@ LOCATION:503
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10833-23-SYS4-sysl-Index-Education
-SUMMARY:SYS4-sysl - MBA - D122 - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4-sysl - MBA - D122 - D122
+DTSTAMP:20230204T180900Z
 DTSTART:20230215T093000Z
 DTEND:20230215T113000Z
 DESCRIPTION:-
@@ -249,8 +207,8 @@ LOCATION:503
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10833-25-SYS4-sysl-Index-Education
-SUMMARY:SYS4-sysl - MBA - D122 - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4-sysl - MBA - D122 - D122
+DTSTAMP:20230204T180900Z
 DTSTART:20230301T093000Z
 DTEND:20230301T113000Z
 DESCRIPTION:-
@@ -258,8 +216,8 @@ LOCATION:503
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10833-26-SYS4-sysl-Index-Education
-SUMMARY:SYS4-sysl - MBA - D122 - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4-sysl - MBA - D122 - D122
+DTSTAMP:20230204T180900Z
 DTSTART:20230308T093000Z
 DTEND:20230308T113000Z
 DESCRIPTION:-
@@ -267,8 +225,8 @@ LOCATION:503
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10833-27-SYS4-sysl-Index-Education
-SUMMARY:SYS4-sysl - MBA - D122 - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4-sysl - MBA - D122 - D122
+DTSTAMP:20230204T180900Z
 DTSTART:20230315T093000Z
 DTEND:20230315T113000Z
 DESCRIPTION:-
@@ -276,9 +234,8 @@ LOCATION:503
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10834-21-SYS4-sysl-Index-Education
-SUMMARY:SYS4-sysl - MBA - D211\, D212 - [object Object]\,[object Object]\,[
-	object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4-sysl - MBA - D211\, D212 - D211 D212
+DTSTAMP:20230204T180900Z
 DTSTART:20230203T150000Z
 DTEND:20230203T170000Z
 DESCRIPTION:-
@@ -286,9 +243,8 @@ LOCATION:503
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10834-22-SYS4-sysl-Index-Education
-SUMMARY:SYS4-sysl - MBA - D211\, D212 - [object Object]\,[object Object]\,[
-	object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4-sysl - MBA - D211\, D212 - D211 D212
+DTSTAMP:20230204T180900Z
 DTSTART:20230210T150000Z
 DTEND:20230210T170000Z
 DESCRIPTION:-
@@ -296,9 +252,8 @@ LOCATION:503
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10834-23-SYS4-sysl-Index-Education
-SUMMARY:SYS4-sysl - MBA - D211\, D212 - [object Object]\,[object Object]\,[
-	object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4-sysl - MBA - D211\, D212 - D211 D212
+DTSTAMP:20230204T180900Z
 DTSTART:20230217T150000Z
 DTEND:20230217T170000Z
 DESCRIPTION:-
@@ -306,9 +261,8 @@ LOCATION:503
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10834-25-SYS4-sysl-Index-Education
-SUMMARY:SYS4-sysl - MBA - D211\, D212 - [object Object]\,[object Object]\,[
-	object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4-sysl - MBA - D211\, D212 - D211 D212
+DTSTAMP:20230204T180900Z
 DTSTART:20230303T150000Z
 DTEND:20230303T170000Z
 DESCRIPTION:-
@@ -316,9 +270,8 @@ LOCATION:503
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10834-26-SYS4-sysl-Index-Education
-SUMMARY:SYS4-sysl - MBA - D211\, D212 - [object Object]\,[object Object]\,[
-	object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4-sysl - MBA - D211\, D212 - D211 D212
+DTSTAMP:20230204T180900Z
 DTSTART:20230310T150000Z
 DTEND:20230310T170000Z
 DESCRIPTION:-
@@ -326,9 +279,8 @@ LOCATION:503
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10834-27-SYS4-sysl-Index-Education
-SUMMARY:SYS4-sysl - MBA - D211\, D212 - [object Object]\,[object Object]\,[
-	object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4-sysl - MBA - D211\, D212 - D211 D212
+DTSTAMP:20230204T180900Z
 DTSTART:20230317T150000Z
 DTEND:20230317T170000Z
 DESCRIPTION:-
@@ -336,11 +288,9 @@ LOCATION:503
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10761-21-SYS4-Index-Education
-SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - [obje
-	ct Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,
-	[object Object]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - D111 
+	D112 D121 D122 D211 D212 D221
+DTSTAMP:20230204T180900Z
 DTSTART:20230202T093000Z
 DTEND:20230202T113000Z
 DESCRIPTION:-
@@ -348,11 +298,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10761-22-SYS4-Index-Education
-SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - [obje
-	ct Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,
-	[object Object]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - D111 
+	D112 D121 D122 D211 D212 D221
+DTSTAMP:20230204T180900Z
 DTSTART:20230209T093000Z
 DTEND:20230209T113000Z
 DESCRIPTION:-
@@ -360,11 +308,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10761-23-SYS4-Index-Education
-SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - [obje
-	ct Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,
-	[object Object]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - D111 
+	D112 D121 D122 D211 D212 D221
+DTSTAMP:20230204T180900Z
 DTSTART:20230216T093000Z
 DTEND:20230216T113000Z
 DESCRIPTION:-
@@ -372,11 +318,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10761-25-SYS4-Index-Education
-SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - [obje
-	ct Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,
-	[object Object]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - D111 
+	D112 D121 D122 D211 D212 D221
+DTSTAMP:20230204T180900Z
 DTSTART:20230302T093000Z
 DTEND:20230302T113000Z
 DESCRIPTION:-
@@ -384,11 +328,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10761-26-SYS4-Index-Education
-SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - [obje
-	ct Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,
-	[object Object]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - D111 
+	D112 D121 D122 D211 D212 D221
+DTSTAMP:20230204T180900Z
 DTSTART:20230309T093000Z
 DTEND:20230309T113000Z
 DESCRIPTION:-
@@ -396,11 +338,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10761-27-SYS4-Index-Education
-SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - [obje
-	ct Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,
-	[object Object]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - D111 
+	D112 D121 D122 D211 D212 D221
+DTSTAMP:20230204T180900Z
 DTSTART:20230316T093000Z
 DTEND:20230316T113000Z
 DESCRIPTION:-
@@ -408,11 +348,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10762-21-SYS4-Index-Education
-SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - [obje
-	ct Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,
-	[object Object]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - D111 
+	D112 D121 D122 D211 D212 D221
+DTSTAMP:20230204T180900Z
 DTSTART:20230201T124500Z
 DTEND:20230201T144500Z
 DESCRIPTION:-
@@ -420,11 +358,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10762-22-SYS4-Index-Education
-SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - [obje
-	ct Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,
-	[object Object]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - D111 
+	D112 D121 D122 D211 D212 D221
+DTSTAMP:20230204T180900Z
 DTSTART:20230208T124500Z
 DTEND:20230208T144500Z
 DESCRIPTION:-
@@ -432,11 +368,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10762-23-SYS4-Index-Education
-SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - [obje
-	ct Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,
-	[object Object]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - D111 
+	D112 D121 D122 D211 D212 D221
+DTSTAMP:20230204T180900Z
 DTSTART:20230215T124500Z
 DTEND:20230215T144500Z
 DESCRIPTION:-
@@ -444,11 +378,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10762-25-SYS4-Index-Education
-SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - [obje
-	ct Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,
-	[object Object]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - D111 
+	D112 D121 D122 D211 D212 D221
+DTSTAMP:20230204T180900Z
 DTSTART:20230301T124500Z
 DTEND:20230301T144500Z
 DESCRIPTION:-
@@ -456,11 +388,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10762-26-SYS4-Index-Education
-SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - [obje
-	ct Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,
-	[object Object]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - D111 
+	D112 D121 D122 D211 D212 D221
+DTSTAMP:20230204T180900Z
 DTSTART:20230308T124500Z
 DTEND:20230308T144500Z
 DESCRIPTION:-
@@ -468,11 +398,9 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10762-27-SYS4-Index-Education
-SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - [obje
-	ct Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obj
-	ect]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,
-	[object Object]\,[object Object]\,[object Object]\,[object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYS4 - MBA - D111\, D112\, D121\, D122\, D211\, D212\, D221 - D111 
+	D112 D121 D122 D211 D212 D221
+DTSTAMP:20230204T180900Z
 DTSTART:20230315T124500Z
 DTEND:20230315T144500Z
 DESCRIPTION:-
@@ -480,8 +408,8 @@ LOCATION:004
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10849-21-SYSG6-Index-Education
-SUMMARY:SYSG6 - MBA - G1 - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYSG6 - MBA - G1 - G1
+DTSTAMP:20230204T180900Z
 DTSTART:20230202T150000Z
 DTEND:20230202T170000Z
 DESCRIPTION:-
@@ -489,8 +417,8 @@ LOCATION:503
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10849-22-SYSG6-Index-Education
-SUMMARY:SYSG6 - MBA - G1 - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYSG6 - MBA - G1 - G1
+DTSTAMP:20230204T180900Z
 DTSTART:20230209T150000Z
 DTEND:20230209T170000Z
 DESCRIPTION:-
@@ -498,8 +426,8 @@ LOCATION:503
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10849-23-SYSG6-Index-Education
-SUMMARY:SYSG6 - MBA - G1 - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYSG6 - MBA - G1 - G1
+DTSTAMP:20230204T180900Z
 DTSTART:20230216T150000Z
 DTEND:20230216T170000Z
 DESCRIPTION:-
@@ -507,8 +435,8 @@ LOCATION:503
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10849-25-SYSG6-Index-Education
-SUMMARY:SYSG6 - MBA - G1 - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYSG6 - MBA - G1 - G1
+DTSTAMP:20230204T180900Z
 DTSTART:20230302T150000Z
 DTEND:20230302T170000Z
 DESCRIPTION:-
@@ -516,8 +444,8 @@ LOCATION:503
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10849-26-SYSG6-Index-Education
-SUMMARY:SYSG6 - MBA - G1 - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYSG6 - MBA - G1 - G1
+DTSTAMP:20230204T180900Z
 DTSTART:20230309T150000Z
 DTEND:20230309T170000Z
 DESCRIPTION:-
@@ -525,8 +453,8 @@ LOCATION:503
 END:VEVENT
 BEGIN:VEVENT
 UID:Cours-10849-27-SYSG6-Index-Education
-SUMMARY:SYSG6 - MBA - G1 - [object Object]
-DTSTAMP:20230204T172400Z
+SUMMARY:SYSG6 - MBA - G1 - G1
+DTSTAMP:20230204T180900Z
 DTSTART:20230316T150000Z
 DTEND:20230316T170000Z
 DESCRIPTION:-
