@@ -1,0 +1,906 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-10780-21-ATLG4-atl-Index-Education
+SUMMARY:ATLG4-atl - TNI - D121 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230202T071500Z
+DTEND:20230202T091500Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10780-22-ATLG4-atl-Index-Education
+SUMMARY:ATLG4-atl - TNI - D121 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230209T071500Z
+DTEND:20230209T091500Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10780-23-ATLG4-atl-Index-Education
+SUMMARY:ATLG4-atl - TNI - D121 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230216T071500Z
+DTEND:20230216T091500Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10780-25-ATLG4-atl-Index-Education
+SUMMARY:ATLG4-atl - TNI - D121 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230302T071500Z
+DTEND:20230302T091500Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10780-26-ATLG4-atl-Index-Education
+SUMMARY:ATLG4-atl - TNI - D121 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230309T071500Z
+DTEND:20230309T091500Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10780-27-ATLG4-atl-Index-Education
+SUMMARY:ATLG4-atl - TNI - D121 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230316T071500Z
+DTEND:20230316T091500Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10744-22-DEV2-javl-Index-Education
+SUMMARY:DEV2-javl - SDR - B132 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230207T093000Z
+DTEND:20230207T113000Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10744-23-DEV2-javl-Index-Education
+SUMMARY:DEV2-javl - SDR - B132 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230214T093000Z
+DTEND:20230214T113000Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10744-25-DEV2-javl-Index-Education
+SUMMARY:DEV2-javl - SDR - B132 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230228T093000Z
+DTEND:20230228T113000Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10744-26-DEV2-javl-Index-Education
+SUMMARY:DEV2-javl - SDR - B132 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230307T093000Z
+DTEND:20230307T113000Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10744-27-DEV2-javl-Index-Education
+SUMMARY:DEV2-javl - SDR - B132 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230314T093000Z
+DTEND:20230314T113000Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10744-28-DEV2-javl-Index-Education
+SUMMARY:DEV2-javl - SDR - B132 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230321T093000Z
+DTEND:20230321T113000Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10839-22-DEV2-javl-Index-Education
+SUMMARY:DEV2-javl - GBA\, BEJ\, PBT\, MBR\, SDR\, TNI - B111\, B112\, B113\
+	, B141\, B142\, B211\, B212\, B213\, B221\, B222\, B223 - Labos ouverts - 
+	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
+	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
+	ct]\,[object Object]\,[object Object] - [object Object]\,[object Object]\,
+	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
+	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
+	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
+	object Object]\,[object Object]\,[object Object]\,[object Object]\,[object
+	 Object]\,[object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230207T071500Z
+DTEND:20230207T091500Z
+DESCRIPTION:-
+LOCATION:301\, 303\, 304\, 305\, 401\, 403\, 404\, 405
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10839-23-DEV2-javl-Index-Education
+SUMMARY:DEV2-javl - GBA\, BEJ\, PBT\, MBR\, SDR\, TNI - B111\, B112\, B113\
+	, B141\, B142\, B211\, B212\, B213\, B221\, B222\, B223 - Labos ouverts - 
+	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
+	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
+	ct]\,[object Object]\,[object Object] - [object Object]\,[object Object]\,
+	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
+	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
+	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
+	object Object]\,[object Object]\,[object Object]\,[object Object]\,[object
+	 Object]\,[object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230214T071500Z
+DTEND:20230214T091500Z
+DESCRIPTION:-
+LOCATION:301\, 303\, 304\, 305\, 401\, 403\, 404\, 405
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10839-25-DEV2-javl-Index-Education
+SUMMARY:DEV2-javl - GBA\, BEJ\, MBR\, SDR\, TNI - B111\, B112\, B113\, B141
+	\, B142\, B211\, B212\, B213\, B221\, B222\, B223 - Labos ouverts - [objec
+	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
+	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object] - 
+	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
+	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
+	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
+	object Object]\,[object Object]\,[object Object]\,[object Object]\,[object
+	 Object]\,[object Object]\,[object Object]\,[object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230228T071500Z
+DTEND:20230228T091500Z
+DESCRIPTION:-
+LOCATION:301\, 303\, 304\, 305\, 401\, 403\, 404\, 405
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10839-26-DEV2-javl-Index-Education
+SUMMARY:DEV2-javl - GBA\, BEJ\, PBT\, MBR\, SDR\, TNI - B111\, B112\, B113\
+	, B141\, B142\, B211\, B212\, B213\, B221\, B222\, B223 - Labos ouverts - 
+	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
+	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
+	ct]\,[object Object]\,[object Object] - [object Object]\,[object Object]\,
+	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
+	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
+	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
+	object Object]\,[object Object]\,[object Object]\,[object Object]\,[object
+	 Object]\,[object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230307T071500Z
+DTEND:20230307T091500Z
+DESCRIPTION:-
+LOCATION:301\, 303\, 304\, 305\, 401\, 403\, 404\, 405
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10839-27-DEV2-javl-Index-Education
+SUMMARY:DEV2-javl - GBA\, BEJ\, MBR\, SDR\, TNI - B111\, B112\, B113\, B141
+	\, B142\, B211\, B212\, B213\, B221\, B222\, B223 - Labos ouverts - [objec
+	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
+	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object] - 
+	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
+	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
+	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
+	object Object]\,[object Object]\,[object Object]\,[object Object]\,[object
+	 Object]\,[object Object]\,[object Object]\,[object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230314T071500Z
+DTEND:20230314T091500Z
+DESCRIPTION:-
+LOCATION:301\, 303\, 304\, 305\, 401\, 403\, 404\, 405
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10839-28-DEV2-javl-Index-Education
+SUMMARY:DEV2-javl - GBA\, BEJ\, PBT\, MBR\, SDR\, TNI - B111\, B112\, B113\
+	, B141\, B142\, B211\, B212\, B213\, B221\, B222\, B223 - Labos ouverts - 
+	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
+	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
+	ct]\,[object Object]\,[object Object] - [object Object]\,[object Object]\,
+	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
+	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
+	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
+	object Object]\,[object Object]\,[object Object]\,[object Object]\,[object
+	 Object]\,[object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230321T071500Z
+DTEND:20230321T091500Z
+DESCRIPTION:-
+LOCATION:301\, 303\, 304\, 305\, 401\, 403\, 404\, 405
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10839-29-DEV2-javl-Index-Education
+SUMMARY:DEV2-javl - GBA\, BEJ\, PBT\, MBR\, SDR\, TNI - B111\, B112\, B113\
+	, B141\, B142\, B211\, B212\, B213\, B221\, B222\, B223 - Labos ouverts - 
+	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
+	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
+	ct]\,[object Object]\,[object Object] - [object Object]\,[object Object]\,
+	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
+	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
+	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
+	object Object]\,[object Object]\,[object Object]\,[object Object]\,[object
+	 Object]\,[object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230328T061500Z
+DTEND:20230328T081500Z
+DESCRIPTION:-
+LOCATION:301\, 303\, 304\, 305\, 401\, 403\, 404\, 405
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10839-32-DEV2-javl-Index-Education
+SUMMARY:DEV2-javl - GBA\, BEJ\, PBT\, MBR\, SDR\, TNI - B111\, B112\, B113\
+	, B141\, B142\, B211\, B212\, B213\, B221\, B222\, B223 - Labos ouverts - 
+	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
+	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
+	ct]\,[object Object]\,[object Object] - [object Object]\,[object Object]\,
+	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
+	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
+	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
+	object Object]\,[object Object]\,[object Object]\,[object Object]\,[object
+	 Object]\,[object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230418T061500Z
+DTEND:20230418T081500Z
+DESCRIPTION:-
+LOCATION:301\, 303\, 304\, 305\, 401\, 403\, 404\, 405
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10839-33-DEV2-javl-Index-Education
+SUMMARY:DEV2-javl - GBA\, BEJ\, PBT\, MBR\, SDR\, TNI - B111\, B112\, B113\
+	, B141\, B142\, B211\, B212\, B213\, B221\, B222\, B223 - Labos ouverts - 
+	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
+	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
+	ct]\,[object Object]\,[object Object] - [object Object]\,[object Object]\,
+	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
+	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
+	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
+	object Object]\,[object Object]\,[object Object]\,[object Object]\,[object
+	 Object]\,[object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230425T061500Z
+DTEND:20230425T081500Z
+DESCRIPTION:-
+LOCATION:301\, 303\, 304\, 305\, 401\, 403\, 404\, 405
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10839-35-DEV2-javl-Index-Education
+SUMMARY:DEV2-javl - GBA\, BEJ\, MBR\, SDR\, TNI - B111\, B112\, B113\, B141
+	\, B142\, B211\, B212\, B213\, B221\, B222\, B223 - Labos ouverts - [objec
+	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
+	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object] - 
+	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
+	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
+	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
+	object Object]\,[object Object]\,[object Object]\,[object Object]\,[object
+	 Object]\,[object Object]\,[object Object]\,[object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230509T061500Z
+DTEND:20230509T081500Z
+DESCRIPTION:-
+LOCATION:301\, 303\, 304\, 305\, 401\, 403\, 404\, 405
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10839-36-DEV2-javl-Index-Education
+SUMMARY:DEV2-javl - GBA\, BEJ\, PBT\, MBR\, SDR\, TNI - B111\, B112\, B113\
+	, B141\, B142\, B211\, B212\, B213\, B221\, B222\, B223 - Labos ouverts - 
+	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
+	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
+	ct]\,[object Object]\,[object Object] - [object Object]\,[object Object]\,
+	[object Object]\,[object Object]\,[object Object]\,[object Object]\,[objec
+	t Object]\,[object Object]\,[object Object]\,[object Object]\,[object Obje
+	ct]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[
+	object Object]\,[object Object]\,[object Object]\,[object Object]\,[object
+	 Object]\,[object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230516T061500Z
+DTEND:20230516T081500Z
+DESCRIPTION:-
+LOCATION:301\, 303\, 304\, 305\, 401\, 403\, 404\, 405
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10769-21-DEV4-cppl-Index-Education
+SUMMARY:DEV4-cppl - ABS - D111 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230203T124500Z
+DTEND:20230203T144500Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10769-22-DEV4-cppl-Index-Education
+SUMMARY:DEV4-cppl - ABS - D111 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230210T124500Z
+DTEND:20230210T144500Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10769-23-DEV4-cppl-Index-Education
+SUMMARY:DEV4-cppl - ABS - D111 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230217T124500Z
+DTEND:20230217T144500Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10769-25-DEV4-cppl-Index-Education
+SUMMARY:DEV4-cppl - ABS - D111 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230303T124500Z
+DTEND:20230303T144500Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10769-26-DEV4-cppl-Index-Education
+SUMMARY:DEV4-cppl - ABS - D111 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230310T124500Z
+DTEND:20230310T144500Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10769-27-DEV4-cppl-Index-Education
+SUMMARY:DEV4-cppl - ABS - D111 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230317T124500Z
+DTEND:20230317T144500Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10713-22-DON2-perl-Index-Education
+SUMMARY:DON2-perl - MBR - B121 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230207T124500Z
+DTEND:20230207T144500Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10713-23-DON2-perl-Index-Education
+SUMMARY:DON2-perl - MBR - B121 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230214T124500Z
+DTEND:20230214T144500Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10713-25-DON2-perl-Index-Education
+SUMMARY:DON2-perl - MBR - B121 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230228T124500Z
+DTEND:20230228T144500Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10713-26-DON2-perl-Index-Education
+SUMMARY:DON2-perl - MBR - B121 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230307T124500Z
+DTEND:20230307T144500Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10713-27-DON2-perl-Index-Education
+SUMMARY:DON2-perl - MBR - B121 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230314T124500Z
+DTEND:20230314T144500Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10713-28-DON2-perl-Index-Education
+SUMMARY:DON2-perl - MBR - B121 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230321T124500Z
+DTEND:20230321T144500Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10715-21-DON2-perl-Index-Education
+SUMMARY:DON2-perl - SRE - B212 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230203T093000Z
+DTEND:20230203T113000Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10715-22-DON2-perl-Index-Education
+SUMMARY:DON2-perl - SRE - B212 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230210T093000Z
+DTEND:20230210T113000Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10715-23-DON2-perl-Index-Education
+SUMMARY:DON2-perl - SRE - B212 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230217T093000Z
+DTEND:20230217T113000Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10715-25-DON2-perl-Index-Education
+SUMMARY:DON2-perl - SRE - B212 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230303T093000Z
+DTEND:20230303T113000Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10715-26-DON2-perl-Index-Education
+SUMMARY:DON2-perl - SRE - B212 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230310T093000Z
+DTEND:20230310T113000Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10715-27-DON2-perl-Index-Education
+SUMMARY:DON2-perl - SRE - B212 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230317T093000Z
+DTEND:20230317T113000Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10717-22-DON2-perl-Index-Education
+SUMMARY:DON2-perl - GBA - B213 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230206T093000Z
+DTEND:20230206T113000Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10717-23-DON2-perl-Index-Education
+SUMMARY:DON2-perl - GBA - B213 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230213T093000Z
+DTEND:20230213T113000Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10717-25-DON2-perl-Index-Education
+SUMMARY:DON2-perl - GBA - B213 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230227T093000Z
+DTEND:20230227T113000Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10717-26-DON2-perl-Index-Education
+SUMMARY:DON2-perl - GBA - B213 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230306T093000Z
+DTEND:20230306T113000Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10717-27-DON2-perl-Index-Education
+SUMMARY:DON2-perl - GBA - B213 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230313T093000Z
+DTEND:20230313T113000Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10717-28-DON2-perl-Index-Education
+SUMMARY:DON2-perl - GBA - B213 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230320T093000Z
+DTEND:20230320T113000Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10718-22-DON2-perl-Index-Education
+SUMMARY:DON2-perl - ABS - B141 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230206T124500Z
+DTEND:20230206T144500Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10718-23-DON2-perl-Index-Education
+SUMMARY:DON2-perl - ABS - B141 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230213T124500Z
+DTEND:20230213T144500Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10718-25-DON2-perl-Index-Education
+SUMMARY:DON2-perl - ABS - B141 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230227T124500Z
+DTEND:20230227T144500Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10718-26-DON2-perl-Index-Education
+SUMMARY:DON2-perl - ABS - B141 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230306T124500Z
+DTEND:20230306T144500Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10718-27-DON2-perl-Index-Education
+SUMMARY:DON2-perl - ABS - B141 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230313T124500Z
+DTEND:20230313T144500Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10718-28-DON2-perl-Index-Education
+SUMMARY:DON2-perl - ABS - B141 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230320T124500Z
+DTEND:20230320T144500Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10723-21-DON2-perl-Index-Education
+SUMMARY:DON2-perl - SRE - B122 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230203T071500Z
+DTEND:20230203T091500Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10723-22-DON2-perl-Index-Education
+SUMMARY:DON2-perl - SRE - B122 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230210T071500Z
+DTEND:20230210T091500Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10723-23-DON2-perl-Index-Education
+SUMMARY:DON2-perl - SRE - B122 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230217T071500Z
+DTEND:20230217T091500Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10723-25-DON2-perl-Index-Education
+SUMMARY:DON2-perl - SRE - B122 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230303T071500Z
+DTEND:20230303T091500Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10723-26-DON2-perl-Index-Education
+SUMMARY:DON2-perl - SRE - B122 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230310T071500Z
+DTEND:20230310T091500Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10723-27-DON2-perl-Index-Education
+SUMMARY:DON2-perl - SRE - B122 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230317T071500Z
+DTEND:20230317T091500Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10640-22-MAT1_ou_DEV1-Index-Education
+SUMMARY:MAT1 ou DEV1 - ABS\, MBR\, HAL - Rattrapage - [object Object]\,[obj
+	ect Object]\,[object Object]\,[object Object]\,[object Object] - 
+DTSTAMP:20230204T162600Z
+DTSTART:20230208T124500Z
+DTEND:20230208T144500Z
+DESCRIPTION:-
+LOCATION:101\, 303\, 304
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10640-23-MAT1_ou_DEV1-Index-Education
+SUMMARY:MAT1 ou DEV1 - ABS\, MBR\, HAL - Rattrapage - [object Object]\,[obj
+	ect Object]\,[object Object]\,[object Object]\,[object Object] - 
+DTSTAMP:20230204T162600Z
+DTSTART:20230215T124500Z
+DTEND:20230215T144500Z
+DESCRIPTION:-
+LOCATION:101\, 303\, 304
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10640-25-MAT1_ou_DEV1-Index-Education
+SUMMARY:MAT1 ou DEV1 - ABS\, MBR\, HAL - Rattrapage - [object Object]\,[obj
+	ect Object]\,[object Object]\,[object Object]\,[object Object] - 
+DTSTAMP:20230204T162600Z
+DTSTART:20230301T124500Z
+DTEND:20230301T144500Z
+DESCRIPTION:-
+LOCATION:101\, 303\, 304
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10640-26-MAT1_ou_DEV1-Index-Education
+SUMMARY:MAT1 ou DEV1 - ABS\, MBR\, HAL - Rattrapage - [object Object]\,[obj
+	ect Object]\,[object Object]\,[object Object]\,[object Object] - 
+DTSTAMP:20230204T162600Z
+DTSTART:20230308T124500Z
+DTEND:20230308T144500Z
+DESCRIPTION:-
+LOCATION:101\, 303\, 304
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10640-27-MAT1_ou_DEV1-Index-Education
+SUMMARY:MAT1 ou DEV1 - ABS\, MBR\, HAL - Rattrapage - [object Object]\,[obj
+	ect Object]\,[object Object]\,[object Object]\,[object Object] - 
+DTSTAMP:20230204T162600Z
+DTSTART:20230315T124500Z
+DTEND:20230315T144500Z
+DESCRIPTION:-
+LOCATION:101\, 303\, 304
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10640-28-MAT1_ou_DEV1-Index-Education
+SUMMARY:MAT1 ou DEV1 - ABS\, MBR\, HAL - Rattrapage - [object Object]\,[obj
+	ect Object]\,[object Object]\,[object Object]\,[object Object] - 
+DTSTAMP:20230204T162600Z
+DTSTART:20230322T124500Z
+DTEND:20230322T144500Z
+DESCRIPTION:-
+LOCATION:101\, 303\, 304
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10640-29-MAT1_ou_DEV1-Index-Education
+SUMMARY:MAT1 ou DEV1 - ABS\, MBR\, HAL - Rattrapage - [object Object]\,[obj
+	ect Object]\,[object Object]\,[object Object]\,[object Object] - 
+DTSTAMP:20230204T162600Z
+DTSTART:20230329T114500Z
+DTEND:20230329T134500Z
+DESCRIPTION:-
+LOCATION:101\, 303\, 304
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10640-32-MAT1_ou_DEV1-Index-Education
+SUMMARY:MAT1 ou DEV1 - ABS\, MBR\, HAL - Rattrapage - [object Object]\,[obj
+	ect Object]\,[object Object]\,[object Object]\,[object Object] - 
+DTSTAMP:20230204T162600Z
+DTSTART:20230419T114500Z
+DTEND:20230419T134500Z
+DESCRIPTION:-
+LOCATION:101\, 303\, 304
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10640-33-MAT1_ou_DEV1-Index-Education
+SUMMARY:MAT1 ou DEV1 - ABS\, MBR\, HAL - Rattrapage - [object Object]\,[obj
+	ect Object]\,[object Object]\,[object Object]\,[object Object] - 
+DTSTAMP:20230204T162600Z
+DTSTART:20230426T114500Z
+DTEND:20230426T134500Z
+DESCRIPTION:-
+LOCATION:101\, 303\, 304
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10640-35-MAT1_ou_DEV1-Index-Education
+SUMMARY:MAT1 ou DEV1 - ABS\, MBR\, HAL - Rattrapage - [object Object]\,[obj
+	ect Object]\,[object Object]\,[object Object]\,[object Object] - 
+DTSTAMP:20230204T162600Z
+DTSTART:20230510T114500Z
+DTEND:20230510T134500Z
+DESCRIPTION:-
+LOCATION:101\, 303\, 304
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10640-36-MAT1_ou_DEV1-Index-Education
+SUMMARY:MAT1 ou DEV1 - ABS\, MBR\, HAL - Rattrapage - [object Object]\,[obj
+	ect Object]\,[object Object]\,[object Object]\,[object Object] - 
+DTSTAMP:20230204T162600Z
+DTSTART:20230517T114500Z
+DTEND:20230517T134500Z
+DESCRIPTION:-
+LOCATION:101\, 303\, 304
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10693-22-MIC2-micl-Index-Education
+SUMMARY:MIC2-micl - ABS - B223 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230206T150000Z
+DTEND:20230206T170000Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10693-23-MIC2-micl-Index-Education
+SUMMARY:MIC2-micl - ABS - B223 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230213T150000Z
+DTEND:20230213T170000Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10693-25-MIC2-micl-Index-Education
+SUMMARY:MIC2-micl - ABS - B223 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230227T150000Z
+DTEND:20230227T170000Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10693-26-MIC2-micl-Index-Education
+SUMMARY:MIC2-micl - ABS - B223 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230306T150000Z
+DTEND:20230306T170000Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10693-27-MIC2-micl-Index-Education
+SUMMARY:MIC2-micl - ABS - B223 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230313T150000Z
+DTEND:20230313T170000Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10693-28-MIC2-micl-Index-Education
+SUMMARY:MIC2-micl - ABS - B223 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230320T150000Z
+DTEND:20230320T170000Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10727-22-WEBG2-webl-Index-Education
+SUMMARY:WEBG2-webl - GBA - B112 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230206T071500Z
+DTEND:20230206T091500Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10727-23-WEBG2-webl-Index-Education
+SUMMARY:WEBG2-webl - GBA - B112 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230213T071500Z
+DTEND:20230213T091500Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10727-25-WEBG2-webl-Index-Education
+SUMMARY:WEBG2-webl - GBA - B112 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230227T071500Z
+DTEND:20230227T091500Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10727-26-WEBG2-webl-Index-Education
+SUMMARY:WEBG2-webl - GBA - B112 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230306T071500Z
+DTEND:20230306T091500Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10727-27-WEBG2-webl-Index-Education
+SUMMARY:WEBG2-webl - GBA - B112 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230313T071500Z
+DTEND:20230313T091500Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10727-28-WEBG2-webl-Index-Education
+SUMMARY:WEBG2-webl - GBA - B112 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230320T071500Z
+DTEND:20230320T091500Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10731-21-WEBG2-webl-Index-Education
+SUMMARY:WEBG2-webl - TNI - B121 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230202T093000Z
+DTEND:20230202T113000Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10731-22-WEBG2-webl-Index-Education
+SUMMARY:WEBG2-webl - TNI - B121 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230209T093000Z
+DTEND:20230209T113000Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10731-23-WEBG2-webl-Index-Education
+SUMMARY:WEBG2-webl - TNI - B121 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230216T093000Z
+DTEND:20230216T113000Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10731-25-WEBG2-webl-Index-Education
+SUMMARY:WEBG2-webl - TNI - B121 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230302T093000Z
+DTEND:20230302T113000Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10731-26-WEBG2-webl-Index-Education
+SUMMARY:WEBG2-webl - TNI - B121 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230309T093000Z
+DTEND:20230309T113000Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10731-27-WEBG2-webl-Index-Education
+SUMMARY:WEBG2-webl - TNI - B121 - [object Object] - [object Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230316T093000Z
+DTEND:20230316T113000Z
+DESCRIPTION:-
+LOCATION:303
+END:VEVENT
+END:VCALENDAR

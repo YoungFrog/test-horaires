@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-10763-21-DON4-Index-Education
+SUMMARY:DON4 - SRE - D111\, D112\, D121\, D122\, D211\, D212\, D221 - [obje
+	ct Object] - [object Object]\,[object Object]\,[object Object]\,[object Ob
+	ject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\
+	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
+	ct Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230201T150000Z
+DTEND:20230201T170000Z
+DESCRIPTION:-
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10763-22-DON4-Index-Education
+SUMMARY:DON4 - SRE - D111\, D112\, D121\, D122\, D211\, D212\, D221 - [obje
+	ct Object] - [object Object]\,[object Object]\,[object Object]\,[object Ob
+	ject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\
+	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
+	ct Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230208T150000Z
+DTEND:20230208T170000Z
+DESCRIPTION:-
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10763-23-DON4-Index-Education
+SUMMARY:DON4 - SRE - D111\, D112\, D121\, D122\, D211\, D212\, D221 - [obje
+	ct Object] - [object Object]\,[object Object]\,[object Object]\,[object Ob
+	ject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\
+	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
+	ct Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230215T150000Z
+DTEND:20230215T170000Z
+DESCRIPTION:-
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10763-25-DON4-Index-Education
+SUMMARY:DON4 - SRE - D111\, D112\, D121\, D122\, D211\, D212\, D221 - [obje
+	ct Object] - [object Object]\,[object Object]\,[object Object]\,[object Ob
+	ject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\
+	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
+	ct Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230301T150000Z
+DTEND:20230301T170000Z
+DESCRIPTION:-
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10763-26-DON4-Index-Education
+SUMMARY:DON4 - SRE - D111\, D112\, D121\, D122\, D211\, D212\, D221 - [obje
+	ct Object] - [object Object]\,[object Object]\,[object Object]\,[object Ob
+	ject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\
+	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
+	ct Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230308T150000Z
+DTEND:20230308T170000Z
+DESCRIPTION:-
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10763-27-DON4-Index-Education
+SUMMARY:DON4 - SRE - D111\, D112\, D121\, D122\, D211\, D212\, D221 - [obje
+	ct Object] - [object Object]\,[object Object]\,[object Object]\,[object Ob
+	ject]\,[object Object]\,[object Object]\,[object Object]\,[object Object]\
+	,[object Object]\,[object Object]\,[object Object]\,[object Object]\,[obje
+	ct Object]
+DTSTAMP:20230204T162600Z
+DTSTART:20230315T150000Z
+DTEND:20230315T170000Z
+DESCRIPTION:-
+LOCATION:004
+END:VEVENT
+END:VCALENDAR
