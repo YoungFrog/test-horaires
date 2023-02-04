@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-10765-22-CPRG4-cpr-Index-Education
+SUMMARY:CPRG4-cpr - MWA - D111\, D112\, D121\, D122 - [object Object] - [ob
+	ject Object]\,[object Object]\,[object Object]\,[object Object]\,[object O
+	bject]\,[object Object]\,[object Object]
+DTSTAMP:20230204T172400Z
+DTSTART:20230207T071500Z
+DTEND:20230207T091500Z
+DESCRIPTION:-
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10765-23-CPRG4-cpr-Index-Education
+SUMMARY:CPRG4-cpr - MWA - D111\, D112\, D121\, D122 - [object Object] - [ob
+	ject Object]\,[object Object]\,[object Object]\,[object Object]\,[object O
+	bject]\,[object Object]\,[object Object]
+DTSTAMP:20230204T172400Z
+DTSTART:20230214T071500Z
+DTEND:20230214T091500Z
+DESCRIPTION:-
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10765-25-CPRG4-cpr-Index-Education
+SUMMARY:CPRG4-cpr - MWA - D111\, D112\, D121\, D122 - [object Object] - [ob
+	ject Object]\,[object Object]\,[object Object]\,[object Object]\,[object O
+	bject]\,[object Object]\,[object Object]
+DTSTAMP:20230204T172400Z
+DTSTART:20230228T071500Z
+DTEND:20230228T091500Z
+DESCRIPTION:-
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10765-26-CPRG4-cpr-Index-Education
+SUMMARY:CPRG4-cpr - MWA - D111\, D112\, D121\, D122 - [object Object] - [ob
+	ject Object]\,[object Object]\,[object Object]\,[object Object]\,[object O
+	bject]\,[object Object]\,[object Object]
+DTSTAMP:20230204T172400Z
+DTSTART:20230307T071500Z
+DTEND:20230307T091500Z
+DESCRIPTION:-
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10765-27-CPRG4-cpr-Index-Education
+SUMMARY:CPRG4-cpr - MWA - D111\, D112\, D121\, D122 - [object Object] - [ob
+	ject Object]\,[object Object]\,[object Object]\,[object Object]\,[object O
+	bject]\,[object Object]\,[object Object]
+DTSTAMP:20230204T172400Z
+DTSTART:20230314T071500Z
+DTEND:20230314T091500Z
+DESCRIPTION:-
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-10765-28-CPRG4-cpr-Index-Education
+SUMMARY:CPRG4-cpr - MWA - D111\, D112\, D121\, D122 - [object Object] - [ob
+	ject Object]\,[object Object]\,[object Object]\,[object Object]\,[object O
+	bject]\,[object Object]\,[object Object]
+DTSTAMP:20230204T172400Z
+DTSTART:20230321T071500Z
+DTEND:20230321T091500Z
+DESCRIPTION:-
+LOCATION:004
+END:VEVENT
+END:VCALENDAR
