@@ -5,53 +5,53 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:Cours-8853-7-SP1b-Index-Education
-SUMMARY:CPA - XPA - XPA -  - 401 À distance
-DTSTAMP:20240123T142200Z
+UID:Cours-8853-7-CPA-Index-Education
+SUMMARY:CPA - XPA - SP1b - 401 À distance
+DTSTAMP:20240123T142500Z
 DTSTART:20231025T160000Z
 DTEND:20231025T200000Z
-DESCRIPTION:Matière : CPA\nEnseignant : XPA - PAULUS Xavier\nTD : \nSalles 
-	: 401\, À distance\n
+DESCRIPTION:Matière : CPA\nEnseignant : XPA - PAULUS Xavier\nTD : SP1b\nSal
+	les : 401\, À distance\n
 LOCATION:401\,À distance
 END:VEVENT
 BEGIN:VEVENT
-UID:Cours-8853-9-SP1b-Index-Education
-SUMMARY:CPA - XPA - XPA -  - 401 À distance
-DTSTAMP:20240123T142200Z
+UID:Cours-8853-9-CPA-Index-Education
+SUMMARY:CPA - XPA - SP1b - 401 À distance
+DTSTAMP:20240123T142500Z
 DTSTART:20231108T170000Z
 DTEND:20231108T210000Z
-DESCRIPTION:Matière : CPA\nEnseignant : XPA - PAULUS Xavier\nTD : \nSalles 
-	: 401\, À distance\n
+DESCRIPTION:Matière : CPA\nEnseignant : XPA - PAULUS Xavier\nTD : SP1b\nSal
+	les : 401\, À distance\n
 LOCATION:401\,À distance
 END:VEVENT
 BEGIN:VEVENT
-UID:Cours-8853-10-SP1b-Index-Education
-SUMMARY:CPA - XPA - XPA -  - 401 À distance
-DTSTAMP:20240123T142200Z
+UID:Cours-8853-10-CPA-Index-Education
+SUMMARY:CPA - XPA - SP1b - 401 À distance
+DTSTAMP:20240123T142500Z
 DTSTART:20231115T170000Z
 DTEND:20231115T210000Z
-DESCRIPTION:Matière : CPA\nEnseignant : XPA - PAULUS Xavier\nTD : \nSalles 
-	: 401\, À distance\n
+DESCRIPTION:Matière : CPA\nEnseignant : XPA - PAULUS Xavier\nTD : SP1b\nSal
+	les : 401\, À distance\n
 LOCATION:401\,À distance
 END:VEVENT
 BEGIN:VEVENT
-UID:Cours-8853-11-SP1b-Index-Education
-SUMMARY:CPA - XPA - XPA -  - 401 À distance
-DTSTAMP:20240123T142200Z
+UID:Cours-8853-11-CPA-Index-Education
+SUMMARY:CPA - XPA - SP1b - 401 À distance
+DTSTAMP:20240123T142500Z
 DTSTART:20231122T170000Z
 DTEND:20231122T210000Z
-DESCRIPTION:Matière : CPA\nEnseignant : XPA - PAULUS Xavier\nTD : \nSalles 
-	: 401\, À distance\n
+DESCRIPTION:Matière : CPA\nEnseignant : XPA - PAULUS Xavier\nTD : SP1b\nSal
+	les : 401\, À distance\n
 LOCATION:401\,À distance
 END:VEVENT
 BEGIN:VEVENT
-UID:Cours-8853-12-SP1b-Index-Education
-SUMMARY:CPA - XPA - XPA -  - 401 À distance
-DTSTAMP:20240123T142200Z
+UID:Cours-8853-12-CPA-Index-Education
+SUMMARY:CPA - XPA - SP1b - 401 À distance
+DTSTAMP:20240123T142500Z
 DTSTART:20231129T170000Z
 DTEND:20231129T210000Z
-DESCRIPTION:Matière : CPA\nEnseignant : XPA - PAULUS Xavier\nTD : \nSalles 
-	: 401\, À distance\n
+DESCRIPTION:Matière : CPA\nEnseignant : XPA - PAULUS Xavier\nTD : SP1b\nSal
+	les : 401\, À distance\n
 LOCATION:401\,À distance
 END:VEVENT
 END:VCALENDAR
