@@ -2,8 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2024
 METHOD:PUBLISH
-X-CALSTART:20241021T000000Z
+X-CALSTART:20240916T000000Z
 X-CALEND:20241026T000000Z
-X-WR-CALNAME;LANGUAGE=fr:HYP - 1SARD1A - du 21 au 26 octobre 2024
-X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de 1SARD1A généré par le logiciel HP (©INDEX ÉDUCATION) le 17 oct. 2024 - Haute Ecole Bruxelles Brabant - ESI - valable sur la période du 21 au 26 octobre 2024 - Semaines : semaine 43
+X-WR-CALNAME;LANGUAGE=fr:HYP - 1SARD1A - du 16 septembre au 26 octobre 2024
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de 1SARD1A généré par le logiciel HP (©INDEX ÉDUCATION) le 17 oct. 2024 - Haute Ecole Bruxelles Brabant - ESI - valable sur la période du 16 septembre au 26 octobre 2024 - Semaines : semaine 38 - 43
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20241017T154925Z
+UID:Ferie-573-1SARD1A-Index-Education
+DTSTART;VALUE=DATE:20240927
+DTEND;VALUE=DATE:20240928
+SUMMARY;LANGUAGE=fr:Férié
+END:VEVENT
 END:VCALENDAR
