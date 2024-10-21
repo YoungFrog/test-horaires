@@ -8,7 +8,7 @@ X-WR-CALNAME;LANGUAGE=fr:HYP - 4DEVL4RI - du 16 septembre au 26 octobre 2024
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de 4DEVL4RI généré par le logiciel HP (©INDEX ÉDUCATION) le 21 oct. 2024 - Haute Ecole Bruxelles Brabant - ESI - valable sur la période du 16 septembre au 26 octobre 2024 - Semaines : semaine 38 - 43
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20241021T070001Z
+DTSTAMP:20241021T080430Z
 UID:Ferie-573-4DEVL4RI-Index-Education
 DTSTART;VALUE=DATE:20240927
 DTEND;VALUE=DATE:20240928
