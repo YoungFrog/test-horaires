@@ -8,7 +8,7 @@ X-WR-CALNAME;LANGUAGE=fr:HYP - 2INT2A - du 16 septembre au 26 octobre 2024
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de 2INT2A généré par le logiciel HP (©INDEX ÉDUCATION) le 21 oct. 2024 - Haute Ecole Bruxelles Brabant - ESI - valable sur la période du 16 septembre au 26 octobre 2024 - Semaines : semaine 38 - 43
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20241021T080430Z
+DTSTAMP:20241021T081134Z
 UID:Ferie-573-2INT2A-Index-Education
 DTSTART;VALUE=DATE:20240927
 DTEND;VALUE=DATE:20240928
