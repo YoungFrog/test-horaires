@@ -10,7 +10,7 @@ import path from 'path';
  * @param {string} fn an .ics filename
  * @returns an array of events
  */
-function getEventsFromFile(fn, props) {
+function getEventsFromFile(fn) {
   return Object.values(ical.parseFile(fn))
     .filter(event => event.type === 'VEVENT')
     .map(event => {
@@ -18,22 +18,34 @@ function getEventsFromFile(fn, props) {
         start: event.start,
         end: event.end,
         id: event.uid,
-        title: event.summary?.val,
         description: event.description?.val,
-        //extendedProps: {
         ...parseDesc(event.description?.val),
         location: event.location?.val,
-        ...props
-        //}
       }
     });
 }
-function parseEvents(fileNames, propname = undefined) {
+
+
+function parseFilename(fn) {
+  const basename = path.basename(fn, '.ics')
+
+  const pos = basename.indexOf(' ')
+
+  if (pos > 0) {
+    const code = basename.substring(0, pos)
+    const name = basename.substring(pos + 1)
+    return [code, name ?? code]
+  } else {
+    return [basename, basename]
+  }
+}
+
+function parseCours(fileNames) {
   return fileNames.map(fn => {
-    let props = {}
-    if (propname) props[propname] = path.basename(fn, '.ics')
-    return getEventsFromFile(fn, props)
+    const [code, name] = parseFilename(fn)
+
+    return getEventsFromFile(fn).map(event => ({ ...event, cours: [{ code, name: code === name ? code : `${code} - ${name}` }] }))
   }).flat();
 }
 
-export default parseEvents;
+export default parseCours;

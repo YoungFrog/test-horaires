@@ -6,11 +6,12 @@ import ics from 'ics';
 /**
  * Geenerates ics files for profs, gruopes, salles, cours from the events.json.
  * Input :  - icalroot, output directory for the ics files
- *          - events.json file path    
+ *          - events.json file path
+ * Output : ics files + config file ("calendars.json")
  */
 
 if (process.argv.length !== 5)
-    throw new Error("Give path to ical root then path to file events.json, e.g. ./ical/ config/events.json")
+  throw new Error("Give path to ical root (where ics will go), path to events.json, and path to (to be generated) calendars.json, e.g. ./ical/ config/events.json")
 
 const icalRoot = path.resolve(process.argv[2])
 const eventsJsonFile = path.resolve(process.argv[3])
@@ -19,17 +20,10 @@ const calendarsJsonFile = path.resolve(process.argv[4])
 const config = {
   default: 'groupes',
   root: path
-      .relative(path.resolve('.'), icalRoot)
-      .replace(/\/?$/, '/'), // ensure trailing slash
+    .relative(path.resolve('.'), icalRoot)
+    .replace(/\/?$/, '/'), // ensure trailing slash
   data: {}
 }
-function record (bucket, key, valueObject) {
-  bucket[key] = valueObject
-}
-
-
-
-
 
 /* List of maps with:
   - key : profs/groupes/salles/cours
@@ -37,54 +31,50 @@ function record (bucket, key, valueObject) {
 
   we build icss then generate ics files from its content.
 */
-const icss = {}
 
-// maps containing the profs/groupes/salles as key, and the list of their classes as value
-icss.profs = {} 
-icss.groupes = {}
-icss.salles = {}
-icss.cours = {}
-var profs = icss.profs
-var groupes = icss.groupes
-var salles = icss.salles
-var cours = icss.cours
+
+const icss = { profs: {}, groupes: {}, salles: {}, cours: {} }
+const LIST_FORMATTER = new Intl.ListFormat('fr', { style: 'narrow', type: 'unit' })
+
+// record the association "code => name" for later re-use
+const names = { profs: {}, groupes: {}, salles: {}, cours: {} }
 
 fs.readFile(eventsJsonFile, 'utf-8', (err, data) => {
   if (err) throw err
-  
+
   //parse the json file
   const events = JSON.parse(data)
 
   /*
-   for each event, we extract the teachers/groupes/salles
+   for each event, we extract the teachers/groups/rooms/course
    and for each of them we add the event as an ics value. 
   */
-   events.forEach(event => {
-    var icsEvent = getIcsEvent(event, "profs")
-    addEvent(event.profacros || event.profs, profs, icsEvent)
-    icsEvent = getIcsEvent(event, "groupes") // title of event changes according to type.
-    addEvent(event.groupes, groupes, icsEvent)
-    icsEvent = getIcsEvent(event, "salles")
-    addEvent(event.lieux, salles, icsEvent)
-    icsEvent = getIcsEvent(event, "cours")
-    addEvent([event.cours], cours, icsEvent)
+  events.forEach(event => {
+    ["profs", "groupes", "salles", "cours"].forEach((type) => {
+
+      if (!event[type]) return // parfois il n'y a pas de groupe, par exemple (M1-cyber)
+      for (let thing of event[type]) {
+        if (names[type][thing.code] && names[type][thing.code] !== thing.name) {
+          console.error("Existing names: ", names[type]);
+          console.error("Overwriting with: ", thing.code, ": ", thing.name)
+        }
+        names[type][thing.code] = thing.name
+      }
+      addEvent(event[type], icss[type], getIcsEvent(event, type))
+    })
   })
-  
-console.log("generating all ics files: ")
-console.log(Object.keys(profs).length+" profs")
-console.log(Object.keys(groupes).length+" groupes")
-console.log(Object.keys(salles).length+" salles")
-console.log(Object.keys(cours).length+" cours")
 
-generateIcss(profs, "profs")  
-generateIcss(groupes, "groupes")
-generateIcss(salles, "salles")
-generateIcss(cours, "cours")
+  console.log("generating all ics files: ")
+  for (let type of ["profs", "groupes", "salles", "cours"]) {
+    console.log(Object.keys(icss[type]).length + " " + type)
+    generateIcss(icss[type], type)
+  }
 
-fs.writeFile(calendarsJsonFile, JSON.stringify(config), (err) => {
-  if (err) throw err;
-});
-console.log('calendar.json')
+
+  fs.writeFile(calendarsJsonFile, JSON.stringify(config), (err) => {
+    if (err) throw err;
+  });
+  console.log('calendar.json')
 
 })
 
@@ -94,14 +84,15 @@ console.log('calendar.json')
  * The key will be the file name
  * The values will be transformed in vcalendar.
  * @param {*} list 
+ * @param {string} type
  */
-function  generateIcss(list, type) {
-  const items = {} // items list in config.
+function generateIcss(list, type) {
+  const items = [] // items list in config.
 
   for (const key in list) {
     ics.createEvents(list[key], (error, value) => {
       if (error) {
-        console.log(error)
+        console.error(error)
         return
       }
       const filePath = `${icalRoot}/${type}/${key}.ics`
@@ -110,20 +101,20 @@ function  generateIcss(list, type) {
         console.log(`${key}.ics`);
       });
 
-      const name = key // should be different for profs: ARO - Anne Rousseau (and maybe for all)
-      const calendar = path.relative(config.root, path.resolve(icalRoot, filePath))
-
-      record(items, key, { // item (1 cours, 1 prof)
-        name,
-        calendar
-      })
+      const item = (names[type][key] !== key) ? {
+        code: key,
+        name: names[type][key]
+      } : {
+        code: key
+      }
+      items.push(item)
     })
   }
-  record(config.data, type, { //add itemList (les profs, les cours...) to config
-    name: type,
-    items: Object.fromEntries(Object.entries(items).sort()) // this is dirty, definitely not future-proof (trying to impose an order on key-value pairs in an object is obviously stupid)
-    })
-  
+  config.data[type] = { //add itemList (les profs, les cours...) to config
+    name: { "profs": "enseignants" }[type] ?? type,
+    items: items.sort((a, b) => (a.code.localeCompare(b.code)))
+  }
+
 }
 
 /**
@@ -135,11 +126,12 @@ function  generateIcss(list, type) {
  * @param {*} icsEvent 
  */
 function addEvent(listIn, map, icsEvent) {
-  if(listIn) {
+  if (listIn) {
     listIn.forEach(element => {
-          if(!map[element]) map[element]=[]
-          map[element].push(icsEvent);
-      })
+      const code = element.code
+      if (!map[code]) map[code] = []
+      map[code].push(icsEvent);
+    })
   }
 }
 
@@ -156,28 +148,28 @@ function addEvent(listIn, map, icsEvent) {
  * @returns 
  */
 function getIcsEvent(event, type) {
+  const groupes = LIST_FORMATTER.format(event.groupes?.map(groupe => groupe.name))
+  const profs = LIST_FORMATTER.format(event.profs?.map(prof => prof.code))
+  const salles = LIST_FORMATTER.format(event.salles?.map(salle => salle.name) || "")
+  const aa = LIST_FORMATTER.format(event.cours?.map(cours => cours.name))
+
+  const title =
+    {
+      "salles": aa + " - " + profs + " - " + groupes + " - " + salles,
+      "cours": aa + " - " + profs + " - " + groupes + " - " + salles,
+      "profs": aa + " - " + groupes + " - " + salles,
+      "groupes": aa + " - " + profs + " - " + salles
+    }[type]
+
+
+
   return {
     start: getDateAsArray(new Date(event.start)),
-    end:  getDateAsArray(new Date(event.end)),
-    title: getTitle(event, type),
-    description: (event.description) ? event.description : "-",
-    location: event.lieux + "",
+    end: getDateAsArray(new Date(event.end)),
+    title,
+    description: event.description ?? "-",
+    location: salles,
     uid: event.id
-  }
-}
-
-function getTitle(event, type) {
-  const formatter = new Intl.ListFormat('fr', {style: 'narrow', type: 'unit' })
-  const groupes = formatter.format(event.groupes)
-  const profs = formatter.format(event.profacros)
-  const locations = formatter.format(event.lieux || "")
-  const title = event.title
-
-  switch(type) {
-    case "salles":   
-    case "cours":  return title + " - " + profs + " - " +  groupes + " - " + locations
-    case "profs":  return title + " - " + groupes + " - " + locations
-    case "groupes":  return title + " - " + profs +" - "+ locations
   }
 }
 
@@ -188,11 +180,11 @@ function getTitle(event, type) {
  * @returns 
  */
 function getDateAsArray(date) {
-  return [date.getFullYear(), 
-          date.getMonth()+1, 
-          date.getDate(), 
-          date.getHours(), 
-          date.getMinutes()]
+  return [date.getFullYear(),
+  date.getMonth() + 1,
+  date.getDate(),
+  date.getHours(),
+  date.getMinutes()]
 }
 
 

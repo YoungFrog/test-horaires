@@ -37,10 +37,16 @@ for (let event of events) {
      */
     let aa = event.aa;
     if (aaregexp && !aa.match(new RegExp(aaregexp, 'i'))) continue
-    if (event.profacros.length > 1) console.error("prof acro > 1 for event: ", event);
+    if (event.profacros.length > 1) {
+        console.error("prof acro > 1 for event: ", event);
+        continue
+    }
     let acro = event.profacros[0]
     let groupe = event.groupes // étrangeté de getEvents ; ceci devrait être un tableau !
-    if (dict[groupe] && dict[groupe] !== acro) console.error("groupe has multiple profs: ", acro, dict[groupe]);
+    if (dict[groupe] && dict[groupe] !== acro) {
+        console.error("groupe", groupe, "has multiple profs: ", acro, dict[groupe]);
+        continue
+    }
     dict[groupe] = acro
 }
 console.log(dict);
