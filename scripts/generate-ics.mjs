@@ -169,7 +169,7 @@ function getIcsEvent(event, type) {
 function getTitle(event, type) {
   const formatter = new Intl.ListFormat('fr', {style: 'narrow', type: 'unit' })
   const groupes = formatter.format(event.groupes)
-  const profs = formatter.format(event.profacros)
+  const profs = formatter.format(event.profs)
   const locations = formatter.format(event.lieux || "")
   const aa = event.aa
 
