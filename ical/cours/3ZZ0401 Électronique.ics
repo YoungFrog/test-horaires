@@ -1,0 +1,115 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-588-5-Électronique-Index-Education
+SUMMARY:3ZZ0401 -  - IB3ch IB3elm IB3ge IB3gt ICch Icel Icen Icin Icmc Icpn
+	m - R101
+DTSTAMP:20241024T094800Z
+DTSTART:20241016T114000Z
+DTEND:20241016T160000Z
+DESCRIPTION:Matière : 3ZZ0401\nEnseignant : Le Vaillant G.\nPromotions : IB
+	3ch\, IB3elm\, IB3ge\, IB3gt\, ICch\, Icel\, Icen\, Icin\, Icmc\, Icpnm\nS
+	alle : R101\n
+LOCATION:R101
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-589-1-Électronique-Index-Education
+SUMMARY:3ZZ0401 -  - IB3ch IB3elm IB3ge IB3gt ICch Icel Icen Icin Icmc Icpn
+	m - R101
+DTSTAMP:20241024T094800Z
+DTSTART:20240920T114000Z
+DTEND:20240920T160000Z
+DESCRIPTION:Matière : 3ZZ0401\nEnseignant : Le Vaillant G.\nPromotions : IB
+	3ch\, IB3elm\, IB3ge\, IB3gt\, ICch\, Icel\, Icen\, Icin\, Icmc\, Icpnm\nS
+	alle : R101\n
+LOCATION:R101
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-589-3-Électronique-Index-Education
+SUMMARY:3ZZ0401 -  - IB3ch IB3elm IB3ge IB3gt ICch Icel Icen Icin Icmc Icpn
+	m - R101
+DTSTAMP:20241024T094800Z
+DTSTART:20241004T114000Z
+DTEND:20241004T160000Z
+DESCRIPTION:Matière : 3ZZ0401\nEnseignant : Le Vaillant G.\nPromotions : IB
+	3ch\, IB3elm\, IB3ge\, IB3gt\, ICch\, Icel\, Icen\, Icin\, Icmc\, Icpnm\nS
+	alle : R101\n
+LOCATION:R101
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-589-4-Électronique-Index-Education
+SUMMARY:3ZZ0401 -  - IB3ch IB3elm IB3ge IB3gt ICch Icel Icen Icin Icmc Icpn
+	m - R101
+DTSTAMP:20241024T094800Z
+DTSTART:20241011T114000Z
+DTEND:20241011T160000Z
+DESCRIPTION:Matière : 3ZZ0401\nEnseignant : Le Vaillant G.\nPromotions : IB
+	3ch\, IB3elm\, IB3ge\, IB3gt\, ICch\, Icel\, Icen\, Icin\, Icmc\, Icpnm\nS
+	alle : R101\n
+LOCATION:R101
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-589-5-Électronique-Index-Education
+SUMMARY:3ZZ0401 -  - IB3ch IB3elm IB3ge IB3gt ICch Icel Icen Icin Icmc Icpn
+	m - R101
+DTSTAMP:20241024T094800Z
+DTSTART:20241018T114000Z
+DTEND:20241018T160000Z
+DESCRIPTION:Matière : 3ZZ0401\nEnseignant : Le Vaillant G.\nPromotions : IB
+	3ch\, IB3elm\, IB3ge\, IB3gt\, ICch\, Icel\, Icen\, Icin\, Icmc\, Icpnm\nS
+	alle : R101\n
+LOCATION:R101
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-590-5-Électronique-Index-Education
+SUMMARY:3ZZ0401 -  - IB3ch IB3elm IB3ge IB3gt ICch Icel Icen Icin Icmc Icpn
+	m - R101
+DTSTAMP:20241024T094800Z
+DTSTART:20241015T060000Z
+DTEND:20241015T103000Z
+DESCRIPTION:Matière : 3ZZ0401\nEnseignant : Le Vaillant G.\nPromotions : IB
+	3ch\, IB3elm\, IB3ge\, IB3gt\, ICch\, Icel\, Icen\, Icin\, Icmc\, Icpnm\nS
+	alle : R101\n
+LOCATION:R101
+END:VEVENT
+BEGIN:VEVENT
+UID:Férié-1-Électronique-Index-Education
+SUMMARY:Férié -  -  - 
+DTSTAMP:20241024T094800Z
+DTSTART:20240927T000000Z
+DTEND:20240928T000000Z
+DESCRIPTION:-
+LOCATION:undefined
+END:VEVENT
+BEGIN:VEVENT
+UID:Férié-3-Électronique-Index-Education
+SUMMARY:Vacances -  -  - 
+DTSTAMP:20241024T094800Z
+DTSTART:20241028T000000Z
+DTEND:20241102T000000Z
+DESCRIPTION:-
+LOCATION:undefined
+END:VEVENT
+BEGIN:VEVENT
+UID:Férié-4-Électronique-Index-Education
+SUMMARY:Férié -  -  - 
+DTSTAMP:20241024T094800Z
+DTSTART:20241111T000000Z
+DTEND:20241112T000000Z
+DESCRIPTION:-
+LOCATION:undefined
+END:VEVENT
+BEGIN:VEVENT
+UID:Férié-5-Électronique-Index-Education
+SUMMARY:Vacances -  -  - 
+DTSTAMP:20241024T094800Z
+DTSTART:20241223T000000Z
+DTEND:20250106T000000Z
+DESCRIPTION:-
+LOCATION:undefined
+END:VEVENT
+END:VCALENDAR

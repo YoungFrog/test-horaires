@@ -1,0 +1,259 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-376-2-Electrotechnique-Index-Education
+SUMMARY:3ZZ1001 -  - IB3ch IB3elm IB3ge IB3gt ICch Icel Icen Icin Icmc Icpn
+	m - MC113
+DTSTAMP:20241024T094800Z
+DTSTART:20240925T083000Z
+DTEND:20240925T103000Z
+DESCRIPTION:Matière : 3ZZ1001\nEnseignant : Jacobs G.\nPromotions : IB3ch\,
+	 IB3elm\, IB3ge\, IB3gt\, ICch\, Icel\, Icen\, Icin\, Icmc\, Icpnm\nSalle 
+	: MC113\n
+LOCATION:MC113
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-379-1-Electrotechnique-Index-Education
+SUMMARY:3ZZ1001 -  - IB3ch IB3elm IB3ge IB3gt ICch Icel Icen Icin Icmc Icpn
+	m - MC113
+DTSTAMP:20241024T094800Z
+DTSTART:20240920T083000Z
+DTEND:20240920T103000Z
+DESCRIPTION:Matière : 3ZZ1001\nEnseignant : Jacobs G.\nPromotions : IB3ch\,
+	 IB3elm\, IB3ge\, IB3gt\, ICch\, Icel\, Icen\, Icin\, Icmc\, Icpnm\nSalle 
+	: MC113\n
+LOCATION:MC113
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-379-3-Electrotechnique-Index-Education
+SUMMARY:3ZZ1001 -  - IB3ch IB3elm IB3ge IB3gt ICch Icel Icen Icin Icmc Icpn
+	m - MC007
+DTSTAMP:20241024T094800Z
+DTSTART:20241004T083000Z
+DTEND:20241004T103000Z
+DESCRIPTION:Matière : 3ZZ1001\nEnseignant : Jacobs G.\nPromotions : IB3ch\,
+	 IB3elm\, IB3ge\, IB3gt\, ICch\, Icel\, Icen\, Icin\, Icmc\, Icpnm\nSalle 
+	: MC007\n
+LOCATION:MC007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-379-4-Electrotechnique-Index-Education
+SUMMARY:3ZZ1001 -  - IB3ch IB3elm IB3ge IB3gt ICch Icel Icen Icin Icmc Icpn
+	m - MC113
+DTSTAMP:20241024T094800Z
+DTSTART:20241011T083000Z
+DTEND:20241011T103000Z
+DESCRIPTION:Matière : 3ZZ1001\nEnseignant : Jacobs G.\nPromotions : IB3ch\,
+	 IB3elm\, IB3ge\, IB3gt\, ICch\, Icel\, Icen\, Icin\, Icmc\, Icpnm\nSalle 
+	: MC113\n
+LOCATION:MC113
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-379-5-Electrotechnique-Index-Education
+SUMMARY:3ZZ1001 -  - IB3ch IB3elm IB3ge IB3gt ICch Icel Icen Icin Icmc Icpn
+	m - MC113
+DTSTAMP:20241024T094800Z
+DTSTART:20241018T083000Z
+DTEND:20241018T103000Z
+DESCRIPTION:Matière : 3ZZ1001\nEnseignant : Jacobs G.\nPromotions : IB3ch\,
+	 IB3elm\, IB3ge\, IB3gt\, ICch\, Icel\, Icen\, Icin\, Icmc\, Icpnm\nSalle 
+	: MC113\n
+LOCATION:MC113
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-379-6-Electrotechnique-Index-Education
+SUMMARY:3ZZ1001 -  - IB3ch IB3elm IB3ge IB3gt ICch Icel Icen Icin Icmc Icpn
+	m - MC113
+DTSTAMP:20241024T094800Z
+DTSTART:20241025T083000Z
+DTEND:20241025T103000Z
+DESCRIPTION:Matière : 3ZZ1001\nEnseignant : Jacobs G.\nPromotions : IB3ch\,
+	 IB3elm\, IB3ge\, IB3gt\, ICch\, Icel\, Icen\, Icin\, Icmc\, Icpnm\nSalle 
+	: MC113\n
+LOCATION:MC113
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1563-3-Electrotechnique-Index-Education
+SUMMARY:3ZZ1001 -  - IB3ch IB3elm IB3ge IB3gt ICch Icel Icen Icin Icmc Icpn
+	m - MC113
+DTSTAMP:20241024T094800Z
+DTSTART:20241002T083000Z
+DTEND:20241002T103000Z
+DESCRIPTION:Matière : 3ZZ1001\nEnseignant : Jacobs G.\nPromotions : IB3ch\,
+	 IB3elm\, IB3ge\, IB3gt\, ICch\, Icel\, Icen\, Icin\, Icmc\, Icpnm\nSalle 
+	: MC113\n
+LOCATION:MC113
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1563-4-Electrotechnique-Index-Education
+SUMMARY:3ZZ1001 -  - IB3ch IB3elm IB3ge IB3gt ICch Icel Icen Icin Icmc Icpn
+	m - MC113
+DTSTAMP:20241024T094800Z
+DTSTART:20241009T083000Z
+DTEND:20241009T103000Z
+DESCRIPTION:Matière : 3ZZ1001\nEnseignant : Jacobs G.\nPromotions : IB3ch\,
+	 IB3elm\, IB3ge\, IB3gt\, ICch\, Icel\, Icen\, Icin\, Icmc\, Icpnm\nSalle 
+	: MC113\n
+LOCATION:MC113
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1563-5-Electrotechnique-Index-Education
+SUMMARY:3ZZ1001 -  - IB3ch IB3elm IB3ge IB3gt ICch Icel Icen Icin Icmc Icpn
+	m - MC113
+DTSTAMP:20241024T094800Z
+DTSTART:20241016T083000Z
+DTEND:20241016T103000Z
+DESCRIPTION:Matière : 3ZZ1001\nEnseignant : Jacobs G.\nPromotions : IB3ch\,
+	 IB3elm\, IB3ge\, IB3gt\, ICch\, Icel\, Icen\, Icin\, Icmc\, Icpnm\nSalle 
+	: MC113\n
+LOCATION:MC113
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1563-6-Electrotechnique-Index-Education
+SUMMARY:3ZZ1001 -  - IB3ch IB3elm IB3ge IB3gt ICch Icel Icen Icin Icmc Icpn
+	m - MC207
+DTSTAMP:20241024T094800Z
+DTSTART:20241023T083000Z
+DTEND:20241023T103000Z
+DESCRIPTION:Matière : 3ZZ1001\nEnseignant : Jacobs G.\nPromotions : IB3ch\,
+	 IB3elm\, IB3ge\, IB3gt\, ICch\, Icel\, Icen\, Icin\, Icmc\, Icpnm\nSalle 
+	: MC207\n
+LOCATION:MC207
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1564-14-Electrotechnique-Index-Education
+SUMMARY:3ZZ1001 -  - IB3ch IB3elm IB3ge IB3gt ICch Icel Icen Icin Icmc Icpn
+	m - MC107
+DTSTAMP:20241024T094800Z
+DTSTART:20241216T070000Z
+DTEND:20241216T090000Z
+DESCRIPTION:Matière : 3ZZ1001\nEnseignant : Jacobs G.\nPromotions : IB3ch\,
+	 IB3elm\, IB3ge\, IB3gt\, ICch\, Icel\, Icen\, Icin\, Icmc\, Icpnm\nSalle 
+	: MC107\n
+LOCATION:MC107
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2739-1-Electrotechnique-Index-Education
+SUMMARY:3ZZ1001 -  - IB3ch IB3elm IB3ge IB3gt ICch Icel Icen Icin Icmc Icpn
+	m - MC113
+DTSTAMP:20241024T094800Z
+DTSTART:20240917T083000Z
+DTEND:20240917T103000Z
+DESCRIPTION:Matière : 3ZZ1001\nEnseignant : Jacobs G.\nPromotions : IB3ch\,
+	 IB3elm\, IB3ge\, IB3gt\, ICch\, Icel\, Icen\, Icin\, Icmc\, Icpnm\nSalle 
+	: MC113\n
+LOCATION:MC113
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2739-2-Electrotechnique-Index-Education
+SUMMARY:3ZZ1001 -  - IB3ch IB3elm IB3ge IB3gt ICch Icel Icen Icin Icmc Icpn
+	m - MC113
+DTSTAMP:20241024T094800Z
+DTSTART:20240924T083000Z
+DTEND:20240924T103000Z
+DESCRIPTION:Matière : 3ZZ1001\nEnseignant : Jacobs G.\nPromotions : IB3ch\,
+	 IB3elm\, IB3ge\, IB3gt\, ICch\, Icel\, Icen\, Icin\, Icmc\, Icpnm\nSalle 
+	: MC113\n
+LOCATION:MC113
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2739-8-Electrotechnique-Index-Education
+SUMMARY:3ZZ1001 -  - IB3ch IB3elm IB3ge IB3gt ICch Icel Icen Icin Icmc Icpn
+	m - MC113
+DTSTAMP:20241024T094800Z
+DTSTART:20241105T093000Z
+DTEND:20241105T113000Z
+DESCRIPTION:Matière : 3ZZ1001\nEnseignant : Jacobs G.\nPromotions : IB3ch\,
+	 IB3elm\, IB3ge\, IB3gt\, ICch\, Icel\, Icen\, Icin\, Icmc\, Icpnm\nSalle 
+	: MC113\n
+LOCATION:MC113
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2739-9-Electrotechnique-Index-Education
+SUMMARY:3ZZ1001 -  - IB3ch IB3elm IB3ge IB3gt ICch Icel Icen Icin Icmc Icpn
+	m - MC113
+DTSTAMP:20241024T094800Z
+DTSTART:20241112T093000Z
+DTEND:20241112T113000Z
+DESCRIPTION:Matière : 3ZZ1001\nEnseignant : Jacobs G.\nPromotions : IB3ch\,
+	 IB3elm\, IB3ge\, IB3gt\, ICch\, Icel\, Icen\, Icin\, Icmc\, Icpnm\nSalle 
+	: MC113\n
+LOCATION:MC113
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2739-10-Electrotechnique-Index-Education
+SUMMARY:3ZZ1001 -  - IB3ch IB3elm IB3ge IB3gt ICch Icel Icen Icin Icmc Icpn
+	m - MC113
+DTSTAMP:20241024T094800Z
+DTSTART:20241119T093000Z
+DTEND:20241119T113000Z
+DESCRIPTION:Matière : 3ZZ1001\nEnseignant : Jacobs G.\nPromotions : IB3ch\,
+	 IB3elm\, IB3ge\, IB3gt\, ICch\, Icel\, Icen\, Icin\, Icmc\, Icpnm\nSalle 
+	: MC113\n
+LOCATION:MC113
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2739-11-Electrotechnique-Index-Education
+SUMMARY:3ZZ1001 -  - IB3ch IB3elm IB3ge IB3gt ICch Icel Icen Icin Icmc Icpn
+	m - MC113
+DTSTAMP:20241024T094800Z
+DTSTART:20241126T093000Z
+DTEND:20241126T113000Z
+DESCRIPTION:Matière : 3ZZ1001\nEnseignant : Jacobs G.\nPromotions : IB3ch\,
+	 IB3elm\, IB3ge\, IB3gt\, ICch\, Icel\, Icen\, Icin\, Icmc\, Icpnm\nSalle 
+	: MC113\n
+LOCATION:MC113
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2739-13-Electrotechnique-Index-Education
+SUMMARY:3ZZ1001 -  - IB3ch IB3elm IB3ge IB3gt ICch Icel Icen Icin Icmc Icpn
+	m - MC113
+DTSTAMP:20241024T094800Z
+DTSTART:20241210T093000Z
+DTEND:20241210T113000Z
+DESCRIPTION:Matière : 3ZZ1001\nEnseignant : Jacobs G.\nPromotions : IB3ch\,
+	 IB3elm\, IB3ge\, IB3gt\, ICch\, Icel\, Icen\, Icin\, Icmc\, Icpnm\nSalle 
+	: MC113\n
+LOCATION:MC113
+END:VEVENT
+BEGIN:VEVENT
+UID:Férié-1-Electrotechnique-Index-Education
+SUMMARY:Férié -  -  - 
+DTSTAMP:20241024T094800Z
+DTSTART:20240927T000000Z
+DTEND:20240928T000000Z
+DESCRIPTION:-
+LOCATION:undefined
+END:VEVENT
+BEGIN:VEVENT
+UID:Férié-3-Electrotechnique-Index-Education
+SUMMARY:Vacances -  -  - 
+DTSTAMP:20241024T094800Z
+DTSTART:20241028T000000Z
+DTEND:20241102T000000Z
+DESCRIPTION:-
+LOCATION:undefined
+END:VEVENT
+BEGIN:VEVENT
+UID:Férié-4-Electrotechnique-Index-Education
+SUMMARY:Férié -  -  - 
+DTSTAMP:20241024T094800Z
+DTSTART:20241111T000000Z
+DTEND:20241112T000000Z
+DESCRIPTION:-
+LOCATION:undefined
+END:VEVENT
+BEGIN:VEVENT
+UID:Férié-5-Electrotechnique-Index-Education
+SUMMARY:Vacances -  -  - 
+DTSTAMP:20241024T094800Z
+DTSTART:20241223T000000Z
+DTEND:20250106T000000Z
+DESCRIPTION:-
+LOCATION:undefined
+END:VEVENT
+END:VCALENDAR

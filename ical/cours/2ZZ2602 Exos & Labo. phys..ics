@@ -1,0 +1,199 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-63-8-Exos & Labo. phys.-Index-Education
+SUMMARY:2ZZ2602 -  - IB2g1 IB2g2 - Labo de physique RG + RR (fluoX)
+DTSTAMP:20241024T094800Z
+DTSTART:20241105T093000Z
+DTEND:20241105T113000Z
+DESCRIPTION:Matière : 2ZZ2602\nEnseignant : Derrien J.\nPromotions : IB2g1\
+	, IB2g2\nSalle : Labo de physique RG + RR (fluoX)\n
+LOCATION:Labo de physique RG + RR (fluoX)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-66-8-Exos & Labo. phys.-Index-Education
+SUMMARY:2ZZ2602 -  -  - Labo de physique RG + RR (fluoX)
+DTSTAMP:20241024T094800Z
+DTSTART:20241108T070000Z
+DTEND:20241108T113000Z
+DESCRIPTION:Matière : 2ZZ2602\nEnseignant : Derrien J.\nPromotion : IB2g2\n
+	Salle : Labo de physique RG + RR (fluoX)\n
+LOCATION:Labo de physique RG + RR (fluoX)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-66-9-Exos & Labo. phys.-Index-Education
+SUMMARY:2ZZ2602 -  -  - Labo de physique RG + RR (fluoX)
+DTSTAMP:20241024T094800Z
+DTSTART:20241115T070000Z
+DTEND:20241115T113000Z
+DESCRIPTION:Matière : 2ZZ2602\nEnseignant : Derrien J.\nPromotion : IB2g2\n
+	Salle : Labo de physique RG + RR (fluoX)\n
+LOCATION:Labo de physique RG + RR (fluoX)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-66-11-Exos & Labo. phys.-Index-Education
+SUMMARY:2ZZ2602 -  -  - Labo de physique RG + RR (fluoX)
+DTSTAMP:20241024T094800Z
+DTSTART:20241129T070000Z
+DTEND:20241129T113000Z
+DESCRIPTION:Matière : 2ZZ2602\nEnseignant : Derrien J.\nPromotion : IB2g2\n
+	Salle : Labo de physique RG + RR (fluoX)\n
+LOCATION:Labo de physique RG + RR (fluoX)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-66-13-Exos & Labo. phys.-Index-Education
+SUMMARY:2ZZ2602 -  -  - Labo de physique RG + RR (fluoX)
+DTSTAMP:20241024T094800Z
+DTSTART:20241213T070000Z
+DTEND:20241213T113000Z
+DESCRIPTION:Matière : 2ZZ2602\nEnseignant : Derrien J.\nPromotion : IB2g2\n
+	Salle : Labo de physique RG + RR (fluoX)\n
+LOCATION:Labo de physique RG + RR (fluoX)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1082-11-Exos & Labo. phys.-Index-Education
+SUMMARY:2ZZ2602 -  - IB2g1 IB2g2 - Labo de physique RG + RR (fluoX)
+DTSTAMP:20241024T094800Z
+DTSTART:20241129T124000Z
+DTEND:20241129T144000Z
+DESCRIPTION:Matière : 2ZZ2602\nEnseignant : Gerardy I.\nPromotions : IB2g1\
+	, IB2g2\nSalle : Labo de physique RG + RR (fluoX)\n
+LOCATION:Labo de physique RG + RR (fluoX)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1083-10-Exos & Labo. phys.-Index-Education
+SUMMARY:2ZZ2602 -  - IB2g1 IB2g2 - Labo de physique RG + RR (fluoX)
+DTSTAMP:20241024T094800Z
+DTSTART:20241121T150000Z
+DTEND:20241121T170000Z
+DESCRIPTION:Matière : 2ZZ2602\nEnseignant : Gerardy I.\nPromotions : IB2g1\
+	, IB2g2\nSalle : Labo de physique RG + RR (fluoX)\n
+LOCATION:Labo de physique RG + RR (fluoX)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1357-8-Exos & Labo. phys.-Index-Education
+SUMMARY:2ZZ2602 -  -  - Labo de physique RG + RR (fluoX)
+DTSTAMP:20241024T094800Z
+DTSTART:20241107T124000Z
+DTEND:20241107T170000Z
+DESCRIPTION:Matière : 2ZZ2602\nEnseignant : Derrien J.\nPromotion : IB2g1\n
+	Salle : Labo de physique RG + RR (fluoX)\n
+LOCATION:Labo de physique RG + RR (fluoX)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1357-9-Exos & Labo. phys.-Index-Education
+SUMMARY:2ZZ2602 -  -  - Labo de physique RG + RR (fluoX)
+DTSTAMP:20241024T094800Z
+DTSTART:20241114T124000Z
+DTEND:20241114T170000Z
+DESCRIPTION:Matière : 2ZZ2602\nEnseignant : Derrien J.\nPromotion : IB2g1\n
+	Salle : Labo de physique RG + RR (fluoX)\n
+LOCATION:Labo de physique RG + RR (fluoX)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1360-10-Exos & Labo. phys.-Index-Education
+SUMMARY:2ZZ2602 -  -  - Labo de physique RG + RR (fluoX)
+DTSTAMP:20241024T094800Z
+DTSTART:20241122T070000Z
+DTEND:20241122T113000Z
+DESCRIPTION:Matière : 2ZZ2602\nEnseignant : Derrien J.\nPromotion : IB2g1\n
+	Salle : Labo de physique RG + RR (fluoX)\n
+LOCATION:Labo de physique RG + RR (fluoX)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1360-12-Exos & Labo. phys.-Index-Education
+SUMMARY:2ZZ2602 -  -  - Labo de physique RG + RR (fluoX)
+DTSTAMP:20241024T094800Z
+DTSTART:20241206T070000Z
+DTEND:20241206T113000Z
+DESCRIPTION:Matière : 2ZZ2602\nEnseignant : Derrien J.\nPromotion : IB2g1\n
+	Salle : Labo de physique RG + RR (fluoX)\n
+LOCATION:Labo de physique RG + RR (fluoX)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1829-8-Exos & Labo. phys.-Index-Education
+SUMMARY:2ZZ2602 -  -  - 
+DTSTAMP:20241024T094800Z
+DTSTART:20241105T124000Z
+DTEND:20241105T170000Z
+DESCRIPTION:Matière : 2ZZ2602\n
+LOCATION:undefined
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1829-10-Exos & Labo. phys.-Index-Education
+SUMMARY:2ZZ2602 -  -  - 
+DTSTAMP:20241024T094800Z
+DTSTART:20241119T124000Z
+DTEND:20241119T170000Z
+DESCRIPTION:Matière : 2ZZ2602\n
+LOCATION:undefined
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1829-12-Exos & Labo. phys.-Index-Education
+SUMMARY:2ZZ2602 -  -  - 
+DTSTAMP:20241024T094800Z
+DTSTART:20241203T124000Z
+DTEND:20241203T170000Z
+DESCRIPTION:Matière : 2ZZ2602\n
+LOCATION:undefined
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1830-13-Exos & Labo. phys.-Index-Education
+SUMMARY:2ZZ2602 -  -  - 
+DTSTAMP:20241024T094800Z
+DTSTART:20241211T124000Z
+DTEND:20241211T170000Z
+DESCRIPTION:Matière : 2ZZ2602\n
+LOCATION:undefined
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2821-8-Exos & Labo. phys.-Index-Education
+SUMMARY:2ZZ2602 -  - IB2g1 IB2g2 - Labo de physique RG + RR (fluoX)
+DTSTAMP:20241024T094800Z
+DTSTART:20241106T124000Z
+DTEND:20241106T144000Z
+DESCRIPTION:Matière : 2ZZ2602\nEnseignant : Gerardy I.\nPromotions : IB2g1\
+	, IB2g2\nSalle : Labo de physique RG + RR (fluoX)\n
+LOCATION:Labo de physique RG + RR (fluoX)
+END:VEVENT
+BEGIN:VEVENT
+UID:Férié-1-Exos & Labo. phys.-Index-Education
+SUMMARY:Férié -  -  - 
+DTSTAMP:20241024T094800Z
+DTSTART:20240927T000000Z
+DTEND:20240928T000000Z
+DESCRIPTION:-
+LOCATION:undefined
+END:VEVENT
+BEGIN:VEVENT
+UID:Férié-3-Exos & Labo. phys.-Index-Education
+SUMMARY:Vacances -  -  - 
+DTSTAMP:20241024T094800Z
+DTSTART:20241028T000000Z
+DTEND:20241102T000000Z
+DESCRIPTION:-
+LOCATION:undefined
+END:VEVENT
+BEGIN:VEVENT
+UID:Férié-4-Exos & Labo. phys.-Index-Education
+SUMMARY:Férié -  -  - 
+DTSTAMP:20241024T094800Z
+DTSTART:20241111T000000Z
+DTEND:20241112T000000Z
+DESCRIPTION:-
+LOCATION:undefined
+END:VEVENT
+BEGIN:VEVENT
+UID:Férié-5-Exos & Labo. phys.-Index-Education
+SUMMARY:Vacances -  -  - 
+DTSTAMP:20241024T094800Z
+DTSTART:20241223T000000Z
+DTEND:20250106T000000Z
+DESCRIPTION:-
+LOCATION:undefined
+END:VEVENT
+END:VCALENDAR
