@@ -22,6 +22,7 @@ const parseDesc = (description) => {
         obj.cours = [{ code: value, name: value }]
         break
       case 'TD':
+      case 'Promotion':
       case 'Promotions':
         obj.groupes = value
           .split(', ')
