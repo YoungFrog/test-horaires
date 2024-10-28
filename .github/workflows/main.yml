@@ -6,10 +6,6 @@ on:
 
   workflow_dispatch:
 
-env:
-  icaldir: ical
-  HORAIRES_SANS_ACRONYMES: ${{ vars.HORAIRES_SANS_ACRONYMES }}
-
 jobs:
   build:
     # The type of runner that the job will run on
@@ -23,17 +19,13 @@ jobs:
         with:
           node-version: '16'
 
-      - uses: webfactory/ssh-agent@v0.7.0
-        with:
-            ssh-private-key: ${{ secrets.HEBESI_HE2BWEB }}
-
       - name: generate config file
         run: |
           mkdir -p build/config
           npm install
           node scripts/getEvents.mjs -d export-cours/ >build/events.json
-          mkdir -p "$icaldir"/{cours,groupes,profs,salles}
-          node scripts/generate-ics.mjs "$icaldir"/ build/events.json build/calendars.json
+          mkdir -p ical/{cours,groupes,profs,salles}
+          node scripts/generate-ics.mjs ical/ build/events.json build/calendars.json
           { printf '<p>Last update: <time>%s</time></p>' "$(date)"; } >build/index.html
           mv ical -t build
           

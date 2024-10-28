@@ -1,7 +1,5 @@
 Steps for re-using this repo with the corresponding github workflow :
 
 1. fork (or push to a new repo)
-2. add the Action secret HEBESI_HE2BWEB : must be a private ssh key with read permission to the repo
-   (TODO: don't force this)
-3. in the action settings : give read AND WRITE permission to Workflow
-4. une fois que la branche gh-pages a été créée (par le processus de déploiement normalement), on la définit comme branche utilisée par Github Pages (dans les paramètres)
+2. in the action settings : give read AND WRITE permission to Workflow
+3. une fois que la branche gh-pages a été créée (par le processus de déploiement normalement), on la définit comme branche utilisée par Github Pages (dans les paramètres)
