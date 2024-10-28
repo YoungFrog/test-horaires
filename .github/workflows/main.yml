@@ -28,6 +28,8 @@ jobs:
           node scripts/generate-ics.mjs ical/ build/events.json build/calendars.json
           { printf '<p>Last update: <time>%s</time></p>' "$(date)"; } >build/index.html
           mv ical -t build
+          npx tsc scripts/freerooms.ts
+          node scripts/freerooms.js ./build/events.json > build/freeevents.json
           
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
