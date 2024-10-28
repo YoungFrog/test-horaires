@@ -25,7 +25,7 @@ if (!fileNames.length) {
 }
 
 const events = parseCours(fileNames)
-    .filter(e => !e.id.startsWith("Ferie"))
+    .filter(e => !(e.id.startsWith("Ferie") || e.id.startsWith("Férié")))
 
 console.log(JSON.stringify(events))
 
