@@ -15,6 +15,7 @@
     "fullcalendar": "^5.10.1",
     "ical": "^0.8.0",
     "ics": "^2.41.0",
+    "json-diff-ts": "^4.1.0",
     "node-getopt": "^0.3.2"
   },
   "devDependencies": {

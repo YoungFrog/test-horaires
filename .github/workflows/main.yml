@@ -21,15 +21,21 @@ jobs:
 
       - name: generate config file
         run: |
+          git fetch origin gh-pages
+          git cat-file blob origin/gh-pages:./events.json >./oldevents.json
+
           mkdir -p build/config
           npm install
           node scripts/getEvents.mjs -d export-cours/ >build/events.json
           mkdir -p ical/{cours,groupes,profs,salles}
           node scripts/generate-ics-and-config-file.mjs ical/ build/events.json build/calendars.json
-          { printf '<p>Last update: <time>%s</time></p>' "$(date)"; } >build/index.html
+          { printf '<p>Last update: <time>%s</time></p>' "$(TZ=Europe/Brussels date)"; } >build/index.html
           mv ical -t build
           npx tsc scripts/freerooms.ts
           node scripts/freerooms.js ./build/events.json > build/freeevents.json
+          echo "<pre>" >>build/index.html
+          node scripts/diffevents.mjs oldevents.json build/events.json>>build/index.html
+          echo "</pre>" >>build/index.html
           
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
