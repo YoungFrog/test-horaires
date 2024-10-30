@@ -19,6 +19,7 @@
   },
   "devDependencies": {
     "@types/node": "^22.8.1",
+    "@types/node-getopt": "^0.2.35",
     "typescript": "^5.6.3"
   }
 }
