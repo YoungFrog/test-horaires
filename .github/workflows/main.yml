@@ -25,7 +25,7 @@ jobs:
           npm install
           node scripts/getEvents.mjs -d export-cours/ >build/events.json
           mkdir -p ical/{cours,groupes,profs,salles}
-          node scripts/generate-ics.mjs ical/ build/events.json build/calendars.json
+          node scripts/generate-ics-and-config-file.mjs ical/ build/events.json build/calendars.json
           { printf '<p>Last update: <time>%s</time></p>' "$(date)"; } >build/index.html
           mv ical -t build
           npx tsc scripts/freerooms.ts
