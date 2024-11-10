@@ -23,6 +23,8 @@ jobs:
         run: |
           git fetch origin gh-pages
           git cat-file blob origin/gh-pages:./events.json >./oldevents.json
+          yesterdaycommit=$(git log origin/gh-pages --until=yesterday --pretty=tformat:%H | head -1)
+          git cat-file blob "$yesterdaycommit":./events.json >./olderevents.json
 
           mkdir -p build/config
           npm install
@@ -33,10 +35,16 @@ jobs:
           mv ical -t build
           npx tsc scripts/freerooms.ts
           node scripts/freerooms.js ./build/events.json > build/freeevents.json
+          echo "<h2>Depuis dernière publication</h2>"
           echo "<pre>" >>build/index.html
           node scripts/diffevents.mjs oldevents.json build/events.json>>build/index.html
           echo "</pre>" >>build/index.html
-          
+
+          echo "<h2>Depuis hier</h2>"
+          echo "<pre>" >>build/index.html
+          node scripts/diffevents.mjs olderevents.json build/events.json>>build/index.html
+          echo "</pre>" >>build/index.html
+
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
