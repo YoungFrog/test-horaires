@@ -19,31 +19,50 @@ jobs:
         with:
           node-version: '22'
 
-      - name: generate config file
+      - name: grab old events
         run: |
           git fetch origin gh-pages
-          git cat-file blob origin/gh-pages:./events.json >./oldevents.json
+          git cat-file blob origin/gh-pages:./events.json >./events-prev.json
           yesterdaycommit=$(git log origin/gh-pages --until=yesterday --pretty=tformat:%H | head -1)
-          git cat-file blob "$yesterdaycommit":./events.json >./olderevents.json
+          git cat-file blob "$yesterdaycommit":./events.json >./events-yesterday.json
 
-          mkdir -p build/config
-          npm install
-          node scripts/getEvents.mjs -d export-cours/ >build/events.json
+      - name: create directories
+        run: |
+          mkdir -p build
           mkdir -p ical/{cours,groupes,profs,salles}
+
+      - name: install deps
+        run: |
+          npm install
+
+      - name: create events.json
+        run: |
+          node scripts/getEvents.mjs -d export-cours/ >build/events.json
+
+
+      - name: generate config and ics files
+        run: |
           node scripts/generate-ics-and-config-file.mjs ical/ build/events.json build/calendars.json
-          { printf '<p>Last update: <time>%s</time></p>' "$(TZ=Europe/Brussels date)"; } >build/index.html
-          mv ical -t build
+          mv -t build ical
+
+      - name: generate freeevents.json
+        run: |
           npx tsc scripts/freerooms.ts
           node scripts/freerooms.js ./build/events.json > build/freeevents.json
+
+      - name: generate index.html
+        run: |
+          exec >build/index.html
+          { printf '<p>Last update: <time>%s</time></p>' "$(TZ=Europe/Brussels date)"; }
           echo "<h2>Depuis dernière publication</h2>"
-          echo "<pre>" >>build/index.html
-          node scripts/diffevents.mjs oldevents.json build/events.json>>build/index.html
-          echo "</pre>" >>build/index.html
+          echo "<pre>"
+          node scripts/diffevents.mjs events-prev.json build/events.json
+          echo "</pre>"
 
           echo "<h2>Depuis hier</h2>"
-          echo "<pre>" >>build/index.html
-          node scripts/diffevents.mjs olderevents.json build/events.json>>build/index.html
-          echo "</pre>" >>build/index.html
+          echo "<pre>"
+          node scripts/diffevents.mjs events-yesterday.json build/events.json
+          echo "</pre>"
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
