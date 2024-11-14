@@ -24,7 +24,7 @@ function renderResources(resources) {
  */
 function renderEvent(event) {
     const format = str => new Intl.DateTimeFormat('fr-BE', { dateStyle: 'short', timeStyle: 'short', timeZone: 'Europe/Brussels', }).format(new Date(str))
-    return `${format(event.start)} - ${format(event.end)} - ${renderResources(event.cours)} - ${renderResources(event.salles)} - ${renderResources(event.profs)}`
+    return `${format(event.start)} - ${format(event.end)} - ${renderResources(event.cours)} - ${renderResources(event.salles)} - ${renderResources(event.profs)} - ${renderResources(event.groupes)}`
 }
 
 /**
