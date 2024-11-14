@@ -108,11 +108,15 @@ function separateEvents(from, to) {
 
 function reconcileEvents(from, to) {
     const [removed, added] = separateEvents(from, to); // don't consider events with the same id
+    const remaining = []
 
     // first match "added" and "removed" events that are 100% identical
     added.forEach(evt => {
         const identicalEvents = identicals(evt, removed);
-        if (!identicalEvents.length) return;
+        if (!identicalEvents.length) {
+            remaining.push(evt)
+            return
+        }
 
         if (identicalEvents.length > 1) throw Error("multiple events seem identicals" + JSON.stringify({ evt, identicalEvents }));
         const otherEvent = identicalEvents.at(0);
@@ -121,7 +125,7 @@ function reconcileEvents(from, to) {
     });
 
     // then match "added" and "removed" events that are similar
-    added.forEach(evt => {
+    remaining.forEach(evt => {
         const similarEvents = similars(evt, removed);
         if (!similarEvents.length) return;
 
