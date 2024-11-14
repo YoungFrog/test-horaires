@@ -13,8 +13,8 @@ import jdt from 'json-diff-ts';
  * @param {string[]} resources 
  * @returns 
  */
-function renderResources(resources) {
-    return resources ? resources.join(' ') : "ERREUR"
+function renderResources(event, resource) {
+    return event[resource]?.join(' ') ?? `(pas de ${resource})`
 }
 
 /**
@@ -24,7 +24,7 @@ function renderResources(resources) {
  */
 function renderEvent(event) {
     const format = str => new Intl.DateTimeFormat('fr-BE', { dateStyle: 'short', timeStyle: 'short', timeZone: 'Europe/Brussels', }).format(new Date(str))
-    return `${format(event.start)} - ${format(event.end)} - ${renderResources(event.cours)} - ${renderResources(event.salles)} - ${renderResources(event.profs)} - ${renderResources(event.groupes)}`
+    return `${format(event.start)} - ${format(event.end)} - ${["cours", "salles", "profs", "groupes"].map(resource => renderResources(event, resource)).join(' - ')}`
 }
 
 /**
