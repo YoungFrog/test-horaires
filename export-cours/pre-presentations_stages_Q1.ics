@@ -2,36 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2025
 METHOD:PUBLISH
-X-CALSTART:20241230T000000Z
+X-CALSTART:20250127T000000Z
 X-CALEND:20250322T000000Z
-X-WR-CALNAME;LANGUAGE=fr:HYP - pré-présentations stages Q1 - du 30 décembre 2024 au 22 mars 2025
-X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de pré-présentations stages Q1 généré par le logiciel HP (©INDEX ÉDUCATION) le 26 janv. 2025 - Haute Ecole Bruxelles Brabant - Département Informatique - valable sur la période du 30 décembre 2024 au 22 mars 2025 - Semaines : semaine 1 - 12
-BEGIN:VEVENT
-CATEGORIES:HYPERPLANNING
-DTSTAMP:20250126T162504Z
-LAST-MODIFIED:20241211T103329Z
-UID:Cours-17047-18-pre-presentations_stages_Q1-Index-Education
-DTSTART:20250106T120000Z
-DTEND:20250106T150000Z
-SUMMARY;LANGUAGE=fr:pré-présentations stages Q1
-DESCRIPTION;LANGUAGE=fr:Matière : pré-présentations stages Q1\nEnseignants : EGR - GEORGES Eric\, CLG - LEIGNEL Christine\, DNA - NABET David\, APO - POLLARIS Arnaud\nSalle : 003\n
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:HYPERPLANNING
-DTSTAMP:20250126T162504Z
-LAST-MODIFIED:20241211T103339Z
-UID:Cours-17048-18-pre-presentations_stages_Q1-Index-Education
-DTSTART:20250108T080000Z
-DTEND:20250108T110000Z
-SUMMARY;LANGUAGE=fr:pré-présentations stages Q1
-DESCRIPTION;LANGUAGE=fr:Matière : pré-présentations stages Q1\nEnseignants : LBC - BEECKMANS Laurent\, ABE - BELFKIH Abderrahmen\, DNA - NABET David\, MWA - WAHID Moussa\nSalle : 003\n
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:HYPERPLANNING
-DTSTAMP:20250126T162504Z
-UID:Ferie-576-pre-presentations_stages_Q1-Index-Education
-DTSTART;VALUE=DATE:20241230
-DTEND;VALUE=DATE:20250106
-SUMMARY;LANGUAGE=fr:Vacances
-END:VEVENT
+X-WR-CALNAME;LANGUAGE=fr:HYP - pré-présentations stages Q1 - du 27 janvier au 22 mars 2025
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de pré-présentations stages Q1 généré par le logiciel HP (©INDEX ÉDUCATION) le 27 janv. 2025 - Haute Ecole Bruxelles Brabant - Département Informatique - valable sur la période du 27 janvier au 22 mars 2025 - Semaines : semaine 5 - 12
 END:VCALENDAR
