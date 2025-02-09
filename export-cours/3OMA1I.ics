@@ -1,9 +1,0 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2025
-METHOD:PUBLISH
-X-CALSTART:20250203T000000Z
-X-CALEND:20250322T000000Z
-X-WR-CALNAME;LANGUAGE=fr:HYP - 3OMA1I - du 03 février au 22 mars 2025
-X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de 3OMA1I généré par le logiciel HP (©INDEX ÉDUCATION) le 03 févr. 2025 - Haute Ecole Bruxelles Brabant - Département Informatique - valable sur la période du 03 février au 22 mars 2025 - Semaines : semaine 6 - 12
-END:VCALENDAR
