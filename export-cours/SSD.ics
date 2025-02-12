@@ -5,10 +5,10 @@ METHOD:PUBLISH
 X-CALSTART:20250106T000000Z
 X-CALEND:20250322T000000Z
 X-WR-CALNAME;LANGUAGE=fr:HYP - SSD - du 06 janvier au 22 mars 2025
-X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de SSD généré par le logiciel HP (©INDEX ÉDUCATION) le 10 févr. 2025 - Haute Ecole Bruxelles Brabant - Département Informatique - valable sur la période du 06 janvier au 22 mars 2025 - Semaines : semaine 2 - 12
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de SSD généré par le logiciel HP (©INDEX ÉDUCATION) le 12 févr. 2025 - Haute Ecole Bruxelles Brabant - Département Informatique - valable sur la période du 06 janvier au 22 mars 2025 - Semaines : semaine 2 - 12
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20250210T114716Z
+DTSTAMP:20250212T111143Z
 LAST-MODIFIED:20241108T130824Z
 UID:Cours-16697-20-SSD-Index-Education
 DTSTART:20250121T080000Z
@@ -18,7 +18,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : SSD\nEnseignant : ABS - ABSIL Romain\nSalle :
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20250210T114716Z
+DTSTAMP:20250212T111143Z
 LAST-MODIFIED:20241108T130852Z
 UID:Cours-16698-20-SSD-Index-Education
 DTSTART:20250122T080000Z

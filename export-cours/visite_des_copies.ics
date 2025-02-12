@@ -5,10 +5,10 @@ METHOD:PUBLISH
 X-CALSTART:20250106T000000Z
 X-CALEND:20250322T000000Z
 X-WR-CALNAME;LANGUAGE=fr:HYP - visite des copies - du 06 janvier au 22 mars 2025
-X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de visite des copies généré par le logiciel HP (©INDEX ÉDUCATION) le 10 févr. 2025 - Haute Ecole Bruxelles Brabant - Département Informatique - valable sur la période du 06 janvier au 22 mars 2025 - Semaines : semaine 2 - 12
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de visite des copies généré par le logiciel HP (©INDEX ÉDUCATION) le 12 févr. 2025 - Haute Ecole Bruxelles Brabant - Département Informatique - valable sur la période du 06 janvier au 22 mars 2025 - Semaines : semaine 2 - 12
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20250210T114716Z
+DTSTAMP:20250212T111143Z
 LAST-MODIFIED:20241108T135655Z
 UID:Cours-16699-21-visite_des_copies-Index-Education
 DTSTART:20250130T080000Z
