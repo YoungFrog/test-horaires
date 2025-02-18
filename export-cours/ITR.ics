@@ -2,18 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2025
 METHOD:PUBLISH
-X-CALSTART:20250113T000000Z
+X-CALSTART:20250203T000000Z
 X-CALEND:20250315T000000Z
-X-WR-CALNAME;LANGUAGE=fr:HYP - ITR - du 13 janvier au 15 mars 2025
-X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de ITR généré par le logiciel HP (©INDEX ÉDUCATION) le 18 févr. 2025 - Haute Ecole Bruxelles Brabant - Département Informatique - valable sur la période du 13 janvier au 15 mars 2025 - Semaines : semaine 3 - 11
-BEGIN:VEVENT
-CATEGORIES:HYPERPLANNING
-DTSTAMP:20250218T084440Z
-LAST-MODIFIED:20241106T214003Z
-UID:Cours-16670-20-ITR-Index-Education
-DTSTART:20250124T073000Z
-DTEND:20250124T113000Z
-SUMMARY;LANGUAGE=fr:ITR
-DESCRIPTION;LANGUAGE=fr:Matière : ITR\nEnseignant : MHI - HADJILI Mohamed\nTD : E21\nSalle : 405\nType : EM\n
-END:VEVENT
+X-WR-CALNAME;LANGUAGE=fr:HYP - ITR - du 03 février au 15 mars 2025
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de ITR généré par le logiciel HP (©INDEX ÉDUCATION) le 18 févr. 2025 - Haute Ecole Bruxelles Brabant - Département Informatique - valable sur la période du 03 février au 15 mars 2025 - Semaines : semaine 6 - 11
 END:VCALENDAR
