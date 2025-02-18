@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2025
 METHOD:PUBLISH
-X-CALSTART:20250106T000000Z
-X-CALEND:20250322T000000Z
-X-WR-CALNAME;LANGUAGE=fr:HYP - AUT - du 06 janvier au 22 mars 2025
-X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de AUT généré par le logiciel HP (©INDEX ÉDUCATION) le 12 févr. 2025 - Haute Ecole Bruxelles Brabant - Département Informatique - valable sur la période du 06 janvier au 22 mars 2025 - Semaines : semaine 2 - 12
+X-CALSTART:20250113T000000Z
+X-CALEND:20250315T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - AUT - du 13 janvier au 15 mars 2025
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de AUT généré par le logiciel HP (©INDEX ÉDUCATION) le 18 févr. 2025 - Haute Ecole Bruxelles Brabant - Département Informatique - valable sur la période du 13 janvier au 15 mars 2025 - Semaines : semaine 3 - 11
 END:VCALENDAR
