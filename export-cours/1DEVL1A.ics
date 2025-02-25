@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2025
 METHOD:PUBLISH
 X-CALSTART:20250203T000000Z
-X-CALEND:20250315T000000Z
-X-WR-CALNAME;LANGUAGE=fr:HYP - 1DEVL1A - du 03 février au 15 mars 2025
-X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de 1DEVL1A généré par le logiciel HP (©INDEX ÉDUCATION) le 24 févr. 2025 - Haute Ecole Bruxelles Brabant - Département Informatique - valable sur la période du 03 février au 15 mars 2025 - Semaines : semaine 6 - 11
+X-CALEND:20250322T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - 1DEVL1A - du 03 février au 22 mars 2025
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de 1DEVL1A généré par le logiciel HP (©INDEX ÉDUCATION) le 25 févr. 2025 - Haute Ecole Bruxelles Brabant - Département Informatique - valable sur la période du 03 février au 22 mars 2025 - Semaines : semaine 6 - 12
 END:VCALENDAR
