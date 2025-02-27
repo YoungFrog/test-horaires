@@ -3,7 +3,23 @@ VERSION:2.0
 PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2025
 METHOD:PUBLISH
 X-CALSTART:20250203T000000Z
-X-CALEND:20250322T000000Z
-X-WR-CALNAME;LANGUAGE=fr:HYP - 2INTD2A - du 03 février au 22 mars 2025
-X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de 2INTD2A généré par le logiciel HP (©INDEX ÉDUCATION) le 27 févr. 2025 - Haute Ecole Bruxelles Brabant - Département Informatique - valable sur la période du 03 février au 22 mars 2025 - Semaines : semaine 6 - 12
+X-CALEND:20250517T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - 2INTD2A - du 03 février au 17 mai 2025
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de 2INTD2A généré par le logiciel HP (©INDEX ÉDUCATION) le 27 févr. 2025 - Haute Ecole Bruxelles Brabant - Département Informatique - valable sur la période du 03 février au 17 mai 2025 - Semaines : semaine 6 - 20
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250227T140957Z
+UID:Ferie-577-2INTD2A-Index-Education
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250422
+SUMMARY;LANGUAGE=fr:Férié
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250227T140957Z
+UID:Ferie-578-2INTD2A-Index-Education
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250512
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
 END:VCALENDAR
