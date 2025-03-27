@@ -5,10 +5,10 @@ METHOD:PUBLISH
 X-CALSTART:20250203T000000Z
 X-CALEND:20250517T000000Z
 X-WR-CALNAME;LANGUAGE=fr:HYP - 3PHA1LI - du 03 février au 17 mai 2025
-X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de 3PHA1LI généré par le logiciel HP (©INDEX ÉDUCATION) le 26 mars 2025 - Haute Ecole Bruxelles Brabant - Département Informatique - valable sur la période du 03 février au 17 mai 2025 - Semaines : semaine 6 - 20
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de 3PHA1LI généré par le logiciel HP (©INDEX ÉDUCATION) le 27 mars 2025 - Haute Ecole Bruxelles Brabant - Département Informatique - valable sur la période du 03 février au 17 mai 2025 - Semaines : semaine 6 - 20
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20250326T070252Z
+DTSTAMP:20250327T120357Z
 UID:Ferie-577-3PHA1LI-Index-Education
 DTSTART;VALUE=DATE:20250421
 DTEND;VALUE=DATE:20250422
@@ -16,7 +16,7 @@ SUMMARY;LANGUAGE=fr:Férié
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20250326T070252Z
+DTSTAMP:20250327T120357Z
 UID:Ferie-578-3PHA1LI-Index-Education
 DTSTART;VALUE=DATE:20250428
 DTEND;VALUE=DATE:20250512
