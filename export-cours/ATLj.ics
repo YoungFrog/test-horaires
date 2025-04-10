@@ -5,10 +5,10 @@ METHOD:PUBLISH
 X-CALSTART:20250203T000000Z
 X-CALEND:20250517T000000Z
 X-WR-CALNAME;LANGUAGE=fr:HYP - ATLj - du 03 février au 17 mai 2025
-X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de ATLj généré par le logiciel HP (©INDEX ÉDUCATION) le 08 avr. 2025 - Haute Ecole Bruxelles Brabant - Département Informatique - valable sur la période du 03 février au 17 mai 2025 - Semaines : semaine 6 - 20
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de ATLj généré par le logiciel HP (©INDEX ÉDUCATION) le 10 avr. 2025 - Haute Ecole Bruxelles Brabant - Département Informatique - valable sur la période du 03 février au 17 mai 2025 - Semaines : semaine 6 - 20
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20250408T135127Z
+DTSTAMP:20250410T065111Z
 UID:Ferie-577-ATLj-Index-Education
 DTSTART;VALUE=DATE:20250421
 DTEND;VALUE=DATE:20250422
@@ -16,7 +16,7 @@ SUMMARY;LANGUAGE=fr:Férié
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20250408T135127Z
+DTSTAMP:20250410T065111Z
 UID:Ferie-578-ATLj-Index-Education
 DTSTART;VALUE=DATE:20250428
 DTEND;VALUE=DATE:20250512
