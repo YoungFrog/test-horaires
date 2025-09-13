@@ -3,11 +3,19 @@ VERSION:2.0
 PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2025
 METHOD:PUBLISH
 X-CALSTART:20250915T000000Z
-X-CALEND:20251024T000000Z
-X-WR-CALNAME;LANGUAGE=fr:HYP - Défenses de stages - du 15 septembre au 24 o
+X-CALEND:20251031T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - Défenses de stages - du 15 septembre au 31 o
  ctobre 2025
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de Défenses de stages généré par l
- e logiciel HP (©INDEX ÉDUCATION) le 11 sept. 2025 - Haute Ecole Bruxelles 
+ e logiciel HP (©INDEX ÉDUCATION) le 13 sept. 2025 - Haute Ecole Bruxelles 
  Brabant - Département Informatique - valable sur la période du 15 septembr
- e au 24 octobre 2025 - Semaines : semaine 38 - 43
+ e au 31 octobre 2025 - Semaines : semaine 38 - 44
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250913T064229Z
+UID:Ferie-609-Defenses_de_stages-Index-Education
+DTSTART;VALUE=DATE:20251027
+DTEND;VALUE=DATE:20251101
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
 END:VCALENDAR
