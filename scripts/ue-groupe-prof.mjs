@@ -42,16 +42,18 @@ for (let event of events) {
         continue
     }
     let acro = event.profs[0].code
-    if (event.groupes.length > 1) {
-        console.error("groupes > 1 for event: ", event);
-        continue
+    // if (event.groupes.length > 1) {
+    //     console.error("groupes > 1 for event: ", event);
+    //     continue
+    // }
+    for (let groupe of event.groupes.map(g => g.code)) {
+        // let groupe = event.groupes[0].code
+        if (dict[groupe] && dict[groupe] !== acro) {
+            console.error("groupe", groupe, "has multiple profs: ", acro, dict[groupe]);
+            continue
+        }
+        dict[groupe] = acro
     }
-    let groupe = event.groupes[0].code
-    if (dict[groupe] && dict[groupe] !== acro) {
-        console.error("groupe", groupe, "has multiple profs: ", acro, dict[groupe]);
-        continue
-    }
-    dict[groupe] = acro
 }
 console.log(dict);
 
