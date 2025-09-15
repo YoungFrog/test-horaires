@@ -6,12 +6,12 @@ X-CALSTART:20250915T000000Z
 X-CALEND:20251031T000000Z
 X-WR-CALNAME;LANGUAGE=fr:HYP - MOBG6 - du 15 septembre au 31 octobre 2025
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de MOBG6 généré par le logiciel HP
-  (©INDEX ÉDUCATION) le 14 sept. 2025 - Haute Ecole Bruxelles Brabant - Dép
+  (©INDEX ÉDUCATION) le 15 sept. 2025 - Haute Ecole Bruxelles Brabant - Dép
  artement Informatique - valable sur la période du 15 septembre au 31 octob
  re 2025 - Semaines : semaine 38 - 44
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20250914T154907Z
+DTSTAMP:20250915T115631Z
 UID:Ferie-609-MOBG6-Index-Education
 DTSTART;VALUE=DATE:20251027
 DTEND;VALUE=DATE:20251101
