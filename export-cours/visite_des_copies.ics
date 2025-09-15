@@ -12,7 +12,7 @@ X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de visite des copies généré par le
   au 31 octobre 2025 - Semaines : semaine 38 - 44
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20250915T115631Z
+DTSTAMP:20250915T121224Z
 UID:Ferie-609-visite_des_copies-Index-Education
 DTSTART;VALUE=DATE:20251027
 DTEND;VALUE=DATE:20251101
