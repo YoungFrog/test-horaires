@@ -6,12 +6,12 @@ X-CALSTART:20250915T000000Z
 X-CALEND:20251031T000000Z
 X-WR-CALNAME;LANGUAGE=fr:HYP - 2INTR2A - du 15 septembre au 31 octobre 2025
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de 2INTR2A généré par le logiciel 
- HP (©INDEX ÉDUCATION) le 15 sept. 2025 - Haute Ecole Bruxelles Brabant - D
+ HP (©INDEX ÉDUCATION) le 16 sept. 2025 - Haute Ecole Bruxelles Brabant - D
  épartement Informatique - valable sur la période du 15 septembre au 31 oct
  obre 2025 - Semaines : semaine 38 - 44
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20250915T121223Z
+DTSTAMP:20250916T145443Z
 UID:Ferie-609-2INTR2A-Index-Education
 DTSTART;VALUE=DATE:20251027
 DTEND;VALUE=DATE:20251101
