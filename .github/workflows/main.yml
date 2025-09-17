@@ -17,53 +17,26 @@ jobs:
 
       - uses: actions/setup-node@v3
         with:
-          node-version: '22'
+          node-version: '16'
 
-      - name: grab old events
+      - name: generate config file
         run: |
           git fetch origin gh-pages
-          git cat-file blob origin/gh-pages:./events.json >./events-prev.json
-          yesterdaycommit=$(git log origin/gh-pages --until=yesterday --pretty=tformat:%H | head -1)
-          git cat-file blob "$yesterdaycommit":./events.json >./events-yesterday.json
+          git cat-file blob origin/gh-pages:./events.json >./oldevents.json
 
-      - name: create directories
-        run: |
-          mkdir -p build
-          mkdir -p ical/{cours,groupes,profs,salles}
-
-      - name: install deps
-        run: |
+          mkdir -p build/config
           npm install
-
-      - name: create events.json
-        run: |
           node scripts/getEvents.mjs -d export-cours/ >build/events.json
-
-
-      - name: generate config and ics files
-        run: |
+          mkdir -p ical/{cours,groupes,profs,salles}
           node scripts/generate-ics-and-config-file.mjs ical/ build/events.json build/calendars.json
-          mv -t build ical
-
-      - name: generate freeevents.json
-        run: |
+          { printf '<p>Last update: <time>%s</time></p>' "$(TZ=Europe/Brussels date)"; } >build/index.html
+          mv ical -t build
           npx tsc scripts/freerooms.ts
           node scripts/freerooms.js ./build/events.json > build/freeevents.json
-
-      - name: generate index.html
-        run: |
-          exec >build/index.html
-          { printf '<p>Last update: <time>%s</time></p>' "$(TZ=Europe/Brussels date)"; }
-          echo "<h2>Depuis dernière publication</h2>"
-          echo "<pre>"
-          node scripts/diffevents.mjs events-prev.json build/events.json
-          echo "</pre>"
-
-          echo "<h2>Depuis hier</h2>"
-          echo "<pre>"
-          node scripts/diffevents.mjs events-yesterday.json build/events.json
-          echo "</pre>"
-
+          echo "<pre>" >>build/index.html
+          node scripts/diffevents.mjs oldevents.json build/events.json>>build/index.html
+          echo "</pre>" >>build/index.html
+          
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:

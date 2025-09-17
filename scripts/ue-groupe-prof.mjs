@@ -35,18 +35,14 @@ for (let event of events) {
     /**
      * @type {string}
      */
-    let aa = event.cours[0].code;
+    let aa = event.aa;
     if (aaregexp && !aa.match(new RegExp(aaregexp, 'i'))) continue
-    if (event.profs.length > 1) {
+    if (event.profacros.length > 1) {
         console.error("prof acro > 1 for event: ", event);
         continue
     }
-    let acro = event.profs[0].code
-    if (event.groupes.length > 1) {
-        console.error("groupes > 1 for event: ", event);
-        continue
-    }
-    let groupe = event.groupes[0].code
+    let acro = event.profacros[0]
+    let groupe = event.groupes // étrangeté de getEvents ; ceci devrait être un tableau !
     if (dict[groupe] && dict[groupe] !== acro) {
         console.error("groupe", groupe, "has multiple profs: ", acro, dict[groupe]);
         continue
