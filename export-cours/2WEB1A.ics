@@ -6,12 +6,12 @@ X-CALSTART:20250915T000000Z
 X-CALEND:20251031T000000Z
 X-WR-CALNAME;LANGUAGE=fr:HYP - 2WEB1A - du 15 septembre au 31 octobre 2025
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de 2WEB1A généré par le logiciel H
- P (©INDEX ÉDUCATION) le 17 sept. 2025 - Haute Ecole Bruxelles Brabant - Dé
+ P (©INDEX ÉDUCATION) le 18 sept. 2025 - Haute Ecole Bruxelles Brabant - Dé
  partement Informatique - valable sur la période du 15 septembre au 31 octo
  bre 2025 - Semaines : semaine 38 - 44
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20250917T090336Z
+DTSTAMP:20250918T134552Z
 UID:Ferie-609-2WEB1A-Index-Education
 DTSTART;VALUE=DATE:20251027
 DTEND;VALUE=DATE:20251101

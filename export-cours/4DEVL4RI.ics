@@ -7,12 +7,12 @@ X-CALEND:20251031T000000Z
 X-WR-CALNAME;LANGUAGE=fr:HYP - 4DEVL4RI - du 15 septembre au 31 octobre 202
  5
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de 4DEVL4RI généré par le logiciel
-  HP (©INDEX ÉDUCATION) le 17 sept. 2025 - Haute Ecole Bruxelles Brabant - 
+  HP (©INDEX ÉDUCATION) le 18 sept. 2025 - Haute Ecole Bruxelles Brabant - 
  Département Informatique - valable sur la période du 15 septembre au 31 oc
  tobre 2025 - Semaines : semaine 38 - 44
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20250917T090336Z
+DTSTAMP:20250918T134552Z
 UID:Ferie-609-4DEVL4RI-Index-Education
 DTSTART;VALUE=DATE:20251027
 DTEND;VALUE=DATE:20251101
