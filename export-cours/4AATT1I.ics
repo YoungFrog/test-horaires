@@ -6,12 +6,12 @@ X-CALSTART:20250915T000000Z
 X-CALEND:20251031T000000Z
 X-WR-CALNAME;LANGUAGE=fr:HYP - 4AATT1I - du 15 septembre au 31 octobre 2025
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de 4AATT1I généré par le logiciel 
- HP (©INDEX ÉDUCATION) le 25 sept. 2025 - Haute Ecole Bruxelles Brabant - D
- épartement Informatique - valable sur la période du 15 septembre au 31 oct
- obre 2025 - Semaines : semaine 38 - 44
+ HP (©INDEX ÉDUCATION) le 01 oct. 2025 - Haute Ecole Bruxelles Brabant - Dé
+ partement Informatique - valable sur la période du 15 septembre au 31 octo
+ bre 2025 - Semaines : semaine 38 - 44
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20250925T074856Z
+DTSTAMP:20251001T104358Z
 UID:Ferie-609-4AATT1I-Index-Education
 DTSTART;VALUE=DATE:20251027
 DTEND;VALUE=DATE:20251101
