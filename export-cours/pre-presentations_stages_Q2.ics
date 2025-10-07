@@ -7,12 +7,12 @@ X-CALEND:20251031T000000Z
 X-WR-CALNAME;LANGUAGE=fr:HYP - pré-présentations stages Q2 - du 15 septembr
  e au 31 octobre 2025
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de pré-présentations stages Q2 gén
- éré par le logiciel HP (©INDEX ÉDUCATION) le 01 oct. 2025 - Haute Ecole Br
+ éré par le logiciel HP (©INDEX ÉDUCATION) le 07 oct. 2025 - Haute Ecole Br
  uxelles Brabant - Département Informatique - valable sur la période du 15 
  septembre au 31 octobre 2025 - Semaines : semaine 38 - 44
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20251001T104358Z
+DTSTAMP:20251007T085049Z
 UID:Ferie-609-pre-presentations_stages_Q2-Index-Education
 DTSTART;VALUE=DATE:20251027
 DTEND;VALUE=DATE:20251101
