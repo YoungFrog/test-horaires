@@ -3,19 +3,35 @@ VERSION:2.0
 PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2025
 METHOD:PUBLISH
 X-CALSTART:20250915T000000Z
-X-CALEND:20251031T000000Z
+X-CALEND:20260102T000000Z
 X-WR-CALNAME;LANGUAGE=fr:HYP - pré-présentations stages Q1 - du 15 septembr
- e au 31 octobre 2025
+ e 2025 au 02 janvier 2026
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de pré-présentations stages Q1 gén
- éré par le logiciel HP (©INDEX ÉDUCATION) le 10 oct. 2025 - Haute Ecole Br
+ éré par le logiciel HP (©INDEX ÉDUCATION) le 13 oct. 2025 - Haute Ecole Br
  uxelles Brabant - Département Informatique - valable sur la période du 15 
- septembre au 31 octobre 2025 - Semaines : semaine 38 - 44
+ septembre 2025 au 02 janvier 2026 - Semaines : semaine 38 - 1
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20251010T103315Z
+DTSTAMP:20251013T154021Z
 UID:Ferie-628-pre-presentations_stages_Q1-Index-Education
 DTSTART;VALUE=DATE:20251027
 DTEND;VALUE=DATE:20251101
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20251013T154021Z
+UID:Ferie-629-pre-presentations_stages_Q1-Index-Education
+DTSTART;VALUE=DATE:20251110
+DTEND;VALUE=DATE:20251112
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20251013T154021Z
+UID:Ferie-630-pre-presentations_stages_Q1-Index-Education
+DTSTART;VALUE=DATE:20251222
+DTEND;VALUE=DATE:20260103
 SUMMARY;LANGUAGE=fr:Vacances
 END:VEVENT
 END:VCALENDAR
