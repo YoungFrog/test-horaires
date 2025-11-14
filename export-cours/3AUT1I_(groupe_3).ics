@@ -7,12 +7,12 @@ X-CALEND:20251219T000000Z
 X-WR-CALNAME;LANGUAGE=fr:HYP - 3AUT1I (groupe 3) - du 15 septembre au 19 dé
  cembre 2025
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de 3AUT1I (groupe 3) généré par le
-  logiciel HP (©INDEX ÉDUCATION) le 12 nov. 2025 - Haute Ecole Bruxelles Br
+  logiciel HP (©INDEX ÉDUCATION) le 14 nov. 2025 - Haute Ecole Bruxelles Br
  abant - Département Informatique - valable sur la période du 15 septembre 
  au 19 décembre 2025 - Semaines : semaine 38 - 51
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20251112T101223Z
+DTSTAMP:20251114T070041Z
 UID:Ferie-628-3AUT1I_(groupe_3)-Index-Education
 DTSTART;VALUE=DATE:20251027
 DTEND;VALUE=DATE:20251101
@@ -20,7 +20,7 @@ SUMMARY;LANGUAGE=fr:Vacances
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20251112T101223Z
+DTSTAMP:20251114T070041Z
 UID:Ferie-629-3AUT1I_(groupe_3)-Index-Education
 DTSTART;VALUE=DATE:20251110
 DTEND;VALUE=DATE:20251112
