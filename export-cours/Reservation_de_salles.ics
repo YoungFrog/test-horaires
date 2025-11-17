@@ -7,12 +7,12 @@ X-CALEND:20251219T000000Z
 X-WR-CALNAME;LANGUAGE=fr:HYP - Réservation de salles - du 15 septembre au 1
  9 décembre 2025
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de Réservation de salles généré pa
- r le logiciel HP (©INDEX ÉDUCATION) le 14 nov. 2025 - Haute Ecole Bruxelle
+ r le logiciel HP (©INDEX ÉDUCATION) le 17 nov. 2025 - Haute Ecole Bruxelle
  s Brabant - Département Informatique - valable sur la période du 15 septem
  bre au 19 décembre 2025 - Semaines : semaine 38 - 51
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20251114T070041Z
+DTSTAMP:20251117T094441Z
 UID:Ferie-628-Reservation_de_salles-Index-Education
 DTSTART;VALUE=DATE:20251027
 DTEND;VALUE=DATE:20251101
@@ -20,7 +20,7 @@ SUMMARY;LANGUAGE=fr:Vacances
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20251114T070041Z
+DTSTAMP:20251117T094441Z
 UID:Ferie-629-Reservation_de_salles-Index-Education
 DTSTART;VALUE=DATE:20251110
 DTEND;VALUE=DATE:20251112
