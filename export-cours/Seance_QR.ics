@@ -3,16 +3,75 @@ VERSION:2.0
 PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2025
 METHOD:PUBLISH
 X-CALSTART:20250915T000000Z
-X-CALEND:20251219T000000Z
-X-WR-CALNAME;LANGUAGE=fr:HYP - Séance Q/R - du 15 septembre au 19 décembre 
- 2025
+X-CALEND:20260130T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - Séance Q/R - du 15 septembre 2025 au 30 janv
+ ier 2026
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de Séance Q/R généré par le logici
- el HP (©INDEX ÉDUCATION) le 24 nov. 2025 - Haute Ecole Bruxelles Brabant -
-  Département Informatique - valable sur la période du 15 septembre au 19 d
- écembre 2025 - Semaines : semaine 38 - 51
+ el HP (©INDEX ÉDUCATION) le 25 nov. 2025 - Haute Ecole Bruxelles Brabant -
+  Département Informatique - valable sur la période du 15 septembre 2025 au
+  30 janvier 2026 - Semaines : semaine 38 - 5
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20251124T112219Z
+DTSTAMP:20251125T100017Z
+LAST-MODIFIED:20251106T142457Z
+UID:Cours-24055-17-Seance_QR-Index-Education
+DTSTART:20260105T090000Z
+DTEND:20260105T110000Z
+SUMMARY;LANGUAGE=fr:Séance Q/R - ABS - ABSIL Romain\, ZAT - ATTAOUIL Zakari
+ a\, MBA - BASTREGHI Monica\, LBC - BEECKMANS Laurent\, BEJ - BELEHO Jonas\
+ , ABE - BELFKIH Abderrahmen\, PBT - BETTENS Pierre\, BIS - BISCHOP Patrick
+ \, MBO - BODIN Morel\, DBO - BOIGELOT Denis\, BCH - CHOQUET Benoît\, MCD -
+  CODUTTI Marco\, CUV - CUVELIER Geneviève\, JDK - DEKEYSER Justin\, JDS - 
+ DOSSOGNE Jérôme\, SDR - DROBISZ Sébastien\, EFA - FALKENAUER Emanuel\, MHI
+  - HADJILI Mohamed\, HAL - HALLAL Amine\, QHB - HOUBEN Quentin\, JLC - LEC
+ HIEN Jonathan\, CLG - LEIGNEL Christine\, BMO - MOTRY Bruno\, DNA - NABET 
+ David\, TNI - NICODEME Thibaut\, ROU - OUESLATI Rami\, APT - PATTE Antoine
+ \, APO - POLLARIS Arnaud\, SRE - REXHEP Selim\, NRI - RICHARD Nicolas\, AR
+ O - ROUSSEAU Anne\, MSA - SASSOLAS Mathieu\, BSC - SCHILTZ Benoît\, HSE - 
+ SERHANI Hamza\, SRV - SERVAIS Frédéric\, JST - STANOJEVIC Jovana\, JSS - S
+ TOFFEN Jean-Sébastien\, NVS - VANSTEENKISTE Nicolas\, MWA - WAHID Moussa -
+  A111\, A112\, A121\, A122\, A131\, A132\, A211\, A212\, A221\, A222\, A23
+ 1\, A232\, A311\, A312\, A321\, A322\, A331\, A332\, C111\, C112\, C121\, 
+ C122\, C131\, C211\, C212\, C213\, C214\, C311\, E111\, E112\, E121\, E122
+ \, E211\, E212\, E311
+DESCRIPTION;LANGUAGE=fr:Matière : Séance Q/R\nEnseignants : ABS - ABSIL Rom
+ ain\, ZAT - ATTAOUIL Zakaria\, MBA - BASTREGHI Monica\, LBC - BEECKMANS La
+ urent\, BEJ - BELEHO Jonas\, ABE - BELFKIH Abderrahmen\, PBT - BETTENS Pie
+ rre\, BIS - BISCHOP Patrick\, MBO - BODIN Morel\, DBO - BOIGELOT Denis\, B
+ CH - CHOQUET Benoît\, MCD - CODUTTI Marco\, CUV - CUVELIER Geneviève\, JDK
+  - DEKEYSER Justin\, JDS - DOSSOGNE Jérôme\, SDR - DROBISZ Sébastien\, EFA
+  - FALKENAUER Emanuel\, MHI - HADJILI Mohamed\, HAL - HALLAL Amine\, QHB -
+  HOUBEN Quentin\, JLC - LECHIEN Jonathan\, CLG - LEIGNEL Christine\, BMO -
+  MOTRY Bruno\, DNA - NABET David\, TNI - NICODEME Thibaut\, ROU - OUESLATI
+  Rami\, APT - PATTE Antoine\, APO - POLLARIS Arnaud\, SRE - REXHEP Selim\,
+  NRI - RICHARD Nicolas\, ARO - ROUSSEAU Anne\, MSA - SASSOLAS Mathieu\, BS
+ C - SCHILTZ Benoît\, HSE - SERHANI Hamza\, SRV - SERVAIS Frédéric\, JST - 
+ STANOJEVIC Jovana\, JSS - STOFFEN Jean-Sébastien\, NVS - VANSTEENKISTE Nic
+ olas\, MWA - WAHID Moussa\nTD : A111\, A112\, A121\, A122\, A131\, A132\, 
+ A211\, A212\, A221\, A222\, A231\, A232\, A311\, A312\, A321\, A322\, A331
+ \, A332\, C111\, C112\, C121\, C122\, C131\, C211\, C212\, C213\, C214\, C
+ 311\, E111\, E112\, E121\, E122\, E211\, E212\, E311\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Séance Q/R<br/>Enseignants : ABS - A
+ BSIL Romain\, ZAT - ATTAOUIL Zakaria\, MBA - BASTREGHI Monica\, LBC - BEEC
+ KMANS Laurent\, BEJ - BELEHO Jonas\, ABE - BELFKIH Abderrahmen\, PBT - BET
+ TENS Pierre\, BIS - BISCHOP Patrick\, MBO - BODIN Morel\, DBO - BOIGELOT D
+ enis\, BCH - CHOQUET Benoît\, MCD - CODUTTI Marco\, CUV - CUVELIER Geneviè
+ ve\, JDK - DEKEYSER Justin\, JDS - DOSSOGNE Jérôme\, SDR - DROBISZ Sébasti
+ en\, EFA - FALKENAUER Emanuel\, MHI - HADJILI Mohamed\, HAL - HALLAL Amine
+ \, QHB - HOUBEN Quentin\, JLC - LECHIEN Jonathan\, CLG - LEIGNEL Christine
+ \, BMO - MOTRY Bruno\, DNA - NABET David\, TNI - NICODEME Thibaut\, ROU - 
+ OUESLATI Rami\, APT - PATTE Antoine\, APO - POLLARIS Arnaud\, SRE - REXHEP
+  Selim\, NRI - RICHARD Nicolas\, ARO - ROUSSEAU Anne\, MSA - SASSOLAS Math
+ ieu\, BSC - SCHILTZ Benoît\, HSE - SERHANI Hamza\, SRV - SERVAIS Frédéric\
+ , JST - STANOJEVIC Jovana\, JSS - STOFFEN Jean-Sébastien\, NVS - VANSTEENK
+ ISTE Nicolas\, MWA - WAHID Moussa<br/>TD : A111\, A112\, A121\, A122\, A13
+ 1\, A132\, A211\, A212\, A221\, A222\, A231\, A232\, A311\, A312\, A321\, 
+ A322\, A331\, A332\, C111\, C112\, C121\, C122\, C131\, C211\, C212\, C213
+ \, C214\, C311\, E111\, E112\, E121\, E122\, E211\, E212\, E311<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20251125T100017Z
 UID:Ferie-628-Seance_QR-Index-Education
 DTSTART;VALUE=DATE:20251027
 DTEND;VALUE=DATE:20251101
@@ -20,10 +79,18 @@ SUMMARY;LANGUAGE=fr:Vacances
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20251124T112219Z
+DTSTAMP:20251125T100017Z
 UID:Ferie-629-Seance_QR-Index-Education
 DTSTART;VALUE=DATE:20251110
 DTEND;VALUE=DATE:20251112
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20251125T100017Z
+UID:Ferie-630-Seance_QR-Index-Education
+DTSTART;VALUE=DATE:20251222
+DTEND;VALUE=DATE:20260105
 SUMMARY;LANGUAGE=fr:Vacances
 END:VEVENT
 END:VCALENDAR
