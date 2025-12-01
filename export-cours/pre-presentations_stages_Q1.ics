@@ -3,16 +3,39 @@ VERSION:2.0
 PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2025
 METHOD:PUBLISH
 X-CALSTART:20250915T000000Z
-X-CALEND:20251219T000000Z
+X-CALEND:20260123T000000Z
 X-WR-CALNAME;LANGUAGE=fr:HYP - pré-présentations stages Q1 - du 15 septembr
- e au 19 décembre 2025
+ e 2025 au 23 janvier 2026
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de pré-présentations stages Q1 gén
- éré par le logiciel HP (©INDEX ÉDUCATION) le 26 nov. 2025 - Haute Ecole Br
+ éré par le logiciel HP (©INDEX ÉDUCATION) le 01 déc. 2025 - Haute Ecole Br
  uxelles Brabant - Département Informatique - valable sur la période du 15 
- septembre au 19 décembre 2025 - Semaines : semaine 38 - 51
+ septembre 2025 au 23 janvier 2026 - Semaines : semaine 38 - 4
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20251126T092335Z
+DTSTAMP:20251201T094421Z
+LAST-MODIFIED:20251107T111843Z
+UID:Cours-24056-17-pre-presentations_stages_Q1-Index-Education
+DTSTART:20260105T123000Z
+DTEND:20260105T153000Z
+SUMMARY;LANGUAGE=fr:pré-présentations stages Q1 - ABS - ABSIL Romain\, ZAT 
+ - ATTAOUIL Zakaria\, BIS - BISCHOP Patrick\, MBO - BODIN Morel\, DBO - BOI
+ GELOT Denis\, BCH - CHOQUET Benoît\, JDK - DEKEYSER Justin\, SDR - DROBISZ
+  Sébastien\, CLG - LEIGNEL Christine\, DNA - NABET David\, SRE - REXHEP Se
+ lim\, NVS - VANSTEENKISTE Nicolas
+DESCRIPTION;LANGUAGE=fr:Matière : pré-présentations stages Q1\nEnseignants 
+ : ABS - ABSIL Romain\, ZAT - ATTAOUIL Zakaria\, BIS - BISCHOP Patrick\, MB
+ O - BODIN Morel\, DBO - BOIGELOT Denis\, BCH - CHOQUET Benoît\, JDK - DEKE
+ YSER Justin\, SDR - DROBISZ Sébastien\, CLG - LEIGNEL Christine\, DNA - NA
+ BET David\, SRE - REXHEP Selim\, NVS - VANSTEENKISTE Nicolas\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : pré-présentations stages Q1<br/>Ense
+ ignants : ABS - ABSIL Romain\, ZAT - ATTAOUIL Zakaria\, BIS - BISCHOP Patr
+ ick\, MBO - BODIN Morel\, DBO - BOIGELOT Denis\, BCH - CHOQUET Benoît\, JD
+ K - DEKEYSER Justin\, SDR - DROBISZ Sébastien\, CLG - LEIGNEL Christine\, 
+ DNA - NABET David\, SRE - REXHEP Selim\, NVS - VANSTEENKISTE Nicolas<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20251201T094421Z
 UID:Ferie-628-pre-presentations_stages_Q1-Index-Education
 DTSTART;VALUE=DATE:20251027
 DTEND;VALUE=DATE:20251101
@@ -20,10 +43,18 @@ SUMMARY;LANGUAGE=fr:Vacances
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20251126T092335Z
+DTSTAMP:20251201T094421Z
 UID:Ferie-629-pre-presentations_stages_Q1-Index-Education
 DTSTART;VALUE=DATE:20251110
 DTEND;VALUE=DATE:20251112
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20251201T094421Z
+UID:Ferie-630-pre-presentations_stages_Q1-Index-Education
+DTSTART;VALUE=DATE:20251222
+DTEND;VALUE=DATE:20260105
 SUMMARY;LANGUAGE=fr:Vacances
 END:VEVENT
 END:VCALENDAR
