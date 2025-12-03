@@ -7,12 +7,12 @@ X-CALEND:20260130T000000Z
 X-WR-CALNAME;LANGUAGE=fr:HYP - 3OMA1RI (tte la journée) - du 15 septembre 2
  025 au 30 janvier 2026
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de 3OMA1RI (tte la journée) généré
-  par le logiciel HP (©INDEX ÉDUCATION) le 02 déc. 2025 - Haute Ecole Bruxe
+  par le logiciel HP (©INDEX ÉDUCATION) le 03 déc. 2025 - Haute Ecole Bruxe
  lles Brabant - Département Informatique - valable sur la période du 15 sep
  tembre 2025 au 30 janvier 2026 - Semaines : semaine 38 - 5
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20251202T152045Z
+DTSTAMP:20251203T084500Z
 LAST-MODIFIED:20251029T133648Z
 UID:Cours-24097-19-3OMA1RI_(tte_la_journee)-Index-Education
 DTSTART:20260120T123000Z
@@ -21,14 +21,14 @@ SUMMARY;LANGUAGE=fr:3OMA1RI (tte la journée) - CLG - LEIGNEL Christine\, BS
  C - SCHILTZ Benoît - C211\, C212\, C213\, C214\, C311
 DESCRIPTION;LANGUAGE=fr:Matière : 3OMA1RI (tte la journée)\nEnseignants : C
  LG - LEIGNEL Christine\, BSC - SCHILTZ Benoît\nTD : C211\, C212\, C213\, C
- 214\, C311\nSalles : 203\, 204\nType : O\n
+ 214\, C311\nSalles : 203\, 204\n
 X-ALT-DESC;FMTTYPE=text/html:Matière : 3OMA1RI (tte la journée)<br/>Enseign
  ants : CLG - LEIGNEL Christine\, BSC - SCHILTZ Benoît<br/>TD : C211\, C212
- \, C213\, C214\, C311<br/>Salles : 203\, 204<br/>Type : O<br/>
+ \, C213\, C214\, C311<br/>Salles : 203\, 204<br/>
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20251202T152045Z
+DTSTAMP:20251203T084500Z
 LAST-MODIFIED:20251029T133727Z
 UID:Cours-24098-19-3OMA1RI_(tte_la_journee)-Index-Education
 DTSTART:20260121T123000Z
@@ -37,14 +37,14 @@ SUMMARY;LANGUAGE=fr:3OMA1RI (tte la journée) - CLG - LEIGNEL Christine\, BS
  C - SCHILTZ Benoît - C211\, C212\, C213\, C214\, C311
 DESCRIPTION;LANGUAGE=fr:Matière : 3OMA1RI (tte la journée)\nEnseignants : C
  LG - LEIGNEL Christine\, BSC - SCHILTZ Benoît\nTD : C211\, C212\, C213\, C
- 214\, C311\nSalles : 203\, 204\nType : O\n
+ 214\, C311\nSalles : 203\, 204\n
 X-ALT-DESC;FMTTYPE=text/html:Matière : 3OMA1RI (tte la journée)<br/>Enseign
  ants : CLG - LEIGNEL Christine\, BSC - SCHILTZ Benoît<br/>TD : C211\, C212
- \, C213\, C214\, C311<br/>Salles : 203\, 204<br/>Type : O<br/>
+ \, C213\, C214\, C311<br/>Salles : 203\, 204<br/>
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20251202T152045Z
+DTSTAMP:20251203T084500Z
 LAST-MODIFIED:20251029T134721Z
 UID:Cours-24099-19-3OMA1RI_(tte_la_journee)-Index-Education
 DTSTART:20260122T123000Z
@@ -53,14 +53,14 @@ SUMMARY;LANGUAGE=fr:3OMA1RI (tte la journée) - CLG - LEIGNEL Christine\, BS
  C - SCHILTZ Benoît - C211\, C212\, C213\, C214
 DESCRIPTION;LANGUAGE=fr:Matière : 3OMA1RI (tte la journée)\nEnseignants : C
  LG - LEIGNEL Christine\, BSC - SCHILTZ Benoît\nTD : C211\, C212\, C213\, C
- 214\nSalles : 203\, 204\nType : O\n
+ 214\nSalles : 203\, 204\n
 X-ALT-DESC;FMTTYPE=text/html:Matière : 3OMA1RI (tte la journée)<br/>Enseign
  ants : CLG - LEIGNEL Christine\, BSC - SCHILTZ Benoît<br/>TD : C211\, C212
- \, C213\, C214<br/>Salles : 203\, 204<br/>Type : O<br/>
+ \, C213\, C214<br/>Salles : 203\, 204<br/>
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20251202T152045Z
+DTSTAMP:20251203T084500Z
 LAST-MODIFIED:20251029T134716Z
 UID:Cours-24100-19-3OMA1RI_(tte_la_journee)-Index-Education
 DTSTART:20260123T123000Z
@@ -68,14 +68,13 @@ DTEND:20260123T163000Z
 SUMMARY;LANGUAGE=fr:3OMA1RI (tte la journée) - BSC - SCHILTZ Benoît - C211\
  , C214
 DESCRIPTION;LANGUAGE=fr:Matière : 3OMA1RI (tte la journée)\nEnseignant : BS
- C - SCHILTZ Benoît\nTD : C211\, C214\nSalle : 203\nType : O\n
+ C - SCHILTZ Benoît\nTD : C211\, C214\nSalle : 203\n
 X-ALT-DESC;FMTTYPE=text/html:Matière : 3OMA1RI (tte la journée)<br/>Enseign
- ant : BSC - SCHILTZ Benoît<br/>TD : C211\, C214<br/>Salle : 203<br/>Type :
-  O<br/>
+ ant : BSC - SCHILTZ Benoît<br/>TD : C211\, C214<br/>Salle : 203<br/>
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20251202T152045Z
+DTSTAMP:20251203T084500Z
 UID:Ferie-628-3OMA1RI_(tte_la_journee)-Index-Education
 DTSTART;VALUE=DATE:20251027
 DTEND;VALUE=DATE:20251101
@@ -83,7 +82,7 @@ SUMMARY;LANGUAGE=fr:Vacances
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20251202T152045Z
+DTSTAMP:20251203T084500Z
 UID:Ferie-629-3OMA1RI_(tte_la_journee)-Index-Education
 DTSTART;VALUE=DATE:20251110
 DTEND;VALUE=DATE:20251112
@@ -91,7 +90,7 @@ SUMMARY;LANGUAGE=fr:Vacances
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20251202T152045Z
+DTSTAMP:20251203T084500Z
 UID:Ferie-630-3OMA1RI_(tte_la_journee)-Index-Education
 DTSTART;VALUE=DATE:20251222
 DTEND;VALUE=DATE:20260105
