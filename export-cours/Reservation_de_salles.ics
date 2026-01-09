@@ -1,18 +1,18 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2025
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2026
 METHOD:PUBLISH
 X-CALSTART:20250915T000000Z
 X-CALEND:20260130T000000Z
 X-WR-CALNAME;LANGUAGE=fr:HYP - Réservation de salles - du 15 septembre 2025
   au 30 janvier 2026
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de Réservation de salles généré pa
- r le logiciel HP (©INDEX ÉDUCATION) le 19 déc. 2025 - Haute Ecole Bruxelle
- s Brabant - Département Informatique - valable sur la période du 15 septem
- bre 2025 au 30 janvier 2026 - Semaines : semaine 38 - 5
+ r le logiciel HP (©INDEX ÉDUCATION) le 09 janv. 2026 - Haute Ecole Bruxell
+ es Brabant - Département Informatique - valable sur la période du 15 septe
+ mbre 2025 au 30 janvier 2026 - Semaines : semaine 38 - 5
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20251219T163802Z
+DTSTAMP:20260109T133153Z
 UID:Ferie-628-Reservation_de_salles-Index-Education
 DTSTART;VALUE=DATE:20251027
 DTEND;VALUE=DATE:20251101
@@ -20,7 +20,7 @@ SUMMARY;LANGUAGE=fr:Vacances
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20251219T163802Z
+DTSTAMP:20260109T133153Z
 UID:Ferie-629-Reservation_de_salles-Index-Education
 DTSTART;VALUE=DATE:20251110
 DTEND;VALUE=DATE:20251112
@@ -28,7 +28,7 @@ SUMMARY;LANGUAGE=fr:Vacances
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20251219T163802Z
+DTSTAMP:20260109T133153Z
 UID:Ferie-630-Reservation_de_salles-Index-Education
 DTSTART;VALUE=DATE:20251222
 DTEND;VALUE=DATE:20260105
