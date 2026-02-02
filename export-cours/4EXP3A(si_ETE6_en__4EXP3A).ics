@@ -2,17 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2026
 METHOD:PUBLISH
-X-CALSTART:20260126T000000Z
+X-CALSTART:20260202T000000Z
 X-CALEND:20260320T000000Z
-X-WR-CALNAME;LANGUAGE=fr:HYP - 4EXP3A(si ETE6 en // 4EXP3A) - du 26 janvier
+X-WR-CALNAME;LANGUAGE=fr:HYP - 4EXP3A(si ETE6 en // 4EXP3A) - du 02 février
   au 20 mars 2026
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de 4EXP3A(si ETE6 en // 4EXP3A) gé
- néré par le logiciel HP (©INDEX ÉDUCATION) le 26 janv. 2026 - Haute Ecole 
- Bruxelles Brabant - Département Informatique - valable sur la période du 2
- 6 janvier au 20 mars 2026 - Semaines : semaine 5 - 12
+ néré par le logiciel HP (©INDEX ÉDUCATION) le 02 févr. 2026 - Haute Ecole 
+ Bruxelles Brabant - Département Informatique - valable sur la période du 0
+ 2 février au 20 mars 2026 - Semaines : semaine 6 - 12
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20260126T133054Z
+DTSTAMP:20260202T075131Z
 UID:Ferie-698-4EXP3A(si_ETE6_en__4EXP3A)-Index-Education
 DTSTART;VALUE=DATE:20260222
 DTEND;VALUE=DATE:20260302

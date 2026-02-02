@@ -2,42 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2026
 METHOD:PUBLISH
-X-CALSTART:20260126T000000Z
+X-CALSTART:20260202T000000Z
 X-CALEND:20260320T000000Z
-X-WR-CALNAME;LANGUAGE=fr:HYP - présentations stages Q1 - du 26 janvier au 2
+X-WR-CALNAME;LANGUAGE=fr:HYP - présentations stages Q1 - du 02 février au 2
  0 mars 2026
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de présentations stages Q1 généré 
- par le logiciel HP (©INDEX ÉDUCATION) le 26 janv. 2026 - Haute Ecole Bruxe
- lles Brabant - Département Informatique - valable sur la période du 26 jan
- vier au 20 mars 2026 - Semaines : semaine 5 - 12
+ par le logiciel HP (©INDEX ÉDUCATION) le 02 févr. 2026 - Haute Ecole Bruxe
+ lles Brabant - Département Informatique - valable sur la période du 02 fév
+ rier au 20 mars 2026 - Semaines : semaine 6 - 12
 BEGIN:VEVENT
 CATEGORIES:HYPERPLANNING
-DTSTAMP:20260126T133054Z
-LAST-MODIFIED:20251107T111843Z
-UID:Cours-24078-20-presentations_stages_Q1-Index-Education
-DTSTART:20260128T080000Z
-DTEND:20260128T110000Z
-SUMMARY;LANGUAGE=fr:présentations stages Q1 - ABS - ABSIL Romain\, ZAT - AT
- TAOUIL Zakaria\, BIS - BISCHOP Patrick\, MBO - BODIN Morel\, DBO - BOIGELO
- T Denis\, BCH - CHOQUET Benoît\, JDK - DEKEYSER Justin\, SDR - DROBISZ Séb
- astien\, CLG - LEIGNEL Christine\, DNA - NABET David\, SRE - REXHEP Selim\
- , NVS - VANSTEENKISTE Nicolas
-DESCRIPTION;LANGUAGE=fr:Matière : présentations stages Q1\nEnseignants : AB
- S - ABSIL Romain\, ZAT - ATTAOUIL Zakaria\, BIS - BISCHOP Patrick\, MBO - 
- BODIN Morel\, DBO - BOIGELOT Denis\, BCH - CHOQUET Benoît\, JDK - DEKEYSER
-  Justin\, SDR - DROBISZ Sébastien\, CLG - LEIGNEL Christine\, DNA - NABET 
- David\, SRE - REXHEP Selim\, NVS - VANSTEENKISTE Nicolas\nSalles : 101\, 1
- 02\, 105\n
-X-ALT-DESC;FMTTYPE=text/html:Matière : présentations stages Q1<br/>Enseigna
- nts : ABS - ABSIL Romain\, ZAT - ATTAOUIL Zakaria\, BIS - BISCHOP Patrick\
- , MBO - BODIN Morel\, DBO - BOIGELOT Denis\, BCH - CHOQUET Benoît\, JDK - 
- DEKEYSER Justin\, SDR - DROBISZ Sébastien\, CLG - LEIGNEL Christine\, DNA 
- - NABET David\, SRE - REXHEP Selim\, NVS - VANSTEENKISTE Nicolas<br/>Salle
- s : 101\, 102\, 105<br/>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:HYPERPLANNING
-DTSTAMP:20260126T133054Z
+DTSTAMP:20260202T075131Z
 UID:Ferie-698-presentations_stages_Q1-Index-Education
 DTSTART;VALUE=DATE:20260222
 DTEND;VALUE=DATE:20260302
