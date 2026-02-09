@@ -4,7 +4,7 @@ import ics from 'ics';
 
 
 /**
- * Geenerates ics files for profs, gruopes, salles, cours from the events.json.
+ * Geenerates ics files for profs, groupes, salles, cours from the events.json.
  * Input :  - icalroot, output directory for the ics files
  *          - events.json file path
  * Output : ics files + config file ("calendars.json")
@@ -22,7 +22,8 @@ const config = {
   root: path
     .relative(path.resolve('.'), icalRoot)
     .replace(/\/?$/, '/'), // ensure trailing slash
-  data: {}
+  data: {},
+  transformers: JSON.parse(fs.readFileSync("colors.json"))
 }
 
 /* List of maps with:
@@ -186,5 +187,3 @@ function getDateAsArray(date) {
   date.getHours(),
   date.getMinutes()]
 }
-
-

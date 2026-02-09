@@ -39,6 +39,9 @@ jobs:
         run: |
           node scripts/getEvents.mjs -d export-cours/ >build/events.json
 
+      - name: check presence of colors.json
+        run: |
+          test -f colors.json
 
       - name: generate config and ics files
         run: |
