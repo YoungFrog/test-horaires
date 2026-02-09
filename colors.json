@@ -1,5 +1,5 @@
 [
-    {"regex": "Bilan", "color": "red"},
-    {"regex": "Hackathon", "color": "violet"},
-    {"regex": "SAR", "color": "darkgreen"}
+    {"regex": "Bilan", "color": "#c12424"},
+    {"regex": "Hackathon", "color": "#C012BE"},
+    {"regex": "SAR", "color": "#2799AA"}
 ]
